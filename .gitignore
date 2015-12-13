@@ -63,3 +63,21 @@
 */timing/
 */testbench/
 */*_sim/
+
+
+
+#  http://justacodestory.blogspot.cz/2013/06/how-to-store-quartus-project-in-vcs-on.html
+*.rpt
+*.chg
+*.log
+*.htm
+*.eqn
+*.pin
+*.sof
+*.pof
+*.summary
+*.done
+*.smsg
+*.qws
+*.jdi
+*db
