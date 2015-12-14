@@ -63,6 +63,7 @@
 */timing/
 */testbench/
 */*_sim/
+*/greybox_tmp/
 
 
 
