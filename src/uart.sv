@@ -55,34 +55,5 @@ begin
 
 end
 
-/*
-reg [3:0] s;
-always @(posedge clk_uart)
-begin
-	s <= s+1;
-	case (s)
-	0: tx <= 0;
-	1: tx <= 0; //start bit
-	2: tx <= 0;
-	3: tx <= 0;
-	4: tx <= 0;
-	5: tx <= 0;
-	6: tx <= 0;
-	7: tx <= 1;
-	8: tx <= 0; //msc
-	9: begin tx <= 1; //stop bit
-	s<=0; end
-	//10: tx <= ; // stop bit
-
-	default:
-	 s<=0;
-	endcase
-end
-*/
-
-
-
-
-
 endmodule
 

@@ -1,16 +1,24 @@
-
-module vga
+module vga_gen
 (
-//input	Reset,
-input Clock50,
+	input	Clock50
+);
 
-output reg	HorizontalSync ,//= 1'd0,
-output reg	VerticalSync ,//= 1'd0,
-output reg 	[9:0]	HorizontalCounter ,//= 10'd0,
-output reg 	[9:0]	VerticalCounter ,//= 10'd0,
-output reg	[4:0]	Red ,//= 5'd0,
-output reg	[5:0]	Green ,//= 6'd0,
-output reg	[4:0]	Blue //= 5'd0
+
+endmodule
+
+
+module vga_sync
+(
+	//input	Reset,
+	input Clock50,
+
+	output reg	HorizontalSync ,//= 1'd0,
+	output reg	VerticalSync ,//= 1'd0,
+	output reg 	[9:0]	HorizontalCounter ,//= 10'd0,
+	output reg 	[9:0]	VerticalCounter //,//= 10'd0,
+	//output reg	[4:0]	Red ,//= 5'd0,
+	//output reg	[5:0]	Green ,//= 6'd0,
+	//output reg	[4:0]	Blue //= 5'd0
 );
 
 reg Clock25 ;//= 1'd0;
@@ -29,10 +37,6 @@ end
 always @(posedge Clock25)
 begin
 	HorizontalCounter <= HorizontalCounter + 1'b1;
-	if (HorizontalCounter< 600)
-		Red <= HorizontalCounter;
-		else
-		Red <= 5'd0;
 	case (HorizontalCounter)
 		10'd656:
 			HorizontalSync <= 0;
