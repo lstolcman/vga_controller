@@ -3,70 +3,47 @@
 
 module char_gen
 (
-	input					clock25,
-	input			[95:0]data_in,
-	input			[9:0]	HorizontalCounter,
-	input			[9:0]	VerticalCounter,
-	output	reg[6:0]	address = 7'd5,
-	output 	reg		Pixel
-	/*output	reg[4:0]	Red = 5'd0,
-	output	reg[5:0]	Green = 6'd0,
-	output	reg[4:0]	Blue = 5'd0*/
+	input							clock25,
+	input				[95:0]	data_in,
+	input				[9:0]		HorizontalCounter,
+	input				[9:0]		VerticalCounter,
+
+	output	reg	[6:0]		address,
+	output 	reg				Pixel
 );
 
 reg [7:0] line;
 reg[2:0] i;
-//reg [95:0] data_in1 = 96'h001038440438404438100000; // $
-//reg [95:0] data_in1 = 96'h00000000FC4242427C40403C; // g
-reg [95:0] data_in1 = 96'h000000003C407C4242BC0000; // a
+reg [95:0] data;
 
 always @(posedge clock25)
 begin
-	
-	
-	//line <= 7'b11110000;
-	/*if (HorizontalCounter < 640)
-	begin
-	
-		if (HorizontalCounter % 8 == 0)
-		begin
-			
-		end
 		
-	end
-	else
-	begin
-		line <= 8'd0;
-	end
+	data <= data_in;
+
+	address<=70;
 	
-	
-*/
-	address <= 74;
-	data_in1 <= data_in;
 	case (VerticalCounter % 12)
-		10'd0: line <= data_in1[95:88];
-		10'd1: line <= data_in1[87:80];
-		10'd2: line <= data_in1[79:72];
-		10'd3: line <= data_in1[71:64];
-		10'd4: line <= data_in1[63:56];
-		10'd5: line <= data_in1[55:48];
-		10'd6: line <= data_in1[47:40];
-		10'd7: line <= data_in1[39:32];
-		10'd8: line <= data_in1[31:24];
-		10'd9: line <= data_in1[23:16];
-		10'd10: line <= data_in1[15:8];
-		10'd11: line <= data_in1[7:0];
+		10'd0: line <= data[95:88];
+		10'd1: line <= data[87:80];
+		10'd2: line <= data[79:72];
+		10'd3: line <= data[71:64];
+		10'd4: line <= data[63:56];
+		10'd5: line <= data[55:48];
+		10'd6: line <= data[47:40];
+		10'd7: line <= data[39:32];
+		10'd8: line <= data[31:24];
+		10'd9: line <= data[23:16];
+		10'd10: line <= data[15:8];
+		10'd11: line <= data[7:0];
 
 	endcase
 
 
-
-	// displaying pixels in correct syncs
-	if (VerticalCounter < 480 && HorizontalCounter < 640)
+	if (VerticalCounter < 480 && HorizontalCounter < 640 )
 	begin
 		Pixel <= line[i];
 		i<=i+1;
-		//line <= {line[0], line[7:1]};	
 	end
 	else
 	begin
@@ -92,21 +69,15 @@ module char_memory
 );
 
 
-reg [95:0] memory [0:127]; // 96 bit memory(8x12 font) with 95 entries
+reg [95:0] memory [0:127]; // memory with 128 entries of 96 bit(8x12 font)
+assign data_out = memory[address];
 
 initial
 begin
 	$readmemh("src/char_array3.txt", memory);
 end
 
-always @(*)
-begin
-	if (address < 7'd95)
-		data_out = memory[address];
-	else
-		data_out = memory[7'd94];
-end
-//assign data_out = memory[address];
+
 
 endmodule
 

@@ -4,61 +4,59 @@ module vga_clk_gen
 	output Clock25 = 0
 );
 
-//clock divide to 25MHz
 always @(posedge Clock50)
 begin
 	Clock25 <= ~Clock25;
 end
 
+
 endmodule
+
+
 
 
 module vga_sync
 (
-	//input	Reset,
 	input Clock25,
 
-	output reg	HorizontalSync ,//= 1'd0,
-	output reg	VerticalSync ,//= 1'd0,
-	output reg 	[9:0]	HorizontalCounter ,//= 10'd0,
-	output reg 	[9:0]	VerticalCounter //,//= 10'd0,
-	//output reg	[4:0]	Red ,//= 5'd0,
-	//output reg	[5:0]	Green ,//= 6'd0,
-	//output reg	[4:0]	Blue //= 5'd0
+	output reg	HorizontalSync,
+	output reg	VerticalSync,
+	output reg 	[9:0]	HorizontalCounter,
+	output reg 	[9:0]	VerticalCounter
 );
 
 
 
-
-//Horizontal pulses generation
+/*
+https://eewiki.net/pages/viewpage.action?pageId=15925278
+*/
 always @(posedge Clock25)
 begin
+
 	HorizontalCounter <= HorizontalCounter + 1'b1;
+	
 	case (HorizontalCounter)
-		10'd656:
+		10'd656-1:
 			HorizontalSync <= 0;
-		10'd752:
+		10'd752-1:
 			HorizontalSync <= 1;
-		10'd800:
+		10'd800-1:
 			begin
-				HorizontalCounter <= 1;
+				HorizontalCounter <= 0;
 				VerticalCounter <= VerticalCounter + 1;
-				if (VerticalCounter > 10'd524)
-					VerticalCounter <= 1;
+				if (VerticalCounter >= 10'd524)
+					VerticalCounter <= 0;
 			end
 	endcase
 
-end
-
-//Vertical pulses generation
-always @(posedge Clock25)
-begin
-
 	case (VerticalCounter)
-		10'd490: VerticalSync <= 1'b0;
-		10'd492: VerticalSync <= 1'b1;
+		10'd490-1: VerticalSync <= 1'b0;
+		10'd492-1: VerticalSync <= 1'b1;
 	endcase
+	
 end
+
+
 
 endmodule
 
