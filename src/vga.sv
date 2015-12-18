@@ -1,8 +1,14 @@
-module vga_gen
+module vga_clk_gen
 (
-	input	Clock50
+	input	Clock50,
+	output Clock25 = 0
 );
 
+//clock divide to 25MHz
+always @(posedge Clock50)
+begin
+	Clock25 <= ~Clock25;
+end
 
 endmodule
 
@@ -10,7 +16,7 @@ endmodule
 module vga_sync
 (
 	//input	Reset,
-	input Clock50,
+	input Clock25,
 
 	output reg	HorizontalSync ,//= 1'd0,
 	output reg	VerticalSync ,//= 1'd0,
@@ -21,16 +27,7 @@ module vga_sync
 	//output reg	[4:0]	Blue //= 5'd0
 );
 
-reg Clock25 ;//= 1'd0;
 
-//clock divide to 25MHz
-always @(posedge Clock50)
-begin
-	//if (!Reset)
-	//	Clock25 <= 0;
-	//else
-		Clock25 <= ~Clock25;
-end
 
 
 //Horizontal pulses generation
