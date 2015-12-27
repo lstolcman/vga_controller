@@ -62,7 +62,7 @@ endmodule
 
 
 
-module char_memory
+module font_rom
 (
 	input [6:0] address,
 	output reg [95:0] data_out
