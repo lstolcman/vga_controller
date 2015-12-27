@@ -122,6 +122,23 @@ agreement for further details.
 	)
 	(annotation_block (location)(rect 1048 408 1104 424))
 )
+(pin
+	(output)
+	(rect 440 72 616 88)
+	(text "OUTPUT" (rect 1 0 39 10)(font "Arial" (font_size 6)))
+	(text "TX[2]" (rect 90 0 114 12)(font "Arial" ))
+	(pt 0 8)
+	(drawing
+		(line (pt 0 8)(pt 52 8))
+		(line (pt 52 4)(pt 78 4))
+		(line (pt 52 12)(pt 78 12))
+		(line (pt 52 12)(pt 52 4))
+		(line (pt 78 4)(pt 82 8))
+		(line (pt 82 8)(pt 78 12))
+		(line (pt 78 12)(pt 82 8))
+	)
+	(annotation_block (location)(rect 624 72 680 88))
+)
 (symbol
 	(rect 808 48 840 64)
 	(text "VCC" (rect 7 0 27 10)(font "Arial" (font_size 6)))
@@ -138,7 +155,7 @@ agreement for further details.
 	)
 )
 (symbol
-	(rect 688 48 720 80)
+	(rect 760 48 792 80)
 	(text "GND" (rect 8 16 29 26)(font "Arial" (font_size 6)))
 	(text "inst4" (rect 3 21 26 33)(font "Arial" )(invisible))
 	(port
@@ -256,7 +273,7 @@ agreement for further details.
 	)
 )
 (symbol
-	(rect 224 160 392 240)
+	(rect 248 160 416 240)
 	(text "vga_clk_gen" (rect 5 0 67 12)(font "Arial" ))
 	(text "inst6" (rect 8 64 31 76)(font "Arial" ))
 	(port
@@ -325,6 +342,28 @@ agreement for further details.
 	)
 	(drawing
 		(rectangle (rect 16 16 224 96))
+	)
+)
+(symbol
+	(rect 264 48 400 128)
+	(text "uart" (rect 5 0 23 12)(font "Arial" ))
+	(text "inst2" (rect 8 64 31 76)(font "Arial" ))
+	(port
+		(pt 0 32)
+		(input)
+		(text "clock50" (rect 0 0 37 12)(font "Arial" ))
+		(text "clock50" (rect 21 27 58 39)(font "Arial" ))
+		(line (pt 0 32)(pt 16 32))
+	)
+	(port
+		(pt 136 32)
+		(output)
+		(text "tx" (rect 0 0 9 12)(font "Arial" ))
+		(text "tx" (rect 108 27 117 39)(font "Arial" ))
+		(line (pt 136 32)(pt 120 32))
+	)
+	(drawing
+		(rectangle (rect 16 16 120 64))
 	)
 )
 (connector
@@ -435,18 +474,6 @@ agreement for further details.
 	(pt 24 264)
 )
 (connector
-	(pt 432 264)
-	(pt 432 192)
-)
-(connector
-	(pt 432 192)
-	(pt 392 192)
-)
-(connector
-	(pt 192 192)
-	(pt 224 192)
-)
-(connector
 	(pt 304 528)
 	(pt 392 528)
 )
@@ -454,4 +481,33 @@ agreement for further details.
 	(pt 304 544)
 	(pt 392 544)
 )
+(connector
+	(pt 432 264)
+	(pt 432 192)
+)
+(connector
+	(pt 432 192)
+	(pt 416 192)
+)
+(connector
+	(pt 216 192)
+	(pt 216 80)
+)
+(connector
+	(pt 216 80)
+	(pt 264 80)
+)
+(connector
+	(pt 192 192)
+	(pt 216 192)
+)
+(connector
+	(pt 216 192)
+	(pt 248 192)
+)
+(connector
+	(pt 400 80)
+	(pt 440 80)
+)
 (junction (pt 24 320))
+(junction (pt 216 192))
