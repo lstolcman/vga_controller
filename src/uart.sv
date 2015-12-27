@@ -61,3 +61,72 @@ end
 
 endmodule
 
+
+
+module uartr
+(
+	input clock50,
+	input rx,
+	
+	output reg [7:0] char = 0,
+	output reg en = 0
+);
+
+
+reg start = 0;
+reg [3:0] bitcnt = 0;
+reg [15:0] cnt = 0;
+reg rx_sync1, rx_sync2, rxd;
+
+// speed: 115200*2
+assign clk_uartr = cnt[15];
+
+// if rx = startbit -> enable counting
+always @(posedge clock50)
+begin
+
+	if (!start)
+		cnt <= 0;
+	else
+		cnt <= cnt+302;
+
+end
+
+always @(posedge clock50)
+begin
+	rx_sync1 <= rx;
+	rx_sync2 <= rx_sync1;
+	rxd <= rx_sync2;
+end
+
+always @(posedge clk_uartr)
+	bitcnt <= bitcnt+1;
+
+
+always @(posedge clock50)
+begin
+	
+	if (!start && rxd == 0)
+	begin
+		start <= 1;
+	end
+	
+	case (bitcnt)
+		3: char[7]<=rxd;//lsb
+		5: char[6]<=rxd;//
+		7: char[5]<=rxd;//
+		9: char[4]<=rxd;//
+		11: char[3]<=rxd;//
+		13: char[2]<=rxd;//
+		15: char[1]<=rxd;//
+		17: char[0]<=rxd;// msb
+		19: if (rxd == 1) en<=1;// stopbit
+	endcase
+
+end
+
+
+
+endmodule
+
+

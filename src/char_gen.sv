@@ -1,3 +1,73 @@
+module coord_gen
+(
+	input		[9:0]		HorizontalCounter,
+	input		[9:0]		VerticalCounter,
+	
+	output	[6:0]	y,
+	output	[6:0] x
+);
+
+assign x = (HorizontalCounter < 640) ? (HorizontalCounter/8):0;
+assign y = (VerticalCounter < 480) ? (VerticalCounter/12):0;
+
+endmodule
+
+
+module screen_memory
+(
+	input		[6:0]	x,
+	input		[6:0]	y,
+	
+	output	[6:0]	char
+);
+
+
+reg [7:0] memory [3599:0];  // memory with 3599 entries of 8 bit characters
+
+
+assign char = memory[x*80+y];
+
+
+initial
+begin
+	integer i;
+	for (i=0;i<3600;i=i+1)
+	begin
+		memory[i] = (i%60)+32;
+	end
+	
+	//memory[164] = 70;
+end
+
+/*
+always @(*)
+begin
+
+	if (VerticalCounter < 48 && HorizontalCounter < 64)
+		char <= 70;
+	else char <= 0;
+
+end
+*/
+
+endmodule
+
+
+
+
+module char_controller
+(
+	input							clock25,
+	input				[9:0]		HorizontalCounter,
+	input				[9:0]		VerticalCounter,
+
+	output 	reg	[6:0]		address = 0
+);
+
+
+
+endmodule
+
 
 
 
@@ -8,20 +78,17 @@ module char_gen
 	input				[9:0]		HorizontalCounter,
 	input				[9:0]		VerticalCounter,
 
-	output	reg	[6:0]		address,
-	output 	reg				Pixel
+	output 	reg				Pixel = 0
 );
 
-reg [7:0] line;
-reg[2:0] i;
-reg [95:0] data;
+reg [7:0] line = 0;
+reg[2:0] i = 0;
+reg [95:0] data = 0;
 
 always @(posedge clock25)
 begin
 		
 	data <= data_in;
-
-	address<=70;
 	
 	case (VerticalCounter % 12)
 		10'd0: line <= data[95:88];
@@ -40,7 +107,7 @@ begin
 	endcase
 
 
-	if (VerticalCounter < 480 && HorizontalCounter < 640 )
+	if (VerticalCounter < 480 && HorizontalCounter < 640)
 	begin
 		Pixel <= line[i];
 		i<=i+1;
@@ -65,7 +132,7 @@ endmodule
 module char_memory
 (
 	input [6:0] address,
-	output reg [95:0] data_out
+	output [95:0] data_out
 );
 
 
@@ -75,6 +142,7 @@ assign data_out = memory[address];
 initial
 begin
 	$readmemh("src/char_array3.txt", memory);
+	//address<=70;
 end
 
 

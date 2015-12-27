@@ -1,7 +1,7 @@
 module vga_clk_gen
 (
 	input	Clock50,
-	output Clock25 = 0
+	output reg Clock25 = 0
 );
 
 always @(posedge Clock50)
@@ -19,10 +19,10 @@ module vga_sync
 (
 	input Clock25,
 
-	output reg	HorizontalSync,
-	output reg	VerticalSync,
-	output reg 	[9:0]	HorizontalCounter,
-	output reg 	[9:0]	VerticalCounter
+	output reg	HorizontalSync = 0,
+	output reg	VerticalSync = 0,
+	output reg 	[9:0]	HorizontalCounter = 0,
+	output reg 	[9:0]	VerticalCounter = 0
 );
 
 
