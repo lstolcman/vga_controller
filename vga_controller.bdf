@@ -73,7 +73,7 @@ agreement for further details.
 )
 (pin
 	(output)
-	(rect 864 424 1040 440)
+	(rect 928 424 1104 440)
 	(text "OUTPUT" (rect 1 0 39 10)(font "Arial" (font_size 6)))
 	(text "VGA_G[5..0]" (rect 90 0 152 12)(font "Arial" ))
 	(pt 0 8)
@@ -86,11 +86,11 @@ agreement for further details.
 		(line (pt 82 8)(pt 78 12))
 		(line (pt 78 12)(pt 82 8))
 	)
-	(annotation_block (location)(rect 1048 424 1104 440))
+	(annotation_block (location)(rect 1112 424 1168 440))
 )
 (pin
 	(output)
-	(rect 864 440 1040 456)
+	(rect 928 440 1104 456)
 	(text "OUTPUT" (rect 1 0 39 10)(font "Arial" (font_size 6)))
 	(text "VGA_B[4..0]" (rect 90 0 151 12)(font "Arial" ))
 	(pt 0 8)
@@ -103,11 +103,11 @@ agreement for further details.
 		(line (pt 82 8)(pt 78 12))
 		(line (pt 78 12)(pt 82 8))
 	)
-	(annotation_block (location)(rect 1048 440 1104 456))
+	(annotation_block (location)(rect 1112 440 1168 456))
 )
 (pin
 	(output)
-	(rect 864 408 1040 424)
+	(rect 928 408 1104 424)
 	(text "OUTPUT" (rect 1 0 39 10)(font "Arial" (font_size 6)))
 	(text "VGA_R[4..0]" (rect 90 0 152 12)(font "Arial" ))
 	(pt 0 8)
@@ -120,7 +120,7 @@ agreement for further details.
 		(line (pt 82 8)(pt 78 12))
 		(line (pt 78 12)(pt 82 8))
 	)
-	(annotation_block (location)(rect 1048 408 1104 424))
+	(annotation_block (location)(rect 1112 408 1168 424))
 )
 (pin
 	(output)
@@ -172,7 +172,7 @@ agreement for further details.
 	)
 )
 (symbol
-	(rect 680 384 840 496)
+	(rect 720 384 904 496)
 	(text "pix_to_rgb" (rect 5 0 55 12)(font "Arial" ))
 	(text "inst" (rect 8 96 25 108)(font "Arial" ))
 	(port
@@ -183,34 +183,41 @@ agreement for further details.
 		(line (pt 0 32)(pt 16 32))
 	)
 	(port
-		(pt 160 32)
+		(pt 0 48)
+		(input)
+		(text "video_on" (rect 0 0 44 12)(font "Arial" ))
+		(text "video_on" (rect 21 43 65 55)(font "Arial" ))
+		(line (pt 0 48)(pt 16 48))
+	)
+	(port
+		(pt 184 32)
 		(output)
 		(text "Red[4..0]" (rect 0 0 46 12)(font "Arial" ))
-		(text "Red[4..0]" (rect 101 27 139 39)(font "Arial" ))
-		(line (pt 160 32)(pt 144 32)(line_width 3))
+		(text "Red[4..0]" (rect 125 27 163 39)(font "Arial" ))
+		(line (pt 184 32)(pt 168 32)(line_width 3))
 	)
 	(port
-		(pt 160 48)
+		(pt 184 48)
 		(output)
 		(text "Green[5..0]" (rect 0 0 55 12)(font "Arial" ))
-		(text "Green[5..0]" (rect 93 43 139 55)(font "Arial" ))
-		(line (pt 160 48)(pt 144 48)(line_width 3))
+		(text "Green[5..0]" (rect 117 43 163 55)(font "Arial" ))
+		(line (pt 184 48)(pt 168 48)(line_width 3))
 	)
 	(port
-		(pt 160 64)
+		(pt 184 64)
 		(output)
 		(text "Blue[4..0]" (rect 0 0 47 12)(font "Arial" ))
-		(text "Blue[4..0]" (rect 100 59 139 71)(font "Arial" ))
-		(line (pt 160 64)(pt 144 64)(line_width 3))
+		(text "Blue[4..0]" (rect 124 59 163 71)(font "Arial" ))
+		(line (pt 184 64)(pt 168 64)(line_width 3))
 	)
 	(drawing
-		(rectangle (rect 16 16 144 96))
+		(rectangle (rect 16 16 168 96))
 	)
 )
 (symbol
-	(rect 64 216 288 328)
+	(rect 64 216 288 360)
 	(text "vga_sync" (rect 5 0 54 12)(font "Arial" ))
-	(text "inst5" (rect 8 96 31 108)(font "Arial" ))
+	(text "inst5" (rect 8 128 31 140)(font "Arial" ))
 	(port
 		(pt 0 32)
 		(input)
@@ -235,19 +242,26 @@ agreement for further details.
 	(port
 		(pt 224 64)
 		(output)
-		(text "HorizontalCounter[9..0]" (rect 0 0 113 12)(font "Arial" ))
-		(text "HorizontalCounter[9..0]" (rect 108 59 203 71)(font "Arial" ))
-		(line (pt 224 64)(pt 208 64)(line_width 3))
+		(text "Video_on" (rect 0 0 44 12)(font "Arial" ))
+		(text "Video_on" (rect 166 59 203 71)(font "Arial" ))
+		(line (pt 224 64)(pt 208 64))
 	)
 	(port
 		(pt 224 80)
 		(output)
-		(text "VerticalCounter[9..0]" (rect 0 0 101 12)(font "Arial" ))
-		(text "VerticalCounter[9..0]" (rect 118 75 203 87)(font "Arial" ))
+		(text "HorizontalCounter[9..0]" (rect 0 0 113 12)(font "Arial" ))
+		(text "HorizontalCounter[9..0]" (rect 108 75 203 87)(font "Arial" ))
 		(line (pt 224 80)(pt 208 80)(line_width 3))
 	)
+	(port
+		(pt 224 96)
+		(output)
+		(text "VerticalCounter[9..0]" (rect 0 0 101 12)(font "Arial" ))
+		(text "VerticalCounter[9..0]" (rect 118 91 203 103)(font "Arial" ))
+		(line (pt 224 96)(pt 208 96)(line_width 3))
+	)
 	(drawing
-		(rectangle (rect 16 16 208 96))
+		(rectangle (rect 16 16 208 128))
 	)
 )
 (symbol
@@ -359,7 +373,7 @@ agreement for further details.
 		(pt 216 32)
 		(output)
 		(text "data_out[95..0]" (rect 0 0 74 12)(font "Arial" ))
-		(text "data_out[95..0]" (rect 133 27 207 39)(font "Arial" ))
+		(text "data_out[95..0]" (rect 133 27 195 39)(font "Arial" ))
 		(line (pt 216 32)(pt 200 32)(line_width 3))
 	)
 	(drawing
@@ -407,28 +421,9 @@ agreement for further details.
 	(pt -40 200)
 )
 (connector
-	(pt 864 416)
-	(pt 840 416)
-	(bus)
-)
-(connector
-	(pt 864 432)
-	(pt 840 432)
-	(bus)
-)
-(connector
-	(pt 864 448)
-	(pt 840 448)
-	(bus)
-)
-(connector
 	(pt 336 448)
 	(pt 408 448)
 	(bus)
-)
-(connector
-	(pt 648 416)
-	(pt 680 416)
 )
 (connector
 	(pt 648 400)
@@ -441,18 +436,8 @@ agreement for further details.
 	(bus)
 )
 (connector
-	(pt 336 296)
-	(pt 288 296)
-	(bus)
-)
-(connector
 	(pt -40 248)
 	(pt 64 248)
-)
-(connector
-	(pt 336 448)
-	(pt 336 296)
-	(bus)
 )
 (connector
 	(pt 288 248)
@@ -465,16 +450,6 @@ agreement for further details.
 (connector
 	(pt 408 432)
 	(pt 360 432)
-	(bus)
-)
-(connector
-	(pt 288 280)
-	(pt 360 280)
-	(bus)
-)
-(connector
-	(pt 360 432)
-	(pt 360 280)
 	(bus)
 )
 (connector
@@ -516,6 +491,57 @@ agreement for further details.
 	(pt 32 496)
 	(pt 32 416)
 	(bus)
+)
+(connector
+	(pt 336 312)
+	(pt 336 448)
+	(bus)
+)
+(connector
+	(pt 336 312)
+	(pt 288 312)
+	(bus)
+)
+(connector
+	(pt 360 296)
+	(pt 360 432)
+	(bus)
+)
+(connector
+	(pt 360 296)
+	(pt 288 296)
+	(bus)
+)
+(connector
+	(pt 928 416)
+	(pt 904 416)
+	(bus)
+)
+(connector
+	(pt 928 432)
+	(pt 904 432)
+	(bus)
+)
+(connector
+	(pt 928 448)
+	(pt 904 448)
+	(bus)
+)
+(connector
+	(pt 648 416)
+	(pt 720 416)
+)
+(connector
+	(pt 288 280)
+	(pt 696 280)
+)
+(connector
+	(pt 696 280)
+	(pt 696 432)
+)
+(connector
+	(pt 720 432)
+	(pt 696 432)
 )
 (junction (pt 216 56))
 (junction (pt -40 248))

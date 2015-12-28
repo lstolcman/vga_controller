@@ -21,11 +21,12 @@ module vga_sync
 
 	output reg	HorizontalSync,
 	output reg	VerticalSync,
+	output reg	Video_on,
 	output reg 	[9:0]	HorizontalCounter,
 	output reg 	[9:0]	VerticalCounter
 );
 
-
+assign Video_on = ((HorizontalCounter <= 640) && (VerticalCounter<=480));
 
 /*
 https://eewiki.net/pages/viewpage.action?pageId=15925278
@@ -43,6 +44,7 @@ begin
 		10'd800-1:
 			begin
 				HorizontalCounter <= 0;
+				
 				VerticalCounter <= VerticalCounter + 1;
 				if (VerticalCounter >= 10'd524)
 					VerticalCounter <= 0;
