@@ -1,19 +1,30 @@
-
-
-
 module char_gen
+(
+	input clock100,
+	
+	output reg [6:0] address
+);
+	
+
+always @(posedge clock100)
+begin
+	address <= 70;
+end
+
+endmodule
+
+module pixel_gen
 (
 	input							clock25,
 	input				[95:0]	data_in,
 	input				[9:0]		HorizontalCounter,
 	input				[9:0]		VerticalCounter,
 
-	output	reg	[6:0]		address,
 	output 	reg				Pixel
 );
 
 reg [7:0] line;
-reg[2:0] i;
+reg [2:0] i;
 reg [95:0] data;
 
 always @(posedge clock25)
@@ -21,7 +32,6 @@ begin
 		
 	data <= data_in;
 
-	address<=70;
 	
 	case (VerticalCounter % 12)
 		10'd0: line <= data[95:88];
