@@ -60,30 +60,6 @@ endmodule
 
 
 
-
-
-module font_rom
-(
-	input [6:0] address,
-	output reg [95:0] data_out
-);
-
-
-reg [95:0] memory [0:127]; // memory with 128 entries of 96 bit(8x12 font)
-assign data_out = memory[address];
-
-initial
-begin
-	$readmemh("src/char_array3.txt", memory);
-end
-
-
-
-endmodule
-
-
-
-
 module pix_to_rgb
 (
 	input					pix,
