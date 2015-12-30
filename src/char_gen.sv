@@ -1,7 +1,9 @@
 module char_gen
 (
 	input clock100,
-	
+	input				[9:0]		HorizontalCounter,
+	input				[9:0]		VerticalCounter,
+
 	output reg [6:0] address
 );
 	

@@ -1,18 +1,18 @@
 module uart
 (
-	input clock50,
+	input clock100,
 	output reg tx = 0
 );
 
 
-reg [15:0] cnt = 0;
+reg [19:0] cnt = 0;
 
 
-assign clk_uart = cnt[15];
+assign clk_uart = cnt[19];
 // speed: 115200 
-always @(posedge clock50)
+always @(posedge clock100)
 begin
-	cnt <= cnt + 151;
+	cnt <= cnt + 1208;
 end
 
 
