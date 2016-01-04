@@ -1,22 +1,40 @@
+
+
+module ram_rom_if
+(
+	input [7:0] in,
+	output [6:0] out
+);
+
+assign out = in[6:0];
+
+endmodule
+
+
 module char_gen
 (
 	input clock100,
 	input				[9:0]		HorizontalCounter,
 	input				[9:0]		VerticalCounter,
 
-	output reg [6:0] address
+	output reg [11:0] address
 );
-	
 
+/*
 always @(posedge clock100)
 begin
 	address <= 70;
 end
+*/
+
+assign address = (VerticalCounter/12)*80+(HorizontalCounter/8);
+
 
 endmodule
 
 module pixel_gen
 (
+input							clock100,
 	input							clock25,
 
 	input				[9:0]		HorizontalCounter,
@@ -30,11 +48,10 @@ reg [7:0] line;
 reg [2:0] i;
 reg [95:0] data;
 
-always @(posedge clock25)
+always @(posedge clock100)
 begin
 		
 	data <= data_in;
-
 	
 	case (VerticalCounter % 12)
 		10'd0: line <= data[95:88];
@@ -51,17 +68,22 @@ begin
 		10'd11: line <= data[7:0];
 
 	endcase
+	
+end
 
 
+always @(posedge clock25)
+begin
+		
 	if (VerticalCounter < 480 && HorizontalCounter < 640 )
 	begin
 		Pixel <= line[i];
-		i<=i+1;
+		i <= i+1;
 	end
 	else
 	begin
 		Pixel <= 0;
-		i<=0;
+		i <= 0;
 	end
 		
 	
