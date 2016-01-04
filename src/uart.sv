@@ -1,18 +1,31 @@
 module uart
 (
 	input clock100,
+	input [7:0] data_in,
+	input data_ready,
 	output reg tx = 0
 );
 
 
 reg [19:0] cnt = 0;
-
+reg data_ready_s1;
+reg data_ready_s2;
+reg data_r;
 
 assign clk_uart = cnt[19];
 // speed: 115200 
 always @(posedge clock100)
 begin
 	cnt <= cnt + 1208;
+	data_ready_s1 <= data_ready;
+	data_ready_s2 <= data_ready_s1;
+	if (state == S1)
+		data_r <= 0;
+	else
+	begin
+		if (data_ready_s2 == 1)
+			data_r <= 1;
+	end
 end
 
 
@@ -30,7 +43,11 @@ begin
 		S0: // idle
 			begin
 				tx <= 1;
-				state <= S1;
+				if (data_r)
+				begin
+					data <= data_in;
+					state <= S1;
+				end
 			end
 		S1: // start bit
 			begin
