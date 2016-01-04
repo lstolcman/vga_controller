@@ -70,7 +70,7 @@ agreement for further details.
 )
 (pin
 	(output)
-	(rect 1200 312 1376 328)
+	(rect 1200 296 1376 312)
 	(text "OUTPUT" (rect 1 0 39 10)(font "Arial" (font_size 6)))
 	(text "VGA_G[5..0]" (rect 90 0 152 12)(font "Arial" ))
 	(pt 0 8)
@@ -86,7 +86,7 @@ agreement for further details.
 )
 (pin
 	(output)
-	(rect 1200 328 1376 344)
+	(rect 1200 312 1376 328)
 	(text "OUTPUT" (rect 1 0 39 10)(font "Arial" (font_size 6)))
 	(text "VGA_B[4..0]" (rect 90 0 151 12)(font "Arial" ))
 	(pt 0 8)
@@ -102,7 +102,7 @@ agreement for further details.
 )
 (pin
 	(output)
-	(rect 1200 296 1376 312)
+	(rect 1200 280 1376 296)
 	(text "OUTPUT" (rect 1 0 39 10)(font "Arial" (font_size 6)))
 	(text "VGA_R[4..0]" (rect 90 0 152 12)(font "Arial" ))
 	(pt 0 8)
@@ -165,21 +165,21 @@ agreement for further details.
 	)
 )
 (symbol
-	(rect 992 272 1176 384)
+	(rect 992 256 1176 368)
 	(text "pix_to_rgb" (rect 5 0 55 12)(font "Arial" ))
 	(text "inst" (rect 8 96 25 108)(font "Arial" ))
 	(port
 		(pt 0 32)
 		(input)
-		(text "pix" (rect 0 0 14 12)(font "Arial" ))
-		(text "pix" (rect 21 27 35 39)(font "Arial" ))
+		(text "video_on" (rect 0 0 44 12)(font "Arial" ))
+		(text "video_on" (rect 21 27 65 39)(font "Arial" ))
 		(line (pt 0 32)(pt 16 32))
 	)
 	(port
 		(pt 0 48)
 		(input)
-		(text "video_on" (rect 0 0 44 12)(font "Arial" ))
-		(text "video_on" (rect 21 43 65 55)(font "Arial" ))
+		(text "pix" (rect 0 0 14 12)(font "Arial" ))
+		(text "pix" (rect 21 43 35 55)(font "Arial" ))
 		(line (pt 0 48)(pt 16 48))
 	)
 	(port
@@ -394,7 +394,7 @@ agreement for further details.
 	)
 )
 (symbol
-	(rect 568 320 776 432)
+	(rect 576 336 784 448)
 	(text "pixel_gen" (rect 5 0 51 12)(font "Arial" ))
 	(text "inst8" (rect 8 96 31 108)(font "Arial" ))
 	(port
@@ -407,22 +407,22 @@ agreement for further details.
 	(port
 		(pt 0 48)
 		(input)
-		(text "data_in[95..0]" (rect 0 0 67 12)(font "Arial" ))
-		(text "data_in[95..0]" (rect 21 43 88 55)(font "Arial" ))
+		(text "HorizontalCounter[9..0]" (rect 0 0 113 12)(font "Arial" ))
+		(text "HorizontalCounter[9..0]" (rect 21 43 134 55)(font "Arial" ))
 		(line (pt 0 48)(pt 16 48)(line_width 3))
 	)
 	(port
 		(pt 0 64)
 		(input)
-		(text "HorizontalCounter[9..0]" (rect 0 0 113 12)(font "Arial" ))
-		(text "HorizontalCounter[9..0]" (rect 21 59 134 71)(font "Arial" ))
+		(text "VerticalCounter[9..0]" (rect 0 0 101 12)(font "Arial" ))
+		(text "VerticalCounter[9..0]" (rect 21 59 122 71)(font "Arial" ))
 		(line (pt 0 64)(pt 16 64)(line_width 3))
 	)
 	(port
 		(pt 0 80)
 		(input)
-		(text "VerticalCounter[9..0]" (rect 0 0 101 12)(font "Arial" ))
-		(text "VerticalCounter[9..0]" (rect 21 75 122 87)(font "Arial" ))
+		(text "data_in[95..0]" (rect 0 0 67 12)(font "Arial" ))
+		(text "data_in[95..0]" (rect 21 75 88 87)(font "Arial" ))
 		(line (pt 0 80)(pt 16 80)(line_width 3))
 	)
 	(port
@@ -493,33 +493,6 @@ agreement for further details.
 	(pt -40 8)
 )
 (connector
-	(pt 1200 304)
-	(pt 1176 304)
-	(bus)
-)
-(connector
-	(pt 1200 320)
-	(pt 1176 320)
-	(bus)
-)
-(connector
-	(pt 1200 336)
-	(pt 1176 336)
-	(bus)
-)
-(connector
-	(pt 992 304)
-	(pt 976 304)
-)
-(connector
-	(pt 992 320)
-	(pt 944 320)
-)
-(connector
-	(pt 944 320)
-	(pt 944 288)
-)
-(connector
 	(pt -40 336)
 	(pt -24 336)
 )
@@ -536,10 +509,6 @@ agreement for further details.
 	(pt 272 336)
 )
 (connector
-	(pt 944 288)
-	(pt 528 288)
-)
-(connector
 	(pt 200 368)
 	(pt 528 368)
 )
@@ -548,34 +517,8 @@ agreement for further details.
 	(pt 528 368)
 )
 (connector
-	(pt 544 352)
-	(pt 568 352)
-)
-(connector
-	(pt 544 200)
-	(pt 544 352)
-)
-(connector
-	(pt 544 368)
-	(pt 568 368)
-	(bus)
-)
-(connector
 	(pt 744 8)
 	(pt 784 8)
-)
-(connector
-	(pt 976 352)
-	(pt 776 352)
-)
-(connector
-	(pt 976 304)
-	(pt 976 352)
-)
-(connector
-	(pt 544 368)
-	(pt 544 552)
-	(bus)
 )
 (connector
 	(pt 544 552)
@@ -609,28 +552,8 @@ agreement for further details.
 	(bus)
 )
 (connector
-	(pt 200 384)
-	(pt 232 384)
-	(bus)
-)
-(connector
-	(pt 232 384)
-	(pt 568 384)
-	(bus)
-)
-(connector
 	(pt 216 480)
 	(pt 216 400)
-	(bus)
-)
-(connector
-	(pt 200 400)
-	(pt 216 400)
-	(bus)
-)
-(connector
-	(pt 216 400)
-	(pt 568 400)
 	(bus)
 )
 (connector
@@ -695,8 +618,77 @@ agreement for further details.
 	(pt 248 8)
 	(pt 600 8)
 )
+(connector
+	(pt 544 200)
+	(pt 544 368)
+)
+(connector
+	(pt 976 368)
+	(pt 784 368)
+)
+(connector
+	(pt 544 368)
+	(pt 576 368)
+)
+(connector
+	(pt 576 416)
+	(pt 544 416)
+	(bus)
+)
+(connector
+	(pt 200 400)
+	(pt 216 400)
+	(bus)
+)
+(connector
+	(pt 216 400)
+	(pt 576 400)
+	(bus)
+)
+(connector
+	(pt 200 384)
+	(pt 232 384)
+	(bus)
+)
+(connector
+	(pt 232 384)
+	(pt 576 384)
+	(bus)
+)
+(connector
+	(pt 1200 288)
+	(pt 1176 288)
+	(bus)
+)
+(connector
+	(pt 1200 304)
+	(pt 1176 304)
+	(bus)
+)
+(connector
+	(pt 1200 320)
+	(pt 1176 320)
+	(bus)
+)
+(connector
+	(pt 976 368)
+	(pt 976 304)
+)
+(connector
+	(pt 976 304)
+	(pt 992 304)
+)
+(connector
+	(pt 528 288)
+	(pt 992 288)
+)
+(connector
+	(pt 544 552)
+	(pt 544 416)
+	(bus)
+)
 (junction (pt -56 552))
-(junction (pt 232 384))
-(junction (pt 216 400))
 (junction (pt 264 200))
 (junction (pt 248 8))
+(junction (pt 216 400))
+(junction (pt 232 384))

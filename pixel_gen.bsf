@@ -34,22 +34,22 @@ agreement for further details.
 	(port
 		(pt 0 48)
 		(input)
-		(text "data_in[95..0]" (rect 0 0 53 12)(font "Arial" ))
-		(text "data_in[95..0]" (rect 21 43 74 55)(font "Arial" ))
+		(text "HorizontalCounter[9..0]" (rect 0 0 89 12)(font "Arial" ))
+		(text "HorizontalCounter[9..0]" (rect 21 43 110 55)(font "Arial" ))
 		(line (pt 0 48)(pt 16 48)(line_width 3))
 	)
 	(port
 		(pt 0 64)
 		(input)
-		(text "HorizontalCounter[9..0]" (rect 0 0 89 12)(font "Arial" ))
-		(text "HorizontalCounter[9..0]" (rect 21 59 110 71)(font "Arial" ))
+		(text "VerticalCounter[9..0]" (rect 0 0 82 12)(font "Arial" ))
+		(text "VerticalCounter[9..0]" (rect 21 59 103 71)(font "Arial" ))
 		(line (pt 0 64)(pt 16 64)(line_width 3))
 	)
 	(port
 		(pt 0 80)
 		(input)
-		(text "VerticalCounter[9..0]" (rect 0 0 82 12)(font "Arial" ))
-		(text "VerticalCounter[9..0]" (rect 21 75 103 87)(font "Arial" ))
+		(text "data_in[95..0]" (rect 0 0 53 12)(font "Arial" ))
+		(text "data_in[95..0]" (rect 21 75 74 87)(font "Arial" ))
 		(line (pt 0 80)(pt 16 80)(line_width 3))
 	)
 	(port

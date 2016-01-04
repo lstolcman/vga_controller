@@ -18,10 +18,11 @@ endmodule
 module pixel_gen
 (
 	input							clock25,
-	input				[95:0]	data_in,
+
 	input				[9:0]		HorizontalCounter,
 	input				[9:0]		VerticalCounter,
-
+	input				[95:0]	data_in,
+	
 	output 	reg				Pixel
 );
 
@@ -74,8 +75,8 @@ endmodule
 
 module pix_to_rgb
 (
-	input					pix,
 	input					video_on,
+	input					pix,
 	output	reg[4:0]	Red = 5'd0,
 	output	reg[5:0]	Green = 6'd0,
 	output	reg[4:0]	Blue = 5'd0

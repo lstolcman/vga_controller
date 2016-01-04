@@ -27,15 +27,15 @@ agreement for further details.
 	(port
 		(pt 0 32)
 		(input)
-		(text "pix" (rect 0 0 10 12)(font "Arial" ))
-		(text "pix" (rect 21 27 31 39)(font "Arial" ))
+		(text "video_on" (rect 0 0 36 12)(font "Arial" ))
+		(text "video_on" (rect 21 27 57 39)(font "Arial" ))
 		(line (pt 0 32)(pt 16 32)(line_width 1))
 	)
 	(port
 		(pt 0 48)
 		(input)
-		(text "video_on" (rect 0 0 36 12)(font "Arial" ))
-		(text "video_on" (rect 21 43 57 55)(font "Arial" ))
+		(text "pix" (rect 0 0 10 12)(font "Arial" ))
+		(text "pix" (rect 21 43 31 55)(font "Arial" ))
 		(line (pt 0 48)(pt 16 48)(line_width 1))
 	)
 	(port
