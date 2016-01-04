@@ -24,7 +24,9 @@ reg data_ready_s2 = 0;
 reg [6:0] row = 0;
 reg [6:0] col = 0;
 
-assign wraddress = row+80*col;
+reg [11:0] clear_chars;
+
+assign wraddress = 80*row+col;
 
 
 //synchronizers
@@ -35,10 +37,11 @@ begin
 	
 	data_ready_s1 <= data_ready;
 	data_ready_s2 <= data_ready_s1;
+	
 end
 
 
-enum {S0, S1, S2, S3} state = S0;
+enum {S0, S1, S2, S3, S4, S5, S6, S7} state = S0;
 
 
 //state machine for reading data in and sending data out to memory
@@ -49,7 +52,7 @@ begin
 		S0:
 		begin // idle
 			wren <= 0;
-			
+			clear_chars <= 0;
 			if (data_ready_s2 == 1)
 			begin
 				data <= data_s2;
@@ -59,22 +62,43 @@ begin
 		
 		S1: // calculate position
 		begin
-			
-			//calculate proper character position
-			if (row < 80-1)
-				row <= row+1;
-			else
-			begin
-				row <= 0;
-				if (col < 40-1)
-					col <= col+1;
-				else
+			case (data)
+				13: // enter -> new line
+				begin
 					col <= 0;
-			end
+					if (row < 40-1)
+						row <= row+1;
+					else
+						row <= 0;
+					
+					state <= S3;
+				end
+				
+				27: // esc -> clear screen
+				begin
+					row <= 0;
+					col <= 0;
+					state <= S5;
+				end
+				
+				default: // just print character in right position
+				begin
+					data_out <= data;
+					//calculate proper character position
+					if (col < 80-1)
+						col <= col+1;
+					else
+					begin
+						col <= 0;
+						if (row < 40-1)
+							row <= row+1;
+						else
+							row <= 0;
+					end
+					state <= S2;
+				end
+			endcase
 			
-			data_out <= data;
-			
-			state <= S2;
 		end
 		
 		S2: //send character
@@ -85,8 +109,47 @@ begin
 		
 		S3: //latch wren, needed by memory
 		begin
-			state <= S0;
+			if (data_ready_s2 == 0)
+				state <= S0;
 		end
+		
+		
+		S5: // clear screen
+		begin
+			data_out <= 0;
+			if (col < 80-1)
+				col <= col+1;
+			else
+			begin
+				col <= 0;
+				if (row < 40-1)
+					row <= row+1;
+				else
+					row <= 0;
+			end
+			
+			clear_chars <= clear_chars+1;
+			
+			if (clear_chars >= 3200)
+			begin
+				row <= 0;
+				col <= 0;
+				data <= 0;
+				state <= S2;
+			end
+			else
+				state <= S6;
+		end
+		
+		S6: 
+		begin
+			wren <= 1;
+			state <= S5;
+		end
+		
+
+		
+		
 		
 		default:
 			state <= S0;
