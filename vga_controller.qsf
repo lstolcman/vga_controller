@@ -365,5 +365,5 @@ set_global_assignment -name SYSTEMVERILOG_FILE src/char_gen.sv
 set_global_assignment -name CDF_FILE output_files/Chain1.cdf
 set_global_assignment -name QIP_FILE clocks.qip
 set_global_assignment -name QIP_FILE font_rom.qip
-set_global_assignment -name QIP_FILE character_ram_test.qip
+set_global_assignment -name QIP_FILE character_ram.qip
 set_instance_assignment -name PARTITION_HIERARCHY root_partition -to | -section_id Top
