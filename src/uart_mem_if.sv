@@ -41,7 +41,7 @@ begin
 end
 
 
-enum {S0, S1, S2, S3, S4, S5, S6, S7} state = S0;
+enum {S0, S1, S2, S3, S4, S5, S6} state = S0;
 
 
 //state machine for reading data in and sending data out to memory
@@ -53,6 +53,7 @@ begin
 		begin // idle
 			wren <= 0;
 			clear_chars <= 0;
+			
 			if (data_ready_s2 == 1)
 			begin
 				data <= data_s2;
@@ -63,7 +64,7 @@ begin
 		S1: // calculate position
 		begin
 			case (data)
-				13: // enter -> new line
+				13: // CR = enter -> new line
 				begin
 					col <= 0;
 					if (row < 40-1)
@@ -74,10 +75,18 @@ begin
 					state <= S3;
 				end
 				
-				27: // esc -> clear screen
+				27: // ESC -> clear screen
 				begin
 					row <= 0;
 					col <= 0;
+					state <= S4;
+				end
+				
+				127: // DEL = backspace
+				begin
+					
+					wren <= 1;
+					data_out <= 8'd32; //space
 					state <= S5;
 				end
 				
@@ -106,17 +115,18 @@ begin
 			wren <= 1;
 			state <= S3;
 		end
-		
+
 		S3: //latch wren, needed by memory
 		begin
 			if (data_ready_s2 == 0)
 				state <= S0;
 		end
 		
-		
-		S5: // clear screen
+		S4: // clear screen
 		begin
+			wren <= 1;
 			data_out <= 0;
+			
 			if (col < 80-1)
 				col <= col+1;
 			else
@@ -137,20 +147,39 @@ begin
 				data <= 0;
 				state <= S2;
 			end
-			else
-				state <= S6;
 		end
 		
+		
+		
+		S5: //latch wren, needed by memory
+		begin
+			state <= S6;
+		end
+
 		S6: 
 		begin
-			wren <= 1;
-			state <= S5;
+			wren <= 0;
+			
+			//calculate proper character position
+			if (col > 0)
+				col <= col-1;
+			else
+			begin
+				col <= 80-1;
+				if (row > 0)
+					row <= row-1;
+				else
+					row <= 40-1;
+			end
+			state <= S0;
 		end
 		
+		
 
-		
-		
-		
+					
+					
+					
+					
 		default:
 			state <= S0;
 			
