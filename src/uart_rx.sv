@@ -1,6 +1,4 @@
 
-
-
 module uart_rx
 (
 	input clock,
@@ -12,7 +10,7 @@ module uart_rx
 
 	parameter DATA_BITS = 8;
 	parameter UART_BAUD_RATE = 115200; //115,2kHz
-	parameter TARGET_MCLK = 25000000; // 25MHz
+	parameter TARGET_MCLK = 25000000; //25MHz
 
 	reg [0:(TARGET_MCLK/UART_BAUD_RATE-1)] rx_br_cntr;
 	reg [0:DATA_BITS] rx_bit_cntr;
@@ -83,9 +81,7 @@ module uart_rx
 					end
 				end
 				else
-
 					rx_br_cntr <= rx_br_cntr - 1;
-
 			end
 		endcase
 

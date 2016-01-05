@@ -149,8 +149,6 @@ begin
 			end
 		end
 		
-		
-		
 		S5: //latch wren, needed by memory
 		begin
 			state <= S6;
@@ -173,12 +171,6 @@ begin
 			end
 			state <= S0;
 		end
-		
-		
-
-					
-					
-					
 					
 		default:
 			state <= S0;
