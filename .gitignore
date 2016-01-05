@@ -59,7 +59,8 @@
 # ignore Quartus II generated folders
 */db/
 */incremental_db/
-*/simulation/
+/simulation/modelsim/wlf*
+/simulation/modelsim/vsim*
 */timing/
 */testbench/
 */*_sim/
