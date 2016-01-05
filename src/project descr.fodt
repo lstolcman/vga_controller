@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><meta:creation-date>2009-04-16T11:32:02.64</meta:creation-date><meta:editing-duration>P2DT10H34M54S</meta:editing-duration><meta:editing-cycles>121</meta:editing-cycles><meta:generator>LibreOffice/4.4.3.2$Windows_x86 LibreOffice_project/88805f81e9fe61362df02b9941de8e38a9b5fd16</meta:generator><dc:date>2016-01-05T02:19:22.781000000</dc:date><meta:document-statistic meta:table-count="0" meta:image-count="3" meta:object-count="0" meta:page-count="3" meta:paragraph-count="40" meta:word-count="629" meta:character-count="4121" meta:non-whitespace-character-count="3539"/><meta:user-defined meta:name="Info 1"/><meta:user-defined meta:name="Info 2"/><meta:user-defined meta:name="Info 3"/><meta:user-defined meta:name="Info 4"/></office:meta>
+ <office:meta><meta:creation-date>2009-04-16T11:32:02.64</meta:creation-date><meta:editing-duration>P2DT11H59M33S</meta:editing-duration><meta:editing-cycles>183</meta:editing-cycles><meta:generator>LibreOffice/4.4.3.2$Windows_x86 LibreOffice_project/88805f81e9fe61362df02b9941de8e38a9b5fd16</meta:generator><dc:date>2016-01-05T18:25:45.173000000</dc:date><meta:document-statistic meta:table-count="0" meta:image-count="4" meta:object-count="0" meta:page-count="7" meta:paragraph-count="130" meta:word-count="1282" meta:character-count="8724" meta:non-whitespace-character-count="7493"/><meta:user-defined meta:name="Info 1"/><meta:user-defined meta:name="Info 2"/><meta:user-defined meta:name="Info 3"/><meta:user-defined meta:name="Info 4"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">59849</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">142452</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
-   <config:config-item config:name="ViewAreaWidth" config:type="long">42732</config:config-item>
-   <config:config-item config:name="ViewAreaHeight" config:type="long">22359</config:config-item>
+   <config:config-item config:name="ViewAreaWidth" config:type="long">28074</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">13654</config:config-item>
    <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
    <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="long">7516</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">76096</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">7888</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">148354</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">59849</config:config-item>
-     <config:config-item config:name="VisibleRight" config:type="long">42730</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">82206</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">142452</config:config-item>
+     <config:config-item config:name="VisibleRight" config:type="long">28072</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">156104</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
@@ -59,7 +59,7 @@
    <config:config-item config:name="AllowPrintJobCancel" config:type="boolean">true</config:config-item>
    <config:config-item config:name="RsidRoot" config:type="int">1694633</config:config-item>
    <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">2037894</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">2187263</config:config-item>
    <config:config-item config:name="UnxForceZeroExtLeading" config:type="boolean">false</config:config-item>
    <config:config-item config:name="LoadReadonly" config:type="boolean">false</config:config-item>
    <config:config-item config:name="PrintBlackFonts" config:type="boolean">false</config:config-item>
@@ -196,7 +196,7 @@
    </style:paragraph-properties>
   </style:style>
   <style:style style:name="Horizontal_20_Line" style:display-name="Horizontal Line" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Text_20_body" style:class="html">
-   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.499cm" loext:contextual-spacing="false" style:border-line-width-bottom="0cm 0.004cm 0.002cm" fo:padding="0cm" fo:border-left="none" fo:border-right="none" fo:border-top="none" fo:border-bottom="0.06pt double #808080" text:number-lines="false" text:line-number="0" style:join-border="false"/>
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.499cm" loext:contextual-spacing="false" style:border-line-width-bottom="0cm 0.004cm 0.002cm" fo:padding="0cm" fo:border-left="none" fo:border-right="none" fo:border-top="none" fo:border-bottom="0.14pt double #808080" text:number-lines="false" text:line-number="0" style:join-border="false"/>
    <style:text-properties fo:font-size="6pt" style:font-size-asian="6pt" style:font-size-complex="6pt"/>
   </style:style>
   <style:style style:name="Landscape_20_page" style:display-name="Landscape page" style:family="paragraph" style:parent-style-name="Standard" style:master-page-name="">
@@ -205,6 +205,7 @@
     <style:tab-stops/>
    </style:paragraph-properties>
   </style:style>
+  <style:style style:name="Illustration" style:family="paragraph" style:parent-style-name="Caption" style:class="extra"/>
   <style:style style:name="Numbering_20_Symbols" style:display-name="Numbering Symbols" style:family="text"/>
   <style:style style:name="Internet_20_link" style:display-name="Internet link" style:family="text">
    <style:text-properties fo:color="#000080" fo:language="zxx" fo:country="none" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" style:language-asian="zxx" style:country-asian="none" style:language-complex="zxx" style:country-complex="none"/>
@@ -214,6 +215,9 @@
   </style:style>
   <style:style style:name="Graphics" style:family="graphic">
    <style:graphic-properties text:anchor-type="paragraph" svg:x="0cm" svg:y="0cm" style:wrap="dynamic" style:number-wrapped-paragraphs="no-limit" style:wrap-contour="false" style:vertical-pos="top" style:vertical-rel="paragraph" style:horizontal-pos="center" style:horizontal-rel="paragraph"/>
+  </style:style>
+  <style:style style:name="Frame" style:family="graphic">
+   <style:graphic-properties text:anchor-type="paragraph" svg:x="0cm" svg:y="0cm" fo:margin-left="0.201cm" fo:margin-right="0.201cm" fo:margin-top="0.201cm" fo:margin-bottom="0.201cm" style:wrap="parallel" style:number-wrapped-paragraphs="no-limit" style:wrap-contour="false" style:vertical-pos="top" style:vertical-rel="paragraph-content" style:horizontal-pos="center" style:horizontal-rel="paragraph-content" fo:padding="0.15cm" fo:border="0.06pt solid #000000"/>
   </style:style>
   <text:outline-style style:name="Outline">
    <text:outline-level-style text:level="1" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
@@ -283,62 +287,62 @@
    <style:text-properties officeooo:rsid="001ba0b3" officeooo:paragraph-rsid="001ba0b3"/>
   </style:style>
   <style:style style:name="P4" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:paragraph-rsid="001ba0b3"/>
+   <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false"/>
+   <style:text-properties officeooo:rsid="001ba0b3" officeooo:paragraph-rsid="001ba0b3"/>
   </style:style>
   <style:style style:name="P5" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties fo:language="en" fo:country="US" officeooo:rsid="001ba0b3" officeooo:paragraph-rsid="001ba0b3"/>
-  </style:style>
-  <style:style style:name="P6" style:family="paragraph" style:parent-style-name="Heading_20_1">
-   <style:text-properties officeooo:rsid="001ba0b3" officeooo:paragraph-rsid="001ba0b3"/>
-  </style:style>
-  <style:style style:name="P7" style:family="paragraph" style:parent-style-name="Heading_20_1">
-   <style:text-properties officeooo:paragraph-rsid="001ba0b3"/>
-  </style:style>
-  <style:style style:name="P8" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties officeooo:rsid="001ba0b3" officeooo:paragraph-rsid="001ba0b3"/>
-  </style:style>
-  <style:style style:name="P9" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties officeooo:paragraph-rsid="001ba0b3"/>
-  </style:style>
-  <style:style style:name="P10" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false"/>
-   <style:text-properties fo:language="en" fo:country="US" officeooo:rsid="001ba0b3" officeooo:paragraph-rsid="001ba0b3"/>
-  </style:style>
-  <style:style style:name="P11" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false"/>
-   <style:text-properties fo:language="en" fo:country="US" officeooo:rsid="001ba0b3" officeooo:paragraph-rsid="001f1886"/>
-  </style:style>
-  <style:style style:name="P12" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false"/>
-   <style:text-properties fo:language="en" fo:country="US" officeooo:rsid="001f1886" officeooo:paragraph-rsid="001f1886"/>
-  </style:style>
-  <style:style style:name="P13" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false"/>
-   <style:text-properties officeooo:rsid="001ba0b3" officeooo:paragraph-rsid="001ba0b3"/>
-  </style:style>
-  <style:style style:name="P14" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L1">
-   <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false"/>
-   <style:text-properties officeooo:rsid="001ba0b3" officeooo:paragraph-rsid="001ba0b3"/>
-  </style:style>
-  <style:style style:name="P15" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false"/>
    <style:text-properties officeooo:rsid="001ba0b3" officeooo:paragraph-rsid="001f1886"/>
   </style:style>
-  <style:style style:name="P16" style:family="paragraph" style:parent-style-name="Text_20_body">
+  <style:style style:name="P6" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:paragraph-rsid="001ba0b3"/>
+  </style:style>
+  <style:style style:name="P7" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties fo:language="en" fo:country="US" officeooo:rsid="001ba0b3" officeooo:paragraph-rsid="001ba0b3"/>
+  </style:style>
+  <style:style style:name="P8" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false"/>
+   <style:text-properties fo:language="en" fo:country="US" officeooo:rsid="001ba0b3" officeooo:paragraph-rsid="001ba0b3"/>
+  </style:style>
+  <style:style style:name="P9" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false"/>
+   <style:text-properties fo:language="en" fo:country="US" officeooo:rsid="001ba0b3" officeooo:paragraph-rsid="001f1886"/>
+  </style:style>
+  <style:style style:name="P10" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false"/>
+   <style:text-properties fo:language="en" fo:country="US" officeooo:rsid="001f1886" officeooo:paragraph-rsid="001f1886"/>
+  </style:style>
+  <style:style style:name="P11" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false"/>
    <style:text-properties officeooo:rsid="001f1886" officeooo:paragraph-rsid="001f1886"/>
   </style:style>
-  <style:style style:name="P17" style:family="paragraph" style:parent-style-name="Text_20_body" style:master-page-name="Landscape_20__28_user_29_">
-   <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false" style:page-number="auto"/>
+  <style:style style:name="P12" style:family="paragraph" style:parent-style-name="Heading_20_1">
    <style:text-properties officeooo:rsid="001ba0b3" officeooo:paragraph-rsid="001ba0b3"/>
   </style:style>
-  <style:style style:name="P18" style:family="paragraph" style:parent-style-name="Heading_20_2">
+  <style:style style:name="P13" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false"/>
+   <style:text-properties officeooo:rsid="001ba0b3" officeooo:paragraph-rsid="001ba0b3"/>
+  </style:style>
+  <style:style style:name="P14" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:text-properties officeooo:paragraph-rsid="001ba0b3"/>
+  </style:style>
+  <style:style style:name="P15" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false"/>
+   <style:text-properties fo:language="en" fo:country="US" officeooo:rsid="001ba0b3" officeooo:paragraph-rsid="001ba0b3"/>
+  </style:style>
+  <style:style style:name="P16" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:rsid="001ba0b3" officeooo:paragraph-rsid="001ba0b3"/>
+  </style:style>
+  <style:style style:name="P17" style:family="paragraph" style:parent-style-name="Heading_20_2">
    <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false"/>
    <style:text-properties officeooo:rsid="001ba0b3"/>
   </style:style>
-  <style:style style:name="P19" style:family="paragraph" style:parent-style-name="Heading_20_2">
+  <style:style style:name="P18" style:family="paragraph" style:parent-style-name="Heading_20_2">
    <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false"/>
    <style:text-properties officeooo:rsid="001ba0b3" officeooo:paragraph-rsid="001ba0b3"/>
+  </style:style>
+  <style:style style:name="P19" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:paragraph-rsid="001ba0b3"/>
   </style:style>
   <style:style style:name="P20" style:family="paragraph" style:parent-style-name="Heading_20_2">
    <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false"/>
@@ -352,17 +356,96 @@
    <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false"/>
    <style:text-properties officeooo:paragraph-rsid="001f1886"/>
   </style:style>
-  <style:style style:name="P23" style:family="paragraph" style:parent-style-name="Heading_20_1">
-   <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false"/>
-   <style:text-properties fo:language="en" fo:country="US" officeooo:rsid="001ba0b3" officeooo:paragraph-rsid="001ba0b3"/>
+  <style:style style:name="P23" style:family="paragraph" style:parent-style-name="Text_20_body" style:master-page-name="">
+   <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false" style:page-number="auto"/>
+   <style:text-properties officeooo:rsid="001ba0b3" officeooo:paragraph-rsid="001ba0b3"/>
   </style:style>
-  <style:style style:name="P24" style:family="paragraph" style:parent-style-name="Heading_20_1">
+  <style:style style:name="P24" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L1">
    <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false"/>
    <style:text-properties officeooo:rsid="001ba0b3" officeooo:paragraph-rsid="001ba0b3"/>
   </style:style>
-  <style:style style:name="P25" style:family="paragraph" style:parent-style-name="Header">
+  <style:style style:name="P25" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false"/>
+   <style:text-properties officeooo:rsid="001ba0b3" officeooo:paragraph-rsid="00215fff"/>
+  </style:style>
+  <style:style style:name="P26" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false"/>
+   <style:text-properties officeooo:rsid="001ba0b3" officeooo:paragraph-rsid="001ba0b3"/>
+  </style:style>
+  <style:style style:name="P27" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false"/>
+   <style:text-properties officeooo:rsid="001f1886" officeooo:paragraph-rsid="001f1886"/>
+  </style:style>
+  <style:style style:name="P28" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false"/>
+   <style:text-properties officeooo:rsid="00215fff" officeooo:paragraph-rsid="00215fff"/>
+  </style:style>
+  <style:style style:name="P29" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="00215fff" officeooo:paragraph-rsid="00215fff"/>
+  </style:style>
+  <style:style style:name="P30" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false"/>
+   <style:text-properties fo:language="en" fo:country="US" officeooo:rsid="00215fff" officeooo:paragraph-rsid="00215fff"/>
+  </style:style>
+  <style:style style:name="P31" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false"/>
+   <style:text-properties fo:language="en" fo:country="US" officeooo:rsid="001f1886" officeooo:paragraph-rsid="001f1886"/>
+  </style:style>
+  <style:style style:name="P32" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false"/>
+   <style:text-properties style:text-line-through-style="solid" style:text-line-through-type="single" fo:language="en" fo:country="US" officeooo:rsid="00215fff" officeooo:paragraph-rsid="00215fff"/>
+  </style:style>
+  <style:style style:name="P33" style:family="paragraph" style:parent-style-name="Text_20_body" style:master-page-name="Landscape_20__28_user_29_">
+   <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false" style:page-number="auto"/>
+   <style:text-properties officeooo:rsid="001ba0b3" officeooo:paragraph-rsid="001ba0b3"/>
+  </style:style>
+  <style:style style:name="P34" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false"/>
+   <style:text-properties officeooo:rsid="001f1886" officeooo:paragraph-rsid="001f1886"/>
+  </style:style>
+  <style:style style:name="P35" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false"/>
+  </style:style>
+  <style:style style:name="P36" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false"/>
+   <style:text-properties officeooo:paragraph-rsid="001ba0b3"/>
+  </style:style>
+  <style:style style:name="P37" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false"/>
+   <style:text-properties officeooo:paragraph-rsid="001f1886"/>
+  </style:style>
+  <style:style style:name="P38" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false"/>
+   <style:text-properties officeooo:rsid="001ba0b3" officeooo:paragraph-rsid="001ba0b3"/>
+  </style:style>
+  <style:style style:name="P39" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:rsid="00215fff" officeooo:paragraph-rsid="00215fff"/>
+  </style:style>
+  <style:style style:name="P40" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:paragraph-rsid="00215fff"/>
+  </style:style>
+  <style:style style:name="P41" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false"/>
+   <style:text-properties fo:language="en" fo:country="US" officeooo:rsid="001ba0b3" officeooo:paragraph-rsid="001ba0b3"/>
+  </style:style>
+  <style:style style:name="P42" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false"/>
+   <style:text-properties officeooo:rsid="001ba0b3" officeooo:paragraph-rsid="001ba0b3"/>
+  </style:style>
+  <style:style style:name="P43" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false"/>
+   <style:text-properties officeooo:rsid="001ba0b3" officeooo:paragraph-rsid="00215fff"/>
+  </style:style>
+  <style:style style:name="P44" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false"/>
+   <style:text-properties officeooo:rsid="00215fff" officeooo:paragraph-rsid="00215fff"/>
+  </style:style>
+  <style:style style:name="P45" style:family="paragraph" style:parent-style-name="Header" style:list-style-name="">
    <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
-   <style:text-properties officeooo:rsid="001ba0b3" officeooo:paragraph-rsid="001f1886"/>
+   <style:text-properties fo:language="en" fo:country="US" officeooo:rsid="001ba0b3" officeooo:paragraph-rsid="00215fff"/>
+  </style:style>
+  <style:style style:name="P46" style:family="paragraph" style:parent-style-name="Illustration">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
   </style:style>
   <style:style style:name="T1" style:family="text">
    <style:text-properties officeooo:rsid="001f1886"/>
@@ -377,16 +460,25 @@
    <style:text-properties fo:language="en" fo:country="US" officeooo:rsid="001ba0b3"/>
   </style:style>
   <style:style style:name="T5" style:family="text">
-   <style:text-properties officeooo:rsid="001f1886"/>
-  </style:style>
-  <style:style style:name="T6" style:family="text">
    <style:text-properties style:text-position="super 58%"/>
   </style:style>
-  <style:style style:name="fr1" style:family="graphic" style:parent-style-name="Graphics">
-   <style:graphic-properties style:vertical-pos="top" style:vertical-rel="paragraph" style:horizontal-pos="center" style:horizontal-rel="paragraph" style:mirror="none" fo:clip="rect(0cm, 0cm, 0cm, 0cm)" draw:luminance="0%" draw:contrast="0%" draw:red="0%" draw:green="0%" draw:blue="0%" draw:gamma="100%" draw:color-inversion="false" draw:image-opacity="100%" draw:color-mode="standard"/>
+  <style:style style:name="T6" style:family="text">
+   <style:text-properties officeooo:rsid="001f7d03"/>
+  </style:style>
+  <style:style style:name="T7" style:family="text">
+   <style:text-properties officeooo:rsid="00215fff"/>
+  </style:style>
+  <style:style style:name="fr1" style:family="graphic" style:parent-style-name="Frame">
+   <style:graphic-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:wrap="dynamic" style:number-wrapped-paragraphs="no-limit" style:vertical-pos="top" style:vertical-rel="paragraph" style:horizontal-pos="center" style:horizontal-rel="paragraph" fo:padding="0cm" fo:border="none"/>
   </style:style>
   <style:style style:name="fr2" style:family="graphic" style:parent-style-name="Graphics">
+   <style:graphic-properties style:vertical-pos="top" style:vertical-rel="paragraph" style:horizontal-pos="center" style:horizontal-rel="paragraph" style:mirror="none" fo:clip="rect(0cm, 0cm, 0cm, 0cm)" draw:luminance="0%" draw:contrast="0%" draw:red="0%" draw:green="0%" draw:blue="0%" draw:gamma="100%" draw:color-inversion="false" draw:image-opacity="100%" draw:color-mode="standard"/>
+  </style:style>
+  <style:style style:name="fr3" style:family="graphic" style:parent-style-name="Graphics">
    <style:graphic-properties style:vertical-pos="from-top" style:vertical-rel="paragraph" style:horizontal-pos="center" style:horizontal-rel="paragraph" style:mirror="none" fo:clip="rect(0cm, 0cm, 0cm, 0cm)" draw:luminance="0%" draw:contrast="0%" draw:red="0%" draw:green="0%" draw:blue="0%" draw:gamma="100%" draw:color-inversion="false" draw:image-opacity="100%" draw:color-mode="standard"/>
+  </style:style>
+  <style:style style:name="fr4" style:family="graphic" style:parent-style-name="Graphics">
+   <style:graphic-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:run-through="foreground" style:wrap="none" style:vertical-pos="from-top" style:vertical-rel="paragraph" style:horizontal-pos="from-left" style:horizontal-rel="paragraph" fo:padding="0cm" fo:border="none" style:shadow="none" draw:shadow-opacity="100%" style:mirror="none" fo:clip="rect(0cm, 0cm, 0cm, 0cm)" draw:luminance="0%" draw:contrast="0%" draw:red="0%" draw:green="0%" draw:blue="0%" draw:gamma="100%" draw:color-inversion="false" draw:image-opacity="100%" draw:color-mode="standard"/>
   </style:style>
   <text:list-style style:name="L1">
    <text:list-level-style-bullet text:level="1" text:style-name="Bullet_20_Symbols" text:bullet-char="•">
@@ -444,9 +536,7 @@
    <style:page-layout-properties fo:page-width="21.001cm" fo:page-height="29.7cm" style:num-format="1" style:print-orientation="portrait" fo:margin-top="2cm" fo:margin-bottom="2cm" fo:margin-left="2cm" fo:margin-right="2cm" style:writing-mode="lr-tb" style:footnote-max-height="0cm">
     <style:footnote-sep style:width="0.018cm" style:distance-before-sep="0.101cm" style:distance-after-sep="0.101cm" style:line-style="none" style:adjustment="left" style:rel-width="25%" style:color="#000000"/>
    </style:page-layout-properties>
-   <style:header-style>
-    <style:header-footer-properties fo:min-height="0cm" fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-bottom="0.499cm"/>
-   </style:header-style>
+   <style:header-style/>
    <style:footer-style/>
   </style:page-layout>
   <style:page-layout style:name="pm2">
@@ -458,13 +548,7 @@
   </style:page-layout>
  </office:automatic-styles>
  <office:master-styles>
-  <style:master-page style:name="Standard" style:page-layout-name="pm1">
-   <style:header>
-    <text:p text:style-name="P1">Project: <text:span text:style-name="T1">remote </text:span>text display</text:p>
-    <text:p text:style-name="P1"><text:span text:style-name="T1">A</text:span>uthor: <text:span text:style-name="T1">Łukasz Stolcman</text:span></text:p>
-    <text:p text:style-name="P1"><text:span text:style-name="T1">D</text:span>ate: January 2016</text:p>
-   </style:header>
-  </style:master-page>
+  <style:master-page style:name="Standard" style:page-layout-name="pm1"/>
   <style:master-page style:name="Landscape_20__28_user_29_" style:display-name="Landscape (user)" style:page-layout-name="pm2"/>
  </office:master-styles>
  <office:body>
@@ -475,60 +559,955 @@
     <text:sequence-decl text:display-outline-level="0" text:name="Text"/>
     <text:sequence-decl text:display-outline-level="0" text:name="Drawing"/>
    </text:sequence-decls>
-   <text:h text:style-name="P23" text:outline-level="1">Introduction</text:h>
-   <text:p text:style-name="P10">The task for a project was to design a “remote text display” controller which should support displaying characters on VGA display. The controller should be able to generate 640x480@60Hz VGA signal which is common for popular development boards such as Xilinx Spartan3 Starter Kit.</text:p>
-   <text:h text:style-name="P23" text:outline-level="1">Description</text:h>
-   <text:p text:style-name="P10">Controller is able to display characters. Single character has size of 8 pixels width and 12 pixels height and thus, we can display 80 columns by 40 rows of such characters. Color of a single character is white. The project is divided for a few parts which will be described below.</text:p>
+   <text:p text:style-name="P45">Project: <text:span text:style-name="T1">remote </text:span>text display<text:tab/><text:span text:style-name="T1">A</text:span>uthor: <text:span text:style-name="T1">Łukasz Stolcman<text:tab/>D</text:span>ate: January 2016</text:p>
+   <text:h text:style-name="Heading_20_1" text:outline-level="1"/>
+   <text:p text:style-name="P30">specify all entites created</text:p>
+   <text:p text:style-name="P30">describe all the inputs and outputs</text:p>
+   <text:p text:style-name="P30">and the basic principe of module</text:p>
+   <text:p text:style-name="P30">more specification about signals</text:p>
+   <text:p text:style-name="P32">descibe meaning of the signals</text:p>
+   <text:p text:style-name="P32">what is the main function of the signals</text:p>
+   <text:p text:style-name="P32">make some notes about used testbenches</text:p>
+   <text:h text:style-name="P15" text:outline-level="1">Introduction</text:h>
+   <text:p text:style-name="P8">The task for a project was to design a “remote text display” controller which should support displaying characters on VGA display. The controller should be able to generate 640x480@60Hz VGA signal which is common for popular development boards such as Xilinx Spartan3 Starter Kit.</text:p>
+   <text:h text:style-name="P15" text:outline-level="1">Description</text:h>
+   <text:p text:style-name="P8">Controller is able to display characters. Single character has size of 8 pixels width and 12 pixels height and thus, we can display 80 columns by 40 rows of such characters. Color of a single character is white. The project is divided for a few parts which will be described below.</text:p>
    <text:h text:style-name="P20" text:outline-level="2">“clocks” – PLL Megafunction</text:h>
-   <text:p text:style-name="P16">PLL from Altera Megafunctions. Used to generate 100MHz and 25MHz clocks from 50MHz input clock.</text:p>
+   <text:p text:style-name="P28">Input:</text:p>
+   <text:p text:style-name="P28"><text:tab/>“inclk0” – 50MHz clock</text:p>
+   <text:p text:style-name="P28">output:<text:tab/></text:p>
+   <text:p text:style-name="P28"><text:tab/>“c1” – 25MHz clock</text:p>
+   <text:p text:style-name="P28"><text:tab/>“c0” – 100MHz clock</text:p>
+   <text:p text:style-name="P11">PLL from Altera Megafunctions. Used to generate 100MHz and 25MHz clocks from 50MHz input clock.</text:p>
    <text:h text:style-name="P21" text:outline-level="2">“<text:span text:style-name="T2">vga_sync” – </text:span>VGA synchronization signals generator</text:h>
-   <text:p text:style-name="P13">A block which is responsible for <text:span text:style-name="T1">generation </text:span>VGA horizontal and vertical synchronization signals. The generator is fed by 25MHz clock to provide <text:span text:style-name="T1">resolution</text:span> 640x480@60Hz. Outputs are VSync and Hsync, directly connected to pinout of board and a two 10-bit counters. These counters are needed for determine on which line of a display we currently are.</text:p>
-   <text:h text:style-name="P20" text:outline-level="2">“char_gen”<text:span text:style-name="T2"> – </text:span>character address generator</text:h>
-   <text:p text:style-name="P16">A module which generates address of character from Hsync and Vsync signals (for “character_ram”).</text:p>
+   <text:p text:style-name="P28">Input:</text:p>
+   <text:p text:style-name="P28"><text:tab/>“Clock25” – 25MHz clock</text:p>
+   <text:p text:style-name="P28">output:</text:p>
+   <text:p text:style-name="P28"><text:tab/>“HorizontalSync” – Horizontal synchronization signal</text:p>
+   <text:p text:style-name="P28"><text:tab/>“VerticalSync” – Vertical synchronization signal</text:p>
+   <text:p text:style-name="P28"><text:tab/>“Video_on” – video enable signal</text:p>
+   <text:p text:style-name="P28"><text:tab/>“HorizontalCounter” – 10-bit counter, counting horizontal lines</text:p>
+   <text:p text:style-name="P28"><text:tab/>“VerticalCounter” – 10-bit counter, counting vertical lines</text:p>
+   <text:p text:style-name="P25"><text:soft-page-break/>A block which is responsible for <text:span text:style-name="T1">generation </text:span>VGA horizontal and vertical synchronization signals. The generator is fed by 25MHz clock to provide <text:span text:style-name="T1">resolution</text:span> 640x480@60Hz. Outputs are <text:span text:style-name="T7">HorizontalSync and VerticalSync</text:span>, directly connected to pinout of board and a two 10-bit counters. These counters are needed for determine on which line of a display we currently are.</text:p>
+   <text:h text:style-name="P20" text:outline-level="2">“char_gen” – character address generator</text:h>
+   <text:p text:style-name="P28">Input:</text:p>
+   <text:p text:style-name="P28"><text:tab/>“clock100” – 100MHz clock100</text:p>
+   <text:p text:style-name="P28"><text:tab/>“HorizontalCounter” – 10-bit counter, counting horizontal lines</text:p>
+   <text:p text:style-name="P28"><text:tab/>“VerticalCounter” – 10-bit counter, counting vertical lines</text:p>
+   <text:p text:style-name="P28">output:<text:tab/></text:p>
+   <text:p text:style-name="P28"><text:tab/>“address” – 12-bit counter, </text:p>
+   <text:p text:style-name="P11">A module which generates address of character from Hsync and Vsync signals (for “character_ram”).</text:p>
    <text:h text:style-name="P21" text:outline-level="2">“<text:span text:style-name="T2">uart_rx” – </text:span>UART receiver</text:h>
-   <text:p text:style-name="P13">A block which receives UART serial signals and generates parallel (8-bit wide) output byte. This byte is a single character which can be put into Character RAM. <text:span text:style-name="T1">Whole block is rewritten from VHDL UART rx sample provided on course site.</text:span></text:p>
-   <text:h text:style-name="P22" text:outline-level="2">“<text:span text:style-name="T1">uart_mem_if” – UART interface</text:span></text:h>
-   <text:p text:style-name="P16">Interface between UART and Character RAM. Latches character from UART on “data_ready” signal and puts the character into the Character RAM.</text:p>
-   <text:p text:style-name="P16">Contains state machine which handles writing to memory, especially putting single character, clearing screen or deleting character. Although it is the biggest module, was written the fastest.</text:p>
-   <text:h text:style-name="P18" text:outline-level="2">“char<text:span text:style-name="T1">acter_ram</text:span>” – character RAM memory</text:h>
-   <text:p text:style-name="P15"><text:span text:style-name="T1">Altera Megafunction – 1-port RAM</text:span> memory where characters are stored.</text:p>
-   <text:h text:style-name="P22" text:outline-level="2"><text:soft-page-break/>“<text:span text:style-name="T1">ram_rom_if” – character RAM interface</text:span></text:h>
-   <text:p text:style-name="P16">Simple interface. Gets 8-byte character code and outputs lowest 7 bytes. This is needed because “font_rom” does have only first 128(2<text:span text:style-name="T6">7</text:span>) ASCII characters.</text:p>
-   <text:h text:style-name="P19" text:outline-level="2">“font_rom” – <text:span text:style-name="T1">f</text:span>ont ROM memory</text:h>
-   <text:p text:style-name="P13">A memory where raw font data are stored. There are first 128 characters generated from “Courier” windows font. Characters are saved in memory dump named “font_rom.mif”. In this file, every line describes one character. All pixels of a character are stored one after another, from first to the last pixel. The memory block was generated using “Altera Megafunction – ROM: 1-PORT”, sized 96 bits by 128 words.</text:p>
+   <text:p text:style-name="P28">Input:</text:p>
+   <text:p text:style-name="P28"><text:tab/>“clock” – 25MHz clock</text:p>
+   <text:p text:style-name="P28"><text:tab/>“rxd” – received bit line</text:p>
+   <text:p text:style-name="P28">output:</text:p>
+   <text:p text:style-name="P28"><text:tab/>“data” – 8-bit wide bus, containing received data</text:p>
+   <text:p text:style-name="P28"><text:tab/>“data_ready” – signal which shows if data is ready for reading. Lasts one 25MHz clock cycle</text:p>
+   <text:p text:style-name="P4">A block which receives UART serial signals and generates parallel (8-bit wide) output byte. This byte is a single character which can be put into Character RAM. <text:span text:style-name="T1">Whole block is rewritten from VHDL UART rx sample provided on course site.</text:span></text:p>
+   <text:h text:style-name="P22" text:outline-level="2">“<text:span text:style-name="T1">uart_mem_if” – UART interface DRAW FSM!!!!</text:span></text:h>
+   <text:p text:style-name="P28">Input:</text:p>
+   <text:p text:style-name="P28"><text:tab/>“clock100” – 100MHz clock</text:p>
+   <text:p text:style-name="P28"><text:tab/>“data_in” – 8-bit wide bus, for received character from UART</text:p>
+   <text:p text:style-name="P28"><text:tab/>“data_ready” – signal which shows if data is ready. Lasts one 25MHz clock cycle.</text:p>
+   <text:p text:style-name="P28">output:</text:p>
+   <text:p text:style-name="P28"><text:tab/>“data_out” – 8-bit wide data bus which latches character code for “character_ram”</text:p>
+   <text:p text:style-name="P28"><text:tab/>“wraddress” – 12-bit bus which specifies on which address write characters</text:p>
+   <text:p text:style-name="P28"><text:tab/>“wren” – write enable signal for memory</text:p>
+   <text:p text:style-name="P11">Interface between UART and Character RAM. Latches character from UART on “data_ready” signal and puts the character into the Character RAM.</text:p>
+   <text:p text:style-name="P11">Contains state machine which handles writing to memory, especially putting single character, clearing screen or deleting character. Although it is the biggest module, was written the fastest.</text:p>
+   <text:p text:style-name="P11"><draw:frame draw:style-name="fr1" draw:name="Ramka1" text:anchor-type="paragraph" svg:width="17cm" draw:z-index="3">
+     <draw:text-box fo:min-height="12.755cm">
+      <text:p text:style-name="P46"><draw:frame draw:style-name="fr4" draw:name="Obraz4" text:anchor-type="paragraph" svg:x="0cm" svg:y="0cm" svg:width="17cm" svg:height="12.755cm" style:rel-height="scale" draw:z-index="4"><draw:image>
+         <office:binary-data>PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+
+          CjxzdmcKICAgeG1sbnM6b3NiPSJodHRwOi8vd3d3Lm9wZW5zd2F0Y2hib29rLm9yZy91cmkv
+          MjAwOS9vc2IiCiAgIHhtbG5zOmRjPSJodHRwOi8vcHVybC5vcmcvZGMvZWxlbWVudHMvMS4x
+          LyIKICAgeG1sbnM6Y2M9Imh0dHA6Ly9jcmVhdGl2ZWNvbW1vbnMub3JnL25zIyIKICAgeG1s
+          bnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIgog
+          ICB4bWxuczpzdmc9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICB4bWxucz0iaHR0
+          cDovL3d3dy53My5vcmcvMjAwMC9zdmciCiAgIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3Lncz
+          Lm9yZy8xOTk5L3hsaW5rIgogICB4bWxuczpzb2RpcG9kaT0iaHR0cDovL3NvZGlwb2RpLnNv
+          dXJjZWZvcmdlLm5ldC9EVEQvc29kaXBvZGktMC5kdGQiCiAgIHhtbG5zOmlua3NjYXBlPSJo
+          dHRwOi8vd3d3Lmlua3NjYXBlLm9yZy9uYW1lc3BhY2VzL2lua3NjYXBlIgogICB3aWR0aD0i
+          ODAwIgogICBoZWlnaHQ9IjYwMCIKICAgdmVyc2lvbj0iMS4xIgogICBpZD0ic3ZnNDEzNiIK
+          ICAgaW5rc2NhcGU6dmVyc2lvbj0iMC45MSByMTM3MjUiCiAgIHNvZGlwb2RpOmRvY25hbWU9
+          ImZzbS5zdmciPgogIDxtZXRhZGF0YQogICAgIGlkPSJtZXRhZGF0YTQyMjgiPgogICAgPHJk
+          ZjpSREY+CiAgICAgIDxjYzpXb3JrCiAgICAgICAgIHJkZjphYm91dD0iIj4KICAgICAgICA8
+          ZGM6Zm9ybWF0PmltYWdlL3N2Zyt4bWw8L2RjOmZvcm1hdD4KICAgICAgICA8ZGM6dHlwZQog
+          ICAgICAgICAgIHJkZjpyZXNvdXJjZT0iaHR0cDovL3B1cmwub3JnL2RjL2RjbWl0eXBlL1N0
+          aWxsSW1hZ2UiIC8+CiAgICAgIDwvY2M6V29yaz4KICAgIDwvcmRmOlJERj4KICA8L21ldGFk
+          YXRhPgogIDxkZWZzCiAgICAgaWQ9ImRlZnM0MjI2Ij4KICAgIDxsaW5lYXJHcmFkaWVudAog
+          ICAgICAgaWQ9ImxpbmVhckdyYWRpZW50NDI3MSIKICAgICAgIG9zYjpwYWludD0ic29saWQi
+          PgogICAgICA8c3RvcAogICAgICAgICBzdHlsZT0ic3RvcC1jb2xvcjojMGMwMDAwO3N0b3At
+          b3BhY2l0eToxOyIKICAgICAgICAgb2Zmc2V0PSIwIgogICAgICAgICBpZD0ic3RvcDQyNzMi
+          IC8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogICAgPGxpbmVhckdyYWRpZW50CiAgICAgICBp
+          ZD0ibGluZWFyR3JhZGllbnQ0MjY1IgogICAgICAgb3NiOnBhaW50PSJzb2xpZCI+CiAgICAg
+          IDxzdG9wCiAgICAgICAgIHN0eWxlPSJzdG9wLWNvbG9yOiMwMDAwMDA7c3RvcC1vcGFjaXR5
+          OjE7IgogICAgICAgICBvZmZzZXQ9IjAiCiAgICAgICAgIGlkPSJzdG9wNDI2NyIgLz4KICAg
+          IDwvbGluZWFyR3JhZGllbnQ+CiAgICA8bGluZWFyR3JhZGllbnQKICAgICAgIGlua3NjYXBl
+          OmNvbGxlY3Q9ImFsd2F5cyIKICAgICAgIHhsaW5rOmhyZWY9IiNsaW5lYXJHcmFkaWVudDQy
+          NjUiCiAgICAgICBpZD0ibGluZWFyR3JhZGllbnQ0MjY5IgogICAgICAgeDE9IjYwLjkyNDMy
+          IgogICAgICAgeTE9IjE1OC45NTI1MSIKICAgICAgIHgyPSIxMTQuOTQ3NzYiCiAgICAgICB5
+          Mj0iMTU4Ljk1MjUxIgogICAgICAgZ3JhZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2UiIC8+
+          CiAgICA8bGluZWFyR3JhZGllbnQKICAgICAgIGlua3NjYXBlOmNvbGxlY3Q9ImFsd2F5cyIK
+          ICAgICAgIHhsaW5rOmhyZWY9IiNsaW5lYXJHcmFkaWVudDQyNzEiCiAgICAgICBpZD0ibGlu
+          ZWFyR3JhZGllbnQ0MzYwIgogICAgICAgZ3JhZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2Ui
+          CiAgICAgICB4MT0iNjAuOTI0MzIiCiAgICAgICB5MT0iMTU4Ljk1MjUxIgogICAgICAgeDI9
+          IjExNC45NDc3NiIKICAgICAgIHkyPSIxNTguOTUyNTEiCiAgICAgICBncmFkaWVudFRyYW5z
+          Zm9ybT0idHJhbnNsYXRlKC0zMC4yOTEyNjIsLTE5LjgwNTgyNSkiIC8+CiAgICA8bGluZWFy
+          R3JhZGllbnQKICAgICAgIGlua3NjYXBlOmNvbGxlY3Q9ImFsd2F5cyIKICAgICAgIHhsaW5r
+          OmhyZWY9IiNsaW5lYXJHcmFkaWVudDQyNzEiCiAgICAgICBpZD0ibGluZWFyR3JhZGllbnQ0
+          MzY2IgogICAgICAgZ3JhZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2UiCiAgICAgICB4MT0i
+          NjAuOTI0MzIiCiAgICAgICB5MT0iMTU4Ljk1MjUxIgogICAgICAgeDI9IjExNC45NDc3NiIK
+          ICAgICAgIHkyPSIxNTguOTUyNTEiCiAgICAgICBncmFkaWVudFRyYW5zZm9ybT0idHJhbnNs
+          YXRlKC0zMC4yOTEyNjIsLTE5LjgwNTgyNSkiIC8+CiAgICA8bGluZWFyR3JhZGllbnQKICAg
+          ICAgIHkyPSIxNTguOTUyNTEiCiAgICAgICB4Mj0iMTE0Ljk0Nzc2IgogICAgICAgeTE9IjE1
+          OC45NTI1MSIKICAgICAgIHgxPSI2MC45MjQzMiIKICAgICAgIGdyYWRpZW50VHJhbnNmb3Jt
+          PSJ0cmFuc2xhdGUoLTMwLjI5MTI2MiwtMTkuODA1ODI1KSIKICAgICAgIGdyYWRpZW50VW5p
+          dHM9InVzZXJTcGFjZU9uVXNlIgogICAgICAgaWQ9ImxpbmVhckdyYWRpZW50NDM3NSIKICAg
+          ICAgIHhsaW5rOmhyZWY9IiNsaW5lYXJHcmFkaWVudDQyNzEiCiAgICAgICBpbmtzY2FwZTpj
+          b2xsZWN0PSJhbHdheXMiIC8+CiAgICA8bGluZWFyR3JhZGllbnQKICAgICAgIGlua3NjYXBl
+          OmNvbGxlY3Q9ImFsd2F5cyIKICAgICAgIHhsaW5rOmhyZWY9IiNsaW5lYXJHcmFkaWVudDQy
+          NzEiCiAgICAgICBpZD0ibGluZWFyR3JhZGllbnQ0NDM5IgogICAgICAgZ3JhZGllbnRVbml0
+          cz0idXNlclNwYWNlT25Vc2UiCiAgICAgICBncmFkaWVudFRyYW5zZm9ybT0idHJhbnNsYXRl
+          KDE3LjQ3NTcyOCw1Ny4wODczNzkpIgogICAgICAgeDE9IjYwLjkyNDMyIgogICAgICAgeTE9
+          IjE1OC45NTI1MSIKICAgICAgIHgyPSIxMTQuOTQ3NzYiCiAgICAgICB5Mj0iMTU4Ljk1MjUx
+          IiAvPgogICAgPGxpbmVhckdyYWRpZW50CiAgICAgICBpbmtzY2FwZTpjb2xsZWN0PSJhbHdh
+          eXMiCiAgICAgICB4bGluazpocmVmPSIjbGluZWFyR3JhZGllbnQ0MjcxIgogICAgICAgaWQ9
+          ImxpbmVhckdyYWRpZW50NDQ0NSIKICAgICAgIGdyYWRpZW50VW5pdHM9InVzZXJTcGFjZU9u
+          VXNlIgogICAgICAgZ3JhZGllbnRUcmFuc2Zvcm09InRyYW5zbGF0ZSgxNy40NzU3MjgsNTcu
+          MDg3Mzc5KSIKICAgICAgIHgxPSI2MC45MjQzMiIKICAgICAgIHkxPSIxNTguOTUyNTEiCiAg
+          ICAgICB4Mj0iMTE0Ljk0Nzc2IgogICAgICAgeTI9IjE1OC45NTI1MSIgLz4KICAgIDxsaW5l
+          YXJHcmFkaWVudAogICAgICAgeTI9IjE1OC45NTI1MSIKICAgICAgIHgyPSIxMTQuOTQ3NzYi
+          CiAgICAgICB5MT0iMTU4Ljk1MjUxIgogICAgICAgeDE9IjYwLjkyNDMyIgogICAgICAgZ3Jh
+          ZGllbnRUcmFuc2Zvcm09InRyYW5zbGF0ZSgxNy40NzU3MjgsNTcuMDg3Mzc5KSIKICAgICAg
+          IGdyYWRpZW50VW5pdHM9InVzZXJTcGFjZU9uVXNlIgogICAgICAgaWQ9ImxpbmVhckdyYWRp
+          ZW50NDQ1NCIKICAgICAgIHhsaW5rOmhyZWY9IiNsaW5lYXJHcmFkaWVudDQyNzEiCiAgICAg
+          ICBpbmtzY2FwZTpjb2xsZWN0PSJhbHdheXMiIC8+CiAgICA8bGluZWFyR3JhZGllbnQKICAg
+          ICAgIGlua3NjYXBlOmNvbGxlY3Q9ImFsd2F5cyIKICAgICAgIHhsaW5rOmhyZWY9IiNsaW5l
+          YXJHcmFkaWVudDQyNzEiCiAgICAgICBpZD0ibGluZWFyR3JhZGllbnQ0NTIwIgogICAgICAg
+          Z3JhZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2UiCiAgICAgICBncmFkaWVudFRyYW5zZm9y
+          bT0idHJhbnNsYXRlKDI5NC4xOTk4OCw2NC43MzY4MTcpIgogICAgICAgeDE9IjYwLjkyNDMy
+          IgogICAgICAgeTE9IjE1OC45NTI1MSIKICAgICAgIHgyPSIxMTQuOTQ3NzYiCiAgICAgICB5
+          Mj0iMTU4Ljk1MjUxIiAvPgogICAgPGxpbmVhckdyYWRpZW50CiAgICAgICBpbmtzY2FwZTpj
+          b2xsZWN0PSJhbHdheXMiCiAgICAgICB4bGluazpocmVmPSIjbGluZWFyR3JhZGllbnQ0Mjcx
+          IgogICAgICAgaWQ9ImxpbmVhckdyYWRpZW50NDUyNiIKICAgICAgIGdyYWRpZW50VW5pdHM9
+          InVzZXJTcGFjZU9uVXNlIgogICAgICAgZ3JhZGllbnRUcmFuc2Zvcm09InRyYW5zbGF0ZSgy
+          OTQuMTk5ODgsNjQuNzM2ODE3KSIKICAgICAgIHgxPSI2MC45MjQzMiIKICAgICAgIHkxPSIx
+          NTguOTUyNTEiCiAgICAgICB4Mj0iMTE0Ljk0Nzc2IgogICAgICAgeTI9IjE1OC45NTI1MSIg
+          Lz4KICAgIDxsaW5lYXJHcmFkaWVudAogICAgICAgeTI9IjE1OC45NTI1MSIKICAgICAgIHgy
+          PSIxMTQuOTQ3NzYiCiAgICAgICB5MT0iMTU4Ljk1MjUxIgogICAgICAgeDE9IjYwLjkyNDMy
+          IgogICAgICAgZ3JhZGllbnRUcmFuc2Zvcm09InRyYW5zbGF0ZSgyOTQuMTk5ODgsNjQuNzM2
+          ODE3KSIKICAgICAgIGdyYWRpZW50VW5pdHM9InVzZXJTcGFjZU9uVXNlIgogICAgICAgaWQ9
+          ImxpbmVhckdyYWRpZW50NDUzNSIKICAgICAgIHhsaW5rOmhyZWY9IiNsaW5lYXJHcmFkaWVu
+          dDQyNzEiCiAgICAgICBpbmtzY2FwZTpjb2xsZWN0PSJhbHdheXMiIC8+CiAgICA8bGluZWFy
+          R3JhZGllbnQKICAgICAgIGlua3NjYXBlOmNvbGxlY3Q9ImFsd2F5cyIKICAgICAgIHhsaW5r
+          OmhyZWY9IiNsaW5lYXJHcmFkaWVudDQyNzEiCiAgICAgICBpZD0ibGluZWFyR3JhZGllbnQ0
+          NTg5IgogICAgICAgZ3JhZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2UiCiAgICAgICBncmFk
+          aWVudFRyYW5zZm9ybT0idHJhbnNsYXRlKDI5NC4wMTkzNCwyMDkuMjI3MzMpIgogICAgICAg
+          eDE9IjYwLjkyNDMyIgogICAgICAgeTE9IjE1OC45NTI1MSIKICAgICAgIHgyPSIxMTQuOTQ3
+          NzYiCiAgICAgICB5Mj0iMTU4Ljk1MjUxIiAvPgogICAgPGxpbmVhckdyYWRpZW50CiAgICAg
+          ICBpbmtzY2FwZTpjb2xsZWN0PSJhbHdheXMiCiAgICAgICB4bGluazpocmVmPSIjbGluZWFy
+          R3JhZGllbnQ0MjcxIgogICAgICAgaWQ9ImxpbmVhckdyYWRpZW50NDU5NSIKICAgICAgIGdy
+          YWRpZW50VW5pdHM9InVzZXJTcGFjZU9uVXNlIgogICAgICAgZ3JhZGllbnRUcmFuc2Zvcm09
+          InRyYW5zbGF0ZSgyOTQuMDE5MzQsMjA5LjIyNzMzKSIKICAgICAgIHgxPSI2MC45MjQzMiIK
+          ICAgICAgIHkxPSIxNTguOTUyNTEiCiAgICAgICB4Mj0iMTE0Ljk0Nzc2IgogICAgICAgeTI9
+          IjE1OC45NTI1MSIgLz4KICAgIDxsaW5lYXJHcmFkaWVudAogICAgICAgeTI9IjE1OC45NTI1
+          MSIKICAgICAgIHgyPSIxMTQuOTQ3NzYiCiAgICAgICB5MT0iMTU4Ljk1MjUxIgogICAgICAg
+          eDE9IjYwLjkyNDMyIgogICAgICAgZ3JhZGllbnRUcmFuc2Zvcm09InRyYW5zbGF0ZSgyOTQu
+          MDE5MzQsMjA5LjIyNzMzKSIKICAgICAgIGdyYWRpZW50VW5pdHM9InVzZXJTcGFjZU9uVXNl
+          IgogICAgICAgaWQ9ImxpbmVhckdyYWRpZW50NDYwNCIKICAgICAgIHhsaW5rOmhyZWY9IiNs
+          aW5lYXJHcmFkaWVudDQyNzEiCiAgICAgICBpbmtzY2FwZTpjb2xsZWN0PSJhbHdheXMiIC8+
+          CiAgICA8bGluZWFyR3JhZGllbnQKICAgICAgIGlua3NjYXBlOmNvbGxlY3Q9ImFsd2F5cyIK
+          ICAgICAgIHhsaW5rOmhyZWY9IiNsaW5lYXJHcmFkaWVudDQyNzEiCiAgICAgICBpZD0ibGlu
+          ZWFyR3JhZGllbnQ0NjYyIgogICAgICAgZ3JhZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2Ui
+          CiAgICAgICBncmFkaWVudFRyYW5zZm9ybT0idHJhbnNsYXRlKDI5NC44MjkxNywzMTkuMDc4
+          MzIpIgogICAgICAgeDE9IjYwLjkyNDMyIgogICAgICAgeTE9IjE1OC45NTI1MSIKICAgICAg
+          IHgyPSIxMTQuOTQ3NzYiCiAgICAgICB5Mj0iMTU4Ljk1MjUxIiAvPgogICAgPGxpbmVhckdy
+          YWRpZW50CiAgICAgICBpbmtzY2FwZTpjb2xsZWN0PSJhbHdheXMiCiAgICAgICB4bGluazpo
+          cmVmPSIjbGluZWFyR3JhZGllbnQ0MjcxIgogICAgICAgaWQ9ImxpbmVhckdyYWRpZW50NDY2
+          OCIKICAgICAgIGdyYWRpZW50VW5pdHM9InVzZXJTcGFjZU9uVXNlIgogICAgICAgZ3JhZGll
+          bnRUcmFuc2Zvcm09InRyYW5zbGF0ZSgyOTQuODI5MTcsMzE5LjA3ODMyKSIKICAgICAgIHgx
+          PSI2MC45MjQzMiIKICAgICAgIHkxPSIxNTguOTUyNTEiCiAgICAgICB4Mj0iMTE0Ljk0Nzc2
+          IgogICAgICAgeTI9IjE1OC45NTI1MSIgLz4KICAgIDxsaW5lYXJHcmFkaWVudAogICAgICAg
+          eTI9IjE1OC45NTI1MSIKICAgICAgIHgyPSIxMTQuOTQ3NzYiCiAgICAgICB5MT0iMTU4Ljk1
+          MjUxIgogICAgICAgeDE9IjYwLjkyNDMyIgogICAgICAgZ3JhZGllbnRUcmFuc2Zvcm09InRy
+          YW5zbGF0ZSgyOTQuODI5MTcsMzE5LjA3ODMyKSIKICAgICAgIGdyYWRpZW50VW5pdHM9InVz
+          ZXJTcGFjZU9uVXNlIgogICAgICAgaWQ9ImxpbmVhckdyYWRpZW50NDY3NyIKICAgICAgIHhs
+          aW5rOmhyZWY9IiNsaW5lYXJHcmFkaWVudDQyNzEiCiAgICAgICBpbmtzY2FwZTpjb2xsZWN0
+          PSJhbHdheXMiIC8+CiAgICA8bGluZWFyR3JhZGllbnQKICAgICAgIGlua3NjYXBlOmNvbGxl
+          Y3Q9ImFsd2F5cyIKICAgICAgIHhsaW5rOmhyZWY9IiNsaW5lYXJHcmFkaWVudDQyNzEiCiAg
+          ICAgICBpZD0ibGluZWFyR3JhZGllbnQ0NzMxIgogICAgICAgZ3JhZGllbnRVbml0cz0idXNl
+          clNwYWNlT25Vc2UiCiAgICAgICBncmFkaWVudFRyYW5zZm9ybT0idHJhbnNsYXRlKDI5NC44
+          MjkxNywzMTkuMDc4MzIpIgogICAgICAgeDE9IjYwLjkyNDMyIgogICAgICAgeTE9IjE1OC45
+          NTI1MSIKICAgICAgIHgyPSIxMTQuOTQ3NzYiCiAgICAgICB5Mj0iMTU4Ljk1MjUxIiAvPgog
+          ICAgPGxpbmVhckdyYWRpZW50CiAgICAgICBpbmtzY2FwZTpjb2xsZWN0PSJhbHdheXMiCiAg
+          ICAgICB4bGluazpocmVmPSIjbGluZWFyR3JhZGllbnQ0MjcxIgogICAgICAgaWQ9ImxpbmVh
+          ckdyYWRpZW50NDczNyIKICAgICAgIGdyYWRpZW50VW5pdHM9InVzZXJTcGFjZU9uVXNlIgog
+          ICAgICAgZ3JhZGllbnRUcmFuc2Zvcm09InRyYW5zbGF0ZSgyOTQuODI5MTcsMzE5LjA3ODMy
+          KSIKICAgICAgIHgxPSI2MC45MjQzMiIKICAgICAgIHkxPSIxNTguOTUyNTEiCiAgICAgICB4
+          Mj0iMTE0Ljk0Nzc2IgogICAgICAgeTI9IjE1OC45NTI1MSIgLz4KICAgIDxsaW5lYXJHcmFk
+          aWVudAogICAgICAgeTI9IjE1OC45NTI1MSIKICAgICAgIHgyPSIxMTQuOTQ3NzYiCiAgICAg
+          ICB5MT0iMTU4Ljk1MjUxIgogICAgICAgeDE9IjYwLjkyNDMyIgogICAgICAgZ3JhZGllbnRU
+          cmFuc2Zvcm09InRyYW5zbGF0ZSgyOTQuODI5MTcsMzE5LjA3ODMyKSIKICAgICAgIGdyYWRp
+          ZW50VW5pdHM9InVzZXJTcGFjZU9uVXNlIgogICAgICAgaWQ9ImxpbmVhckdyYWRpZW50NDc0
+          NiIKICAgICAgIHhsaW5rOmhyZWY9IiNsaW5lYXJHcmFkaWVudDQyNzEiCiAgICAgICBpbmtz
+          Y2FwZTpjb2xsZWN0PSJhbHdheXMiIC8+CiAgICA8bGluZWFyR3JhZGllbnQKICAgICAgIGlu
+          a3NjYXBlOmNvbGxlY3Q9ImFsd2F5cyIKICAgICAgIHhsaW5rOmhyZWY9IiNsaW5lYXJHcmFk
+          aWVudDQyNzEiCiAgICAgICBpZD0ibGluZWFyR3JhZGllbnQ0Nzk2IgogICAgICAgZ3JhZGll
+          bnRVbml0cz0idXNlclNwYWNlT25Vc2UiCiAgICAgICBncmFkaWVudFRyYW5zZm9ybT0idHJh
+          bnNsYXRlKDI5NC44MjkxNywzMTkuMDc4MzIpIgogICAgICAgeDE9IjYwLjkyNDMyIgogICAg
+          ICAgeTE9IjE1OC45NTI1MSIKICAgICAgIHgyPSIxMTQuOTQ3NzYiCiAgICAgICB5Mj0iMTU4
+          Ljk1MjUxIiAvPgogICAgPGxpbmVhckdyYWRpZW50CiAgICAgICBpbmtzY2FwZTpjb2xsZWN0
+          PSJhbHdheXMiCiAgICAgICB4bGluazpocmVmPSIjbGluZWFyR3JhZGllbnQ0MjcxIgogICAg
+          ICAgaWQ9ImxpbmVhckdyYWRpZW50NDgwMiIKICAgICAgIGdyYWRpZW50VW5pdHM9InVzZXJT
+          cGFjZU9uVXNlIgogICAgICAgZ3JhZGllbnRUcmFuc2Zvcm09InRyYW5zbGF0ZSgyOTQuODI5
+          MTcsMzE5LjA3ODMyKSIKICAgICAgIHgxPSI2MC45MjQzMiIKICAgICAgIHkxPSIxNTguOTUy
+          NTEiCiAgICAgICB4Mj0iMTE0Ljk0Nzc2IgogICAgICAgeTI9IjE1OC45NTI1MSIgLz4KICAg
+          IDxsaW5lYXJHcmFkaWVudAogICAgICAgeTI9IjE1OC45NTI1MSIKICAgICAgIHgyPSIxMTQu
+          OTQ3NzYiCiAgICAgICB5MT0iMTU4Ljk1MjUxIgogICAgICAgeDE9IjYwLjkyNDMyIgogICAg
+          ICAgZ3JhZGllbnRUcmFuc2Zvcm09InRyYW5zbGF0ZSgyOTQuODI5MTcsMzE5LjA3ODMyKSIK
+          ICAgICAgIGdyYWRpZW50VW5pdHM9InVzZXJTcGFjZU9uVXNlIgogICAgICAgaWQ9ImxpbmVh
+          ckdyYWRpZW50NDgxMSIKICAgICAgIHhsaW5rOmhyZWY9IiNsaW5lYXJHcmFkaWVudDQyNzEi
+          CiAgICAgICBpbmtzY2FwZTpjb2xsZWN0PSJhbHdheXMiIC8+CiAgICA8bGluZWFyR3JhZGll
+          bnQKICAgICAgIGlua3NjYXBlOmNvbGxlY3Q9ImFsd2F5cyIKICAgICAgIHhsaW5rOmhyZWY9
+          IiNsaW5lYXJHcmFkaWVudDQyNzEiCiAgICAgICBpZD0ibGluZWFyR3JhZGllbnQ0ODg1Igog
+          ICAgICAgZ3JhZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2UiCiAgICAgICBncmFkaWVudFRy
+          YW5zZm9ybT0idHJhbnNsYXRlKDE3LjQ3NTcyOCw1Ny4wODczNzkpIgogICAgICAgeDE9IjYw
+          LjkyNDMyIgogICAgICAgeTE9IjE1OC45NTI1MSIKICAgICAgIHgyPSIxMTQuOTQ3NzYiCiAg
+          ICAgICB5Mj0iMTU4Ljk1MjUxIiAvPgogICAgPGxpbmVhckdyYWRpZW50CiAgICAgICBpbmtz
+          Y2FwZTpjb2xsZWN0PSJhbHdheXMiCiAgICAgICB4bGluazpocmVmPSIjbGluZWFyR3JhZGll
+          bnQ0MjcxIgogICAgICAgaWQ9ImxpbmVhckdyYWRpZW50NDg5MSIKICAgICAgIGdyYWRpZW50
+          VW5pdHM9InVzZXJTcGFjZU9uVXNlIgogICAgICAgZ3JhZGllbnRUcmFuc2Zvcm09InRyYW5z
+          bGF0ZSgxNy40NzU3MjgsNTcuMDg3Mzc5KSIKICAgICAgIHgxPSI2MC45MjQzMiIKICAgICAg
+          IHkxPSIxNTguOTUyNTEiCiAgICAgICB4Mj0iMTE0Ljk0Nzc2IgogICAgICAgeTI9IjE1OC45
+          NTI1MSIgLz4KICAgIDxsaW5lYXJHcmFkaWVudAogICAgICAgeTI9IjE1OC45NTI1MSIKICAg
+          ICAgIHgyPSIxMTQuOTQ3NzYiCiAgICAgICB5MT0iMTU4Ljk1MjUxIgogICAgICAgeDE9IjYw
+          LjkyNDMyIgogICAgICAgZ3JhZGllbnRUcmFuc2Zvcm09InRyYW5zbGF0ZSgxNy40NzU3Mjgs
+          NTcuMDg3Mzc5KSIKICAgICAgIGdyYWRpZW50VW5pdHM9InVzZXJTcGFjZU9uVXNlIgogICAg
+          ICAgaWQ9ImxpbmVhckdyYWRpZW50NDkwMCIKICAgICAgIHhsaW5rOmhyZWY9IiNsaW5lYXJH
+          cmFkaWVudDQyNzEiCiAgICAgICBpbmtzY2FwZTpjb2xsZWN0PSJhbHdheXMiIC8+CiAgICA8
+          bGluZWFyR3JhZGllbnQKICAgICAgIGlua3NjYXBlOmNvbGxlY3Q9ImFsd2F5cyIKICAgICAg
+          IHhsaW5rOmhyZWY9IiNsaW5lYXJHcmFkaWVudDQyNzEiCiAgICAgICBpZD0ibGluZWFyR3Jh
+          ZGllbnQ0OTQ4IgogICAgICAgZ3JhZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2UiCiAgICAg
+          ICBncmFkaWVudFRyYW5zZm9ybT0idHJhbnNsYXRlKDE3LjQ3NTcyOCw1Ny4wODczNzkpIgog
+          ICAgICAgeDE9IjYwLjkyNDMyIgogICAgICAgeTE9IjE1OC45NTI1MSIKICAgICAgIHgyPSIx
+          MTQuOTQ3NzYiCiAgICAgICB5Mj0iMTU4Ljk1MjUxIiAvPgogICAgPGxpbmVhckdyYWRpZW50
+          CiAgICAgICBpbmtzY2FwZTpjb2xsZWN0PSJhbHdheXMiCiAgICAgICB4bGluazpocmVmPSIj
+          bGluZWFyR3JhZGllbnQ0MjcxIgogICAgICAgaWQ9ImxpbmVhckdyYWRpZW50NDk1NCIKICAg
+          ICAgIGdyYWRpZW50VW5pdHM9InVzZXJTcGFjZU9uVXNlIgogICAgICAgZ3JhZGllbnRUcmFu
+          c2Zvcm09InRyYW5zbGF0ZSgxNy40NzU3MjgsNTcuMDg3Mzc5KSIKICAgICAgIHgxPSI2MC45
+          MjQzMiIKICAgICAgIHkxPSIxNTguOTUyNTEiCiAgICAgICB4Mj0iMTE0Ljk0Nzc2IgogICAg
+          ICAgeTI9IjE1OC45NTI1MSIgLz4KICAgIDxsaW5lYXJHcmFkaWVudAogICAgICAgeTI9IjE1
+          OC45NTI1MSIKICAgICAgIHgyPSIxMTQuOTQ3NzYiCiAgICAgICB5MT0iMTU4Ljk1MjUxIgog
+          ICAgICAgeDE9IjYwLjkyNDMyIgogICAgICAgZ3JhZGllbnRUcmFuc2Zvcm09InRyYW5zbGF0
+          ZSgxNy40NzU3MjgsNTcuMDg3Mzc5KSIKICAgICAgIGdyYWRpZW50VW5pdHM9InVzZXJTcGFj
+          ZU9uVXNlIgogICAgICAgaWQ9ImxpbmVhckdyYWRpZW50NDk2MyIKICAgICAgIHhsaW5rOmhy
+          ZWY9IiNsaW5lYXJHcmFkaWVudDQyNzEiCiAgICAgICBpbmtzY2FwZTpjb2xsZWN0PSJhbHdh
+          eXMiIC8+CiAgICA8bGluZWFyR3JhZGllbnQKICAgICAgIGlua3NjYXBlOmNvbGxlY3Q9ImFs
+          d2F5cyIKICAgICAgIHhsaW5rOmhyZWY9IiNsaW5lYXJHcmFkaWVudDQyNzEiCiAgICAgICBp
+          ZD0ibGluZWFyR3JhZGllbnQ1MTcyIgogICAgICAgZ3JhZGllbnRVbml0cz0idXNlclNwYWNl
+          T25Vc2UiCiAgICAgICBncmFkaWVudFRyYW5zZm9ybT0ibWF0cml4KDEuMjU1MDA4NywwLDAs
+          MS4yNTUwMDg1LC01Ny4yNDE1MTYsLTYwLjI5NDEyOCkiCiAgICAgICB4MT0iNjAuOTI0MzIi
+          CiAgICAgICB5MT0iMTU4Ljk1MjUxIgogICAgICAgeDI9IjExNC45NDc3NiIKICAgICAgIHky
+          PSIxNTguOTUyNTEiIC8+CiAgICA8bGluZWFyR3JhZGllbnQKICAgICAgIGlua3NjYXBlOmNv
+          bGxlY3Q9ImFsd2F5cyIKICAgICAgIHhsaW5rOmhyZWY9IiNsaW5lYXJHcmFkaWVudDQyNzEi
+          CiAgICAgICBpZD0ibGluZWFyR3JhZGllbnQ1MTc2IgogICAgICAgZ3JhZGllbnRVbml0cz0i
+          dXNlclNwYWNlT25Vc2UiCiAgICAgICBncmFkaWVudFRyYW5zZm9ybT0ibWF0cml4KDEuMjU1
+          MDA4NywwLDAsMS4yNTUwMDg1LDI2OS4xMDQ2OCwtMTIxLjA5OTMxKSIKICAgICAgIHgxPSI2
+          MC45MjQzMiIKICAgICAgIHkxPSIxNTguOTUyNTEiCiAgICAgICB4Mj0iMTE0Ljk0Nzc2Igog
+          ICAgICAgeTI9IjE1OC45NTI1MSIgLz4KICAgIDxsaW5lYXJHcmFkaWVudAogICAgICAgaW5r
+          c2NhcGU6Y29sbGVjdD0iYWx3YXlzIgogICAgICAgeGxpbms6aHJlZj0iI2xpbmVhckdyYWRp
+          ZW50NDI3MSIKICAgICAgIGlkPSJsaW5lYXJHcmFkaWVudDUxODAiCiAgICAgICBncmFkaWVu
+          dFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIKICAgICAgIGdyYWRpZW50VHJhbnNmb3JtPSJtYXRy
+          aXgoMS4yNTUwMDg3LDAsMCwxLjI1NTAwODUsMjY3LjY0MjU0LC0xLjIwMzM0NTkpIgogICAg
+          ICAgeDE9IjYwLjkyNDMyIgogICAgICAgeTE9IjE1OC45NTI1MSIKICAgICAgIHgyPSIxMTQu
+          OTQ3NzYiCiAgICAgICB5Mj0iMTU4Ljk1MjUxIiAvPgogICAgPGxpbmVhckdyYWRpZW50CiAg
+          ICAgICBpbmtzY2FwZTpjb2xsZWN0PSJhbHdheXMiCiAgICAgICB4bGluazpocmVmPSIjbGlu
+          ZWFyR3JhZGllbnQ0MjcxIgogICAgICAgaWQ9ImxpbmVhckdyYWRpZW50NTE4NCIKICAgICAg
+          IGdyYWRpZW50VW5pdHM9InVzZXJTcGFjZU9uVXNlIgogICAgICAgZ3JhZGllbnRUcmFuc2Zv
+          cm09Im1hdHJpeCgxLjI1NTAwODcsMCwwLDEuMjU1MDA4NSwyNjcuNDE1OTYsMTgwLjEzMzQ5
+          KSIKICAgICAgIHgxPSI2MC45MjQzMiIKICAgICAgIHkxPSIxNTguOTUyNTEiCiAgICAgICB4
+          Mj0iMTE0Ljk0Nzc2IgogICAgICAgeTI9IjE1OC45NTI1MSIgLz4KICAgIDxsaW5lYXJHcmFk
+          aWVudAogICAgICAgaW5rc2NhcGU6Y29sbGVjdD0iYWx3YXlzIgogICAgICAgeGxpbms6aHJl
+          Zj0iI2xpbmVhckdyYWRpZW50NDI3MSIKICAgICAgIGlkPSJsaW5lYXJHcmFkaWVudDUxODgi
+          CiAgICAgICBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIKICAgICAgIGdyYWRpZW50
+          VHJhbnNmb3JtPSJtYXRyaXgoMS4yNTUwMDg3LDAsMCwxLjI1NTAwODUsMjY4LjQzMjMsMzE3
+          Ljk5NzM5KSIKICAgICAgIHgxPSI2MC45MjQzMiIKICAgICAgIHkxPSIxNTguOTUyNTEiCiAg
+          ICAgICB4Mj0iMTE0Ljk0Nzc2IgogICAgICAgeTI9IjE1OC45NTI1MSIgLz4KICAgIDxsaW5l
+          YXJHcmFkaWVudAogICAgICAgaW5rc2NhcGU6Y29sbGVjdD0iYWx3YXlzIgogICAgICAgeGxp
+          bms6aHJlZj0iI2xpbmVhckdyYWRpZW50NDI3MSIKICAgICAgIGlkPSJsaW5lYXJHcmFkaWVu
+          dDUxOTIiCiAgICAgICBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIKICAgICAgIGdy
+          YWRpZW50VHJhbnNmb3JtPSJtYXRyaXgoMS4yNTUwMDg3LDAsMCwxLjI1NTAwODUsNjIzLjk5
+          NTc2LDI0OS4yNzY1MykiCiAgICAgICB4MT0iNjAuOTI0MzIiCiAgICAgICB5MT0iMTU4Ljk1
+          MjUxIgogICAgICAgeDI9IjExNC45NDc3NiIKICAgICAgIHkyPSIxNTguOTUyNTEiIC8+CiAg
+          ICA8bGluZWFyR3JhZGllbnQKICAgICAgIGlua3NjYXBlOmNvbGxlY3Q9ImFsd2F5cyIKICAg
+          ICAgIHhsaW5rOmhyZWY9IiNsaW5lYXJHcmFkaWVudDQyNzEiCiAgICAgICBpZD0ibGluZWFy
+          R3JhZGllbnQ1MTk2IgogICAgICAgZ3JhZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2UiCiAg
+          ICAgICBncmFkaWVudFRyYW5zZm9ybT0ibWF0cml4KDEuMjU1MDA4NywwLDAsMS4yNTUwMDg1
+          LDY2NC45MzU4Niw3Mi4zNTY4NzEpIgogICAgICAgeDE9IjYwLjkyNDMyIgogICAgICAgeTE9
+          IjE1OC45NTI1MSIKICAgICAgIHgyPSIxMTQuOTQ3NzYiCiAgICAgICB5Mj0iMTU4Ljk1MjUx
+          IiAvPgogICAgPGxpbmVhckdyYWRpZW50CiAgICAgICBpbmtzY2FwZTpjb2xsZWN0PSJhbHdh
+          eXMiCiAgICAgICB4bGluazpocmVmPSIjbGluZWFyR3JhZGllbnQ0MjcxIgogICAgICAgaWQ9
+          ImxpbmVhckdyYWRpZW50NTIwOCIKICAgICAgIGdyYWRpZW50VW5pdHM9InVzZXJTcGFjZU9u
+          VXNlIgogICAgICAgZ3JhZGllbnRUcmFuc2Zvcm09Im1hdHJpeCgxLjI1NTAwODcsMCwwLDEu
+          MjU1MDA4NSw1MzAuNDE4NDEsLTEwMi4yNjA4NykiCiAgICAgICB4MT0iNjAuOTI0MzIiCiAg
+          ICAgICB5MT0iMTU4Ljk1MjUxIgogICAgICAgeDI9IjExNC45NDc3NiIKICAgICAgIHkyPSIx
+          NTguOTUyNTEiIC8+CiAgICA8bGluZWFyR3JhZGllbnQKICAgICAgIGlua3NjYXBlOmNvbGxl
+          Y3Q9ImFsd2F5cyIKICAgICAgIHhsaW5rOmhyZWY9IiNsaW5lYXJHcmFkaWVudDQyNzEiCiAg
+          ICAgICBpZD0ibGluZWFyR3JhZGllbnQ1MjE0IgogICAgICAgZ3JhZGllbnRVbml0cz0idXNl
+          clNwYWNlT25Vc2UiCiAgICAgICBncmFkaWVudFRyYW5zZm9ybT0ibWF0cml4KDEuMjU1MDA4
+          NywwLDAsMS4yNTUwMDg1LDM2LjAwOTc5OSwzOS43MDcwOTYpIgogICAgICAgeDE9IjYwLjky
+          NDMyIgogICAgICAgeTE9IjE1OC45NTI1MSIKICAgICAgIHgyPSIxMTQuOTQ3NzYiCiAgICAg
+          ICB5Mj0iMTU4Ljk1MjUxIiAvPgogICAgPGxpbmVhckdyYWRpZW50CiAgICAgICBpbmtzY2Fw
+          ZTpjb2xsZWN0PSJhbHdheXMiCiAgICAgICB4bGluazpocmVmPSIjbGluZWFyR3JhZGllbnQ0
+          MjcxIgogICAgICAgaWQ9ImxpbmVhckdyYWRpZW50NTIyNyIKICAgICAgIGdyYWRpZW50VW5p
+          dHM9InVzZXJTcGFjZU9uVXNlIgogICAgICAgZ3JhZGllbnRUcmFuc2Zvcm09Im1hdHJpeCgx
+          LjI1NTAwODcsMCwwLDEuMjU1MDA4NSwzNi4wMDk3OTksMzkuNzA3MDk2KSIKICAgICAgIHgx
+          PSI2MC45MjQzMiIKICAgICAgIHkxPSIxNTguOTUyNTEiCiAgICAgICB4Mj0iMTE0Ljk0Nzc2
+          IgogICAgICAgeTI9IjE1OC45NTI1MSIgLz4KICAgIDxsaW5lYXJHcmFkaWVudAogICAgICAg
+          aW5rc2NhcGU6Y29sbGVjdD0iYWx3YXlzIgogICAgICAgeGxpbms6aHJlZj0iI2xpbmVhckdy
+          YWRpZW50NDI3MSIKICAgICAgIGlkPSJsaW5lYXJHcmFkaWVudDUyMzMiCiAgICAgICBncmFk
+          aWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIKICAgICAgIGdyYWRpZW50VHJhbnNmb3JtPSJt
+          YXRyaXgoMS4yNTUwMDg3LDAsMCwxLjI1NTAwODUsMzYuMDA5Nzk5LDM5LjcwNzA5NikiCiAg
+          ICAgICB4MT0iNjAuOTI0MzIiCiAgICAgICB5MT0iMTU4Ljk1MjUxIgogICAgICAgeDI9IjEx
+          NC45NDc3NiIKICAgICAgIHkyPSIxNTguOTUyNTEiIC8+CiAgICA8bGluZWFyR3JhZGllbnQK
+          ICAgICAgIGlua3NjYXBlOmNvbGxlY3Q9ImFsd2F5cyIKICAgICAgIHhsaW5rOmhyZWY9IiNs
+          aW5lYXJHcmFkaWVudDQyNzEiCiAgICAgICBpZD0ibGluZWFyR3JhZGllbnQ1MjM5IgogICAg
+          ICAgZ3JhZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2UiCiAgICAgICBncmFkaWVudFRyYW5z
+          Zm9ybT0ibWF0cml4KDEuMjU1MDA4NywwLDAsMS4yNTUwMDg1LDM2LjAwOTc5OSwzOS43MDcw
+          OTYpIgogICAgICAgeDE9IjYwLjkyNDMyIgogICAgICAgeTE9IjE1OC45NTI1MSIKICAgICAg
+          IHgyPSIxMTQuOTQ3NzYiCiAgICAgICB5Mj0iMTU4Ljk1MjUxIiAvPgogICAgPGxpbmVhckdy
+          YWRpZW50CiAgICAgICB5Mj0iMTU4Ljk1MjUxIgogICAgICAgeDI9IjExNC45NDc3NiIKICAg
+          ICAgIHkxPSIxNTguOTUyNTEiCiAgICAgICB4MT0iNjAuOTI0MzIiCiAgICAgICBncmFkaWVu
+          dFRyYW5zZm9ybT0ibWF0cml4KDEuMjU1MDA4NywwLDAsMS4yNTUwMDg1LDM2LjAwOTc5OSwz
+          OS43MDcwOTYpIgogICAgICAgZ3JhZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2UiCiAgICAg
+          ICBpZD0ibGluZWFyR3JhZGllbnQ1MjQ5IgogICAgICAgeGxpbms6aHJlZj0iI2xpbmVhckdy
+          YWRpZW50NDI3MSIKICAgICAgIGlua3NjYXBlOmNvbGxlY3Q9ImFsd2F5cyIgLz4KICAgIDxs
+          aW5lYXJHcmFkaWVudAogICAgICAgaW5rc2NhcGU6Y29sbGVjdD0iYWx3YXlzIgogICAgICAg
+          eGxpbms6aHJlZj0iI2xpbmVhckdyYWRpZW50NDI3MSIKICAgICAgIGlkPSJsaW5lYXJHcmFk
+          aWVudDUzMDkiCiAgICAgICBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIKICAgICAg
+          IGdyYWRpZW50VHJhbnNmb3JtPSJtYXRyaXgoMS4yNTUwMDg3LDAsMCwxLjI1NTAwODUsNDkx
+          LjI4MTMyLDc4LjUyODEwOCkiCiAgICAgICB4MT0iNjAuOTI0MzIiCiAgICAgICB5MT0iMTU4
+          Ljk1MjUxIgogICAgICAgeDI9IjExNC45NDc3NiIKICAgICAgIHkyPSIxNTguOTUyNTEiIC8+
+          CiAgICA8bGluZWFyR3JhZGllbnQKICAgICAgIGlua3NjYXBlOmNvbGxlY3Q9ImFsd2F5cyIK
+          ICAgICAgIHhsaW5rOmhyZWY9IiNsaW5lYXJHcmFkaWVudDQyNzEiCiAgICAgICBpZD0ibGlu
+          ZWFyR3JhZGllbnQ1MzIyIgogICAgICAgZ3JhZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2Ui
+          CiAgICAgICBncmFkaWVudFRyYW5zZm9ybT0ibWF0cml4KDEuMjU1MDA4NywwLDAsMS4yNTUw
+          MDg1LDQ5MS4yODEzMiw3OC41MjgxMDgpIgogICAgICAgeDE9IjYwLjkyNDMyIgogICAgICAg
+          eTE9IjE1OC45NTI1MSIKICAgICAgIHgyPSIxMTQuOTQ3NzYiCiAgICAgICB5Mj0iMTU4Ljk1
+          MjUxIiAvPgogICAgPGxpbmVhckdyYWRpZW50CiAgICAgICBpbmtzY2FwZTpjb2xsZWN0PSJh
+          bHdheXMiCiAgICAgICB4bGluazpocmVmPSIjbGluZWFyR3JhZGllbnQ0MjcxIgogICAgICAg
+          aWQ9ImxpbmVhckdyYWRpZW50NTMyOCIKICAgICAgIGdyYWRpZW50VW5pdHM9InVzZXJTcGFj
+          ZU9uVXNlIgogICAgICAgZ3JhZGllbnRUcmFuc2Zvcm09Im1hdHJpeCgxLjI1NTAwODcsMCww
+          LDEuMjU1MDA4NSw0OTEuMjgxMzIsNzguNTI4MTA4KSIKICAgICAgIHgxPSI2MC45MjQzMiIK
+          ICAgICAgIHkxPSIxNTguOTUyNTEiCiAgICAgICB4Mj0iMTE0Ljk0Nzc2IgogICAgICAgeTI9
+          IjE1OC45NTI1MSIgLz4KICAgIDxsaW5lYXJHcmFkaWVudAogICAgICAgaW5rc2NhcGU6Y29s
+          bGVjdD0iYWx3YXlzIgogICAgICAgeGxpbms6aHJlZj0iI2xpbmVhckdyYWRpZW50NDI3MSIK
+          ICAgICAgIGlkPSJsaW5lYXJHcmFkaWVudDUzMzQiCiAgICAgICBncmFkaWVudFVuaXRzPSJ1
+          c2VyU3BhY2VPblVzZSIKICAgICAgIGdyYWRpZW50VHJhbnNmb3JtPSJtYXRyaXgoMS4yNTUw
+          MDg3LDAsMCwxLjI1NTAwODUsNDkxLjI4MTMyLDc4LjUyODEwOCkiCiAgICAgICB4MT0iNjAu
+          OTI0MzIiCiAgICAgICB5MT0iMTU4Ljk1MjUxIgogICAgICAgeDI9IjExNC45NDc3NiIKICAg
+          ICAgIHkyPSIxNTguOTUyNTEiIC8+CiAgICA8bGluZWFyR3JhZGllbnQKICAgICAgIHkyPSIx
+          NTguOTUyNTEiCiAgICAgICB4Mj0iMTE0Ljk0Nzc2IgogICAgICAgeTE9IjE1OC45NTI1MSIK
+          ICAgICAgIHgxPSI2MC45MjQzMiIKICAgICAgIGdyYWRpZW50VHJhbnNmb3JtPSJtYXRyaXgo
+          MS4yNTUwMDg3LDAsMCwxLjI1NTAwODUsNDkxLjI4MTMyLDc4LjUyODEwOCkiCiAgICAgICBn
+          cmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIKICAgICAgIGlkPSJsaW5lYXJHcmFkaWVu
+          dDUzNDQiCiAgICAgICB4bGluazpocmVmPSIjbGluZWFyR3JhZGllbnQ0MjcxIgogICAgICAg
+          aW5rc2NhcGU6Y29sbGVjdD0iYWx3YXlzIiAvPgogICAgPGxpbmVhckdyYWRpZW50CiAgICAg
+          ICBpbmtzY2FwZTpjb2xsZWN0PSJhbHdheXMiCiAgICAgICB4bGluazpocmVmPSIjbGluZWFy
+          R3JhZGllbnQ0MjcxIgogICAgICAgaWQ9ImxpbmVhckdyYWRpZW50NTM5NCIKICAgICAgIGdy
+          YWRpZW50VW5pdHM9InVzZXJTcGFjZU9uVXNlIgogICAgICAgZ3JhZGllbnRUcmFuc2Zvcm09
+          Im1hdHJpeCgxLjI1NTAwODcsMCwwLDEuMjU1MDA4NSw0MjguNDgyOTcsLTMwLjYyMTc5MSki
+          CiAgICAgICB4MT0iNjAuOTI0MzIiCiAgICAgICB5MT0iMTU4Ljk1MjUxIgogICAgICAgeDI9
+          IjExNC45NDc3NiIKICAgICAgIHkyPSIxNTguOTUyNTEiIC8+CiAgICA8bGluZWFyR3JhZGll
+          bnQKICAgICAgIGlua3NjYXBlOmNvbGxlY3Q9ImFsd2F5cyIKICAgICAgIHhsaW5rOmhyZWY9
+          IiNsaW5lYXJHcmFkaWVudDQyNzEiCiAgICAgICBpZD0ibGluZWFyR3JhZGllbnQ1NDA3Igog
+          ICAgICAgZ3JhZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2UiCiAgICAgICBncmFkaWVudFRy
+          YW5zZm9ybT0ibWF0cml4KDEuMjU1MDA4NywwLDAsMS4yNTUwMDg1LDQyOC40ODI5NywtMzAu
+          NjIxNzkxKSIKICAgICAgIHgxPSI2MC45MjQzMiIKICAgICAgIHkxPSIxNTguOTUyNTEiCiAg
+          ICAgICB4Mj0iMTE0Ljk0Nzc2IgogICAgICAgeTI9IjE1OC45NTI1MSIgLz4KICAgIDxsaW5l
+          YXJHcmFkaWVudAogICAgICAgaW5rc2NhcGU6Y29sbGVjdD0iYWx3YXlzIgogICAgICAgeGxp
+          bms6aHJlZj0iI2xpbmVhckdyYWRpZW50NDI3MSIKICAgICAgIGlkPSJsaW5lYXJHcmFkaWVu
+          dDU0MTMiCiAgICAgICBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIKICAgICAgIGdy
+          YWRpZW50VHJhbnNmb3JtPSJtYXRyaXgoMS4yNTUwMDg3LDAsMCwxLjI1NTAwODUsNDI4LjQ4
+          Mjk3LC0zMC42MjE3OTEpIgogICAgICAgeDE9IjYwLjkyNDMyIgogICAgICAgeTE9IjE1OC45
+          NTI1MSIKICAgICAgIHgyPSIxMTQuOTQ3NzYiCiAgICAgICB5Mj0iMTU4Ljk1MjUxIiAvPgog
+          ICAgPGxpbmVhckdyYWRpZW50CiAgICAgICB5Mj0iMTU4Ljk1MjUxIgogICAgICAgeDI9IjEx
+          NC45NDc3NiIKICAgICAgIHkxPSIxNTguOTUyNTEiCiAgICAgICB4MT0iNjAuOTI0MzIiCiAg
+          ICAgICBncmFkaWVudFRyYW5zZm9ybT0ibWF0cml4KDEuMjU1MDA4NywwLDAsMS4yNTUwMDg1
+          LDQyOC40ODI5NywtMzAuNjIxNzkxKSIKICAgICAgIGdyYWRpZW50VW5pdHM9InVzZXJTcGFj
+          ZU9uVXNlIgogICAgICAgaWQ9ImxpbmVhckdyYWRpZW50NTQyMiIKICAgICAgIHhsaW5rOmhy
+          ZWY9IiNsaW5lYXJHcmFkaWVudDQyNzEiCiAgICAgICBpbmtzY2FwZTpjb2xsZWN0PSJhbHdh
+          eXMiIC8+CiAgICA8bGluZWFyR3JhZGllbnQKICAgICAgIGlua3NjYXBlOmNvbGxlY3Q9ImFs
+          d2F5cyIKICAgICAgIHhsaW5rOmhyZWY9IiNsaW5lYXJHcmFkaWVudDQyNzEiCiAgICAgICBp
+          ZD0ibGluZWFyR3JhZGllbnQ1NDcxIgogICAgICAgZ3JhZGllbnRVbml0cz0idXNlclNwYWNl
+          T25Vc2UiCiAgICAgICBncmFkaWVudFRyYW5zZm9ybT0ibWF0cml4KDEuMjU1MDA4NywwLDAs
+          MS4yNTUwMDg1LDI3Ni40MjM3LDgwLjUxMTU1MikiCiAgICAgICB4MT0iNjAuOTI0MzIiCiAg
+          ICAgICB5MT0iMTU4Ljk1MjUxIgogICAgICAgeDI9IjExNC45NDc3NiIKICAgICAgIHkyPSIx
+          NTguOTUyNTEiIC8+CiAgPC9kZWZzPgogIDxzb2RpcG9kaTpuYW1lZHZpZXcKICAgICBwYWdl
+          Y29sb3I9IiNmZmZmZmYiCiAgICAgYm9yZGVyY29sb3I9IiM2NjY2NjYiCiAgICAgYm9yZGVy
+          b3BhY2l0eT0iMSIKICAgICBvYmplY3R0b2xlcmFuY2U9IjEwIgogICAgIGdyaWR0b2xlcmFu
+          Y2U9IjEwIgogICAgIGd1aWRldG9sZXJhbmNlPSIxMCIKICAgICBpbmtzY2FwZTpwYWdlb3Bh
+          Y2l0eT0iMCIKICAgICBpbmtzY2FwZTpwYWdlc2hhZG93PSIyIgogICAgIGlua3NjYXBlOndp
+          bmRvdy13aWR0aD0iMTM2NiIKICAgICBpbmtzY2FwZTp3aW5kb3ctaGVpZ2h0PSI2ODQiCiAg
+          ICAgaWQ9Im5hbWVkdmlldzQyMjQiCiAgICAgc2hvd2dyaWQ9ImZhbHNlIgogICAgIGlua3Nj
+          YXBlOnpvb209IjAuODU4MzMzMzMiCiAgICAgaW5rc2NhcGU6Y3g9IjM4MS42NjExOSIKICAg
+          ICBpbmtzY2FwZTpjeT0iMzAzLjg3NjY4IgogICAgIGlua3NjYXBlOndpbmRvdy14PSItOCIK
+          ICAgICBpbmtzY2FwZTp3aW5kb3cteT0iLTgiCiAgICAgaW5rc2NhcGU6d2luZG93LW1heGlt
+          aXplZD0iMSIKICAgICBpbmtzY2FwZTpjdXJyZW50LWxheWVyPSJzdmc0MTM2IiAvPgogIDxl
+          bGxpcHNlCiAgICAgY3g9IjM1Ni4yMzIzOSIKICAgICBjeT0iNjguMjE2NjM3IgogICAgIGlk
+          PSJlbGxpcHNlNDEzOCIKICAgICBzdHlsZT0iZmlsbDpub25lO3N0cm9rZTojMDAwMDAwO3N0
+          cm9rZS13aWR0aDoxLjI1NTAwODQ2IgogICAgIHJ4PSIzNy4xOTQ1MDgiCiAgICAgcnk9IjM4
+          LjExMTU4OCIgLz4KICA8dGV4dAogICAgIHg9IjM0OC4wNDcyNCIKICAgICB5PSI2NC42ODU5
+          MTMiCiAgICAgZm9udC1zaXplPSIyMCIKICAgICBpZD0idGV4dDQxNDAiCiAgICAgc3R5bGU9
+          ImZvbnQtc2l6ZToyNS4xMDAxNzAxNHB4O2ZvbnQtZmFtaWx5OidUaW1lcyBOZXcgUm9tYW4n
+          IgogICAgIHRyYW5zZm9ybT0ic2NhbGUoMC45ODc4OTUyMSwxLjAxMjI1MzEpIj5TMDwvdGV4
+          dD4KICA8ZWxsaXBzZQogICAgIGN4PSIzNTYuMjMyMzkiCiAgICAgY3k9IjY4LjIxNjYzNyIK
+          ICAgICBpZD0iZWxsaXBzZTQxNDIiCiAgICAgc3R5bGU9ImZpbGw6bm9uZTtzdHJva2U6IzAw
+          MDAwMDtzdHJva2Utd2lkdGg6MS4yNTUwMDg0NiIKICAgICByeD0iMjkuNzU1NjA2IgogICAg
+          IHJ5PSIzMC40ODkyNzEiIC8+CiAgPGVsbGlwc2UKICAgICBjeD0iMzU2LjIzMjM5IgogICAg
+          IGN5PSIyMDAuMzM2ODEiCiAgICAgaWQ9ImVsbGlwc2U0MTQ0IgogICAgIHN0eWxlPSJmaWxs
+          Om5vbmU7c3Ryb2tlOiMwMDAwMDA7c3Ryb2tlLXdpZHRoOjEuMjU1MDA4NDYiCiAgICAgcng9
+          IjM3LjE5NDUwOCIKICAgICByeT0iMzguMTExNTg4IiAvPgogIDx0ZXh0CiAgICAgeD0iMzQ4
+          LjA0NzI0IgogICAgIHk9IjE4Ny44OTYwNyIKICAgICBmb250LXNpemU9IjIwIgogICAgIGlk
+          PSJ0ZXh0NDE0NiIKICAgICBzdHlsZT0iZm9udC1zaXplOjI1LjEwMDE3MDE0cHg7Zm9udC1m
+          YW1pbHk6J1RpbWVzIE5ldyBSb21hbiciCiAgICAgdHJhbnNmb3JtPSJzY2FsZSgwLjk4Nzg5
+          NTIxLDEuMDEyMjUzMSkiPlMxPC90ZXh0PgogIDxlbGxpcHNlCiAgICAgY3g9IjM1Ni4yMzIz
+          OSIKICAgICBjeT0iMzgyLjAwMjA4IgogICAgIGlkPSJlbGxpcHNlNDE0OCIKICAgICBzdHls
+          ZT0iZmlsbDpub25lO3N0cm9rZTojMDAwMDAwO3N0cm9rZS13aWR0aDoxLjI1NTAwODQ2Igog
+          ICAgIHJ4PSIzNy4xOTQ1MDgiCiAgICAgcnk9IjM4LjExMTU4OCIgLz4KICA8dGV4dAogICAg
+          IHg9IjM0OC4wNDcyNCIKICAgICB5PSIzNjcuMzYyMjciCiAgICAgZm9udC1zaXplPSIyMCIK
+          ICAgICBpZD0idGV4dDQxNTAiCiAgICAgc3R5bGU9ImZvbnQtc2l6ZToyNS4xMDAxNzAxNHB4
+          O2ZvbnQtZmFtaWx5OidUaW1lcyBOZXcgUm9tYW4nIgogICAgIHRyYW5zZm9ybT0ic2NhbGUo
+          MC45ODc4OTUyMSwxLjAxMjI1MzEpIj5TMjwvdGV4dD4KICA8ZWxsaXBzZQogICAgIGN4PSIz
+          NTYuMjMyMzkiCiAgICAgY3k9IjUyMS43NDQ1NyIKICAgICBpZD0iZWxsaXBzZTQxNTIiCiAg
+          ICAgc3R5bGU9ImZpbGw6bm9uZTtzdHJva2U6IzAwMDAwMDtzdHJva2Utd2lkdGg6MS4yNTUw
+          MDg0NiIKICAgICByeD0iMzcuMTk0NTA4IgogICAgIHJ5PSIzOC4xMTE1ODgiIC8+CiAgPHRl
+          eHQKICAgICB4PSIzNDYuNTg1MTQiCiAgICAgeT0iNTA4LjMzNzU1IgogICAgIGZvbnQtc2l6
+          ZT0iMjAiCiAgICAgaWQ9InRleHQ0MTU0IgogICAgIHN0eWxlPSJmb250LXNpemU6MjUuMTAw
+          MTcwMTRweDtmb250LWZhbWlseTonVGltZXMgTmV3IFJvbWFuJyIKICAgICB0cmFuc2Zvcm09
+          InNjYWxlKDAuOTg3ODk1MjEsMS4wMTIyNTMxKSI+UzM8L3RleHQ+CiAgPGVsbGlwc2UKICAg
+          ICBjeD0iNzA3LjEwMDQ2IgogICAgIGN5PSI0NTEuODczMjkiCiAgICAgaWQ9ImVsbGlwc2U0
+          MTU2IgogICAgIHN0eWxlPSJmaWxsOm5vbmU7c3Ryb2tlOiMwMDAwMDA7c3Ryb2tlLXdpZHRo
+          OjEuMjU1MDA4NDYiCiAgICAgcng9IjM3LjE5NDUwOCIKICAgICByeT0iMzguMTExNTg4IiAv
+          PgogIDx0ZXh0CiAgICAgeD0iNzAxLjc1MjU2IgogICAgIHk9IjQzNC45MjU2IgogICAgIGZv
+          bnQtc2l6ZT0iMjAiCiAgICAgaWQ9InRleHQ0MTU4IgogICAgIHN0eWxlPSJmb250LXNpemU6
+          MjUuMTAwMTcwMTRweDtmb250LWZhbWlseTonVGltZXMgTmV3IFJvbWFuJyIKICAgICB0cmFu
+          c2Zvcm09InNjYWxlKDAuOTg3ODk1MjEsMS4wMTIyNTMxKSI+UzQ8L3RleHQ+CiAgPGVsbGlw
+          c2UKICAgICBjeD0iNzQ4LjAxNDUzIgogICAgIGN5PSIyNzAuMjA4MDciCiAgICAgaWQ9ImVs
+          bGlwc2U0MTYwIgogICAgIHN0eWxlPSJmaWxsOm5vbmU7c3Ryb2tlOiMwMDAwMDA7c3Ryb2tl
+          LXdpZHRoOjEuMjU1MDA4NDYiCiAgICAgcng9IjM3LjE5NDUwOCIKICAgICByeT0iMzguMTEx
+          NTg4IiAvPgogIDx0ZXh0CiAgICAgeD0iNzQ0LjYyOTk0IgogICAgIHk9IjI1Ni45MjE1NCIK
+          ICAgICBmb250LXNpemU9IjIwIgogICAgIGlkPSJ0ZXh0NDE2MiIKICAgICBzdHlsZT0iZm9u
+          dC1zaXplOjI1LjEwMDE3MDE0cHg7Zm9udC1mYW1pbHk6J1RpbWVzIE5ldyBSb21hbiciCiAg
+          ICAgdHJhbnNmb3JtPSJzY2FsZSgwLjk4Nzg5NTIxLDEuMDEyMjUzMSkiPlM1PC90ZXh0Pgog
+          IDxlbGxpcHNlCiAgICAgY3g9IjYxNS4zNTQwNiIKICAgICBjeT0iOTcuNDM1NTA5IgogICAg
+          IGlkPSJlbGxpcHNlNDE2NCIKICAgICBzdHlsZT0iZmlsbDpub25lO3N0cm9rZTojMDAwMDAw
+          O3N0cm9rZS13aWR0aDoxLjI1NTAwODQ2IgogICAgIHJ4PSIzNy4xOTQ1MDgiCiAgICAgcnk9
+          IjM4LjExMTU4OCIgLz4KICA8dGV4dAogICAgIHg9IjYxMC4zNDQwNiIKICAgICB5PSI4My4z
+          MTYxMDkiCiAgICAgZm9udC1zaXplPSIyMCIKICAgICBpZD0idGV4dDQxNjYiCiAgICAgc3R5
+          bGU9ImZvbnQtc2l6ZToyNS4xMDAxNzAxNHB4O2ZvbnQtZmFtaWx5OidUaW1lcyBOZXcgUm9t
+          YW4nIgogICAgIHRyYW5zZm9ybT0ic2NhbGUoMC45ODc4OTUyMSwxLjAxMjI1MzEpIj5TNjwv
+          dGV4dD4KICA8cG9seWdvbgogICAgIHBvaW50cz0iMzIwLjUsNzIuNSAzMjAuNSwxMTYuNSAi
+          CiAgICAgaWQ9InBvbHlnb240MTY4IgogICAgIHRyYW5zZm9ybT0ibWF0cml4KDEuMjM5ODE2
+          OSwwLDAsMS4yNzAzODYyLC00MS4xMjg5MTgsMTQuMjI1MjE4KSIKICAgICBzdHlsZT0ic3Ry
+          b2tlOiMwMDAwMDA7c3Ryb2tlLXdpZHRoOjEiIC8+CiAgPHBvbHlnb24KICAgICBwb2ludHM9
+          IjMyMC41LDExNi41IDMyNS41LDEwOC41IDMxNS41LDEwOC41ICIKICAgICBpZD0icG9seWdv
+          bjQxNzAiCiAgICAgdHJhbnNmb3JtPSJtYXRyaXgoMS4yMzk4MTY5LDAsMCwxLjI3MDM4NjIs
+          LTQxLjEyODkxOCwxNC4yMjUyMTgpIgogICAgIHN0eWxlPSJmaWxsOiMwMDAwMDA7c3Ryb2tl
+          LXdpZHRoOjEiIC8+CiAgPHRleHQKICAgICB4PSIyNDUuMTM2NTgiCiAgICAgeT0iMTQwLjE4
+          MTM4IgogICAgIGZvbnQtc2l6ZT0iMjAiCiAgICAgaWQ9InRleHQ0MTcyIgogICAgIHN0eWxl
+          PSJmb250LXNpemU6MjUuMTAwMTcwMTRweDtmb250LWZhbWlseTonVGltZXMgTmV3IFJvbWFu
+          JyIKICAgICB0cmFuc2Zvcm09InNjYWxlKDAuOTg3ODk1MjEsMS4wMTIyNTMxKSI+ZGF0YV9y
+          ZWFkeTwvdGV4dD4KICA8cGF0aAogICAgIGQ9Im0gMzE5LjkzNzM1LDUxMy42OTQzMyBhIDE2
+          My44ODEwNywxNjEuNDE3MzcgMCAwIDEgMCwtMzA1LjMwNzM0IgogICAgIGlkPSJwYXRoNDE3
+          NCIKICAgICBpbmtzY2FwZTpjb25uZWN0b3ItY3VydmF0dXJlPSIwIgogICAgIHN0eWxlPSJm
+          aWxsOm5vbmU7c3Ryb2tlOiMwMDAwMDA7c3Ryb2tlLXdpZHRoOjEuMjc5OTQwMDEiIC8+CiAg
+          PHBvbHlnb24KICAgICBwb2ludHM9IjI5MS4yNDYsMzkzLjE3MyAyODUuMzA1LDM4NS44NDQg
+          MjgyLjA1NSwzOTUuMzAxICIKICAgICBpZD0icG9seWdvbjQxNzYiCiAgICAgdHJhbnNmb3Jt
+          PSJtYXRyaXgoMS4yMzk4MTY5LDAsMCwxLjI3MDM4NjIsLTQxLjEyODkxOCwxNC4yMjUyMTgp
+          IgogICAgIHN0eWxlPSJmaWxsOiMwMDAwMDA7c3Ryb2tlLXdpZHRoOjEiIC8+CiAgPHBhdGgK
+          ICAgICBkPSJNIDM5MC43NDg4OSwyMTQuNTI4MjkgQSA4NjMuOTcxMzQsODg1LjI3Mzc1IDAg
+          MCAxIDY4Mi4yNTk2LDQyMy41MTE5MSIKICAgICBpZD0icGF0aDQxODAiCiAgICAgaW5rc2Nh
+          cGU6Y29ubmVjdG9yLWN1cnZhdHVyZT0iMCIKICAgICBzdHlsZT0iZmlsbDpub25lO3N0cm9r
+          ZTojMDAwMDAwO3N0cm9rZS13aWR0aDoxLjI1NTAwODQ2IiAvPgogIDxwb2x5Z29uCiAgICAg
+          cG9pbnRzPSI1ODMuNDY0LDMyMi4xNzUgNTgxLjY0MiwzMTIuOTE4IDU3NC4zNDUsMzE5Ljc1
+          NiAiCiAgICAgaWQ9InBvbHlnb240MTgyIgogICAgIHRyYW5zZm9ybT0ibWF0cml4KDEuMjM5
+          ODE2OSwwLDAsMS4yNzAzODYyLC00MS4xMjg5MTgsMTQuMjI1MjE4KSIKICAgICBzdHlsZT0i
+          ZmlsbDojMDAwMDAwO3N0cm9rZS13aWR0aDoxIiAvPgogIDxwYXRoCiAgICAgZD0iTSAzOTMu
+          NDI0NDIsMjAwLjUxMzM5IEEgMTA4MS42NjU4LDExMDguMzM1NyAwIDAgMSA3MTIuOTUxMjYs
+          MjU3LjQ5OTEiCiAgICAgaWQ9InBhdGg0MTg2IgogICAgIGlua3NjYXBlOmNvbm5lY3Rvci1j
+          dXJ2YXR1cmU9IjAiCiAgICAgc3R5bGU9ImZpbGw6bm9uZTtzdHJva2U6IzAwMDAwMDtzdHJv
+          a2Utd2lkdGg6MS4yNTUwMDg0NiIgLz4KICA8cG9seWdvbgogICAgIHBvaW50cz0iNjA4LjIx
+          OSwxOTEuNDk2IDYwMi4yMTgsMTg0LjIxNiA1OTkuMDQ2LDE5My43ICIKICAgICBpZD0icG9s
+          eWdvbjQxODgiCiAgICAgdHJhbnNmb3JtPSJtYXRyaXgoMS4yMzk4MTY5LDAsMCwxLjI3MDM4
+          NjIsLTQxLjEyODkxOCwxNC4yMjUyMTgpIgogICAgIHN0eWxlPSJmaWxsOiMwMDAwMDA7c3Ry
+          b2tlLXdpZHRoOjEiIC8+CiAgPHBvbHlnb24KICAgICBwb2ludHM9IjMyMC41LDE3Ni41IDMy
+          MC41LDI1OS41ICIKICAgICBpZD0icG9seWdvbjQxOTIiCiAgICAgdHJhbnNmb3JtPSJtYXRy
+          aXgoMS4yMzk4MTY5LDAsMCwxLjI3MDM4NjIsLTQxLjEyODkxOCwxNC4yMjUyMTgpIgogICAg
+          IHN0eWxlPSJzdHJva2U6IzAwMDAwMDtzdHJva2Utd2lkdGg6MSIgLz4KICA8cG9seWdvbgog
+          ICAgIHBvaW50cz0iMzIwLjUsMjU5LjUgMzI1LjUsMjUxLjUgMzE1LjUsMjUxLjUgIgogICAg
+          IGlkPSJwb2x5Z29uNDE5NCIKICAgICB0cmFuc2Zvcm09Im1hdHJpeCgxLjIzOTgxNjksMCww
+          LDEuMjcwMzg2MiwtNDEuMTI4OTE4LDE0LjIyNTIxOCkiCiAgICAgc3R5bGU9ImZpbGw6IzAw
+          MDAwMDtzdHJva2Utd2lkdGg6MSIgLz4KICA8cG9seWdvbgogICAgIHBvaW50cz0iMzIwLjUs
+          MzE5LjUgMzIwLjUsMzY5LjUgIgogICAgIGlkPSJwb2x5Z29uNDE5OCIKICAgICB0cmFuc2Zv
+          cm09Im1hdHJpeCgxLjIzOTgxNjksMCwwLDEuMjcwMzg2MiwtNDEuMTI4OTE4LDE0LjIyNTIx
+          OCkiCiAgICAgc3R5bGU9InN0cm9rZTojMDAwMDAwO3N0cm9rZS13aWR0aDoxIiAvPgogIDxw
+          b2x5Z29uCiAgICAgcG9pbnRzPSIzMjAuNSwzNjkuNSAzMjUuNSwzNjEuNSAzMTUuNSwzNjEu
+          NSAiCiAgICAgaWQ9InBvbHlnb240MjAwIgogICAgIHRyYW5zZm9ybT0ibWF0cml4KDEuMjM5
+          ODE2OSwwLDAsMS4yNzAzODYyLC00MS4xMjg5MTgsMTQuMjI1MjE4KSIKICAgICBzdHlsZT0i
+          ZmlsbDojMDAwMDAwO3N0cm9rZS13aWR0aDoxIiAvPgogIDx0ZXh0CiAgICAgeD0iMzA2LjYz
+          MTk5IgogICAgIHk9IjQ1My45MzM1IgogICAgIGZvbnQtc2l6ZT0iMjAiCiAgICAgaWQ9InRl
+          eHQ0MjAyIgogICAgIHN0eWxlPSJmb250LXNpemU6MjUuMTAwMTcwMTRweDtmb250LWZhbWls
+          eTonVGltZXMgTmV3IFJvbWFuJyIKICAgICB0cmFuc2Zvcm09InNjYWxlKDAuOTg3ODk1MjEs
+          MS4wMTIyNTMxKSI+bGF0Y2g8L3RleHQ+CiAgPHBhdGgKICAgICBkPSJtIDMyMC4wOTU0NSw1
+          MzAuNTk3ODQgYSAyMzIuNzI5NzQsMjM4LjQ2ODAyIDAgMSAxIDAsLTQ3MS4yMzQ1MzMiCiAg
+          ICAgaWQ9InBhdGg0MjA0IgogICAgIGlua3NjYXBlOmNvbm5lY3Rvci1jdXJ2YXR1cmU9IjAi
+          CiAgICAgc3R5bGU9ImZpbGw6bm9uZTtzdHJva2U6IzAwMDAwMDtzdHJva2Utd2lkdGg6MS4y
+          NTUwMDg0NiIgLz4KICA8cG9seWdvbgogICAgIHBvaW50cz0iMjkxLjM1MywzNS41MzEgMjg0
+          LjIyLDI5LjM1OCAyODIuNjc4LDM5LjIzOCAiCiAgICAgaWQ9InBvbHlnb240MjA2IgogICAg
+          IHRyYW5zZm9ybT0ibWF0cml4KDEuMjM5ODE2OSwwLDAsMS4yNzAzODYyLC00MS4xMjg5MTgs
+          MTQuMjI1MjE4KSIKICAgICBzdHlsZT0iZmlsbDojMDAwMDAwO3N0cm9rZS13aWR0aDoxIiAv
+          PgogIDx0ZXh0CiAgICAgeD0iLTcyLjA4ODE1OCIKICAgICB5PSIyMDMuMDY1ODEiCiAgICAg
+          Zm9udC1zaXplPSIyMCIKICAgICBpZD0idGV4dDQyMDgiCiAgICAgc3R5bGU9ImZvbnQtc2l6
+          ZToyNS4xMDAxNzAxNHB4O2ZvbnQtZmFtaWx5OidUaW1lcyBOZXcgUm9tYW4nIgogICAgIHRy
+          YW5zZm9ybT0ic2NhbGUoMC45ODc4OTUyMSwxLjAxMjI1MzEpIiAvPgogIDx0ZXh0CiAgICAg
+          eD0iLTcyLjA4ODE1OCIKICAgICB5PSIyMDMuMDY1ODEiCiAgICAgZm9udC1zaXplPSIyMCIK
+          ICAgICBzdHlsZT0iZm9udC1zaXplOjI1LjEwMDE3MDE0cHg7Zm9udC1mYW1pbHk6J1RpbWVz
+          IE5ldyBSb21hbiciCiAgICAgaWQ9InRleHQ0MjMwIgogICAgIHRyYW5zZm9ybT0ic2NhbGUo
+          MC45ODc4OTUyMSwxLjAxMjI1MzEpIiAvPgogIDxwb2x5Z29uCiAgICAgcG9pbnRzPSI1NzQu
+          MDUxLDMzOC43NzcgMzQ5Ljk0OSwyOTUuMjIzICIKICAgICBpZD0icG9seWdvbjQyMTAiCiAg
+          ICAgdHJhbnNmb3JtPSJtYXRyaXgoMS4yMzk4MTY5LDAsMCwxLjI3MDM4NjIsLTQxLjEyODkx
+          OCwxNC4yMjUyMTgpIgogICAgIHN0eWxlPSJzdHJva2U6IzAwMDAwMDtzdHJva2Utd2lkdGg6
+          MSIgLz4KICA8cG9seWdvbgogICAgIHBvaW50cz0iMzQ5Ljk0OSwyOTUuMjIzIDM1Ni44NDgs
+          MzAxLjY1OCAzNTguNzU2LDI5MS44NDEgIgogICAgIGlkPSJwb2x5Z29uNDIxMiIKICAgICB0
+          cmFuc2Zvcm09Im1hdHJpeCgxLjIzOTgxNjksMCwwLDEuMjcwMzg2MiwtNDEuMTI4OTE4LDE0
+          LjIyNTIxOCkiCiAgICAgc3R5bGU9ImZpbGw6IzAwMDAwMDtzdHJva2Utd2lkdGg6MSIgLz4K
+          ICA8dGV4dAogICAgIHg9IjQ1NS40OTA2MyIKICAgICB5PSI0NDMuNDc5MTkiCiAgICAgZm9u
+          dC1zaXplPSIyMCIKICAgICBpZD0idGV4dDQyMTQiCiAgICAgc3R5bGU9ImZvbnQtc2l6ZToy
+          NS4xMDAxNzAxNHB4O2ZvbnQtZmFtaWx5OidUaW1lcyBOZXcgUm9tYW4nIgogICAgIHRyYW5z
+          Zm9ybT0ic2NhbGUoMC45ODc4OTUyMSwxLjAxMjI1MzEpIj53cml0ZSB0byBtZW08L3RleHQ+
+          CiAgPHBhdGgKICAgICBkPSJNIDM5My4yNTIwOSw2NC42MDQ5MjEgQSA1NTIuMzY4MTcsNTY1
+          Ljk4NzU2IDAgMCAxIDU3OS45ODcxLDg1LjY2MDMwMyIKICAgICBpZD0icGF0aDQyMTYiCiAg
+          ICAgaW5rc2NhcGU6Y29ubmVjdG9yLWN1cnZhdHVyZT0iMCIKICAgICBzdHlsZT0iZmlsbDpu
+          b25lO3N0cm9rZTojMDAwMDAwO3N0cm9rZS13aWR0aDoxLjI1NTAwODQ2IiAvPgogIDxwb2x5
+          Z29uCiAgICAgcG9pbnRzPSIzNTAuMzU5LDM5LjY1NyAzNTguNjUsNDQuMTU3IDM1OC4wMzgs
+          MzQuMTc2ICIKICAgICBpZD0icG9seWdvbjQyMTgiCiAgICAgdHJhbnNmb3JtPSJtYXRyaXgo
+          MS4yMzk4MTY5LDAsMCwxLjI3MDM4NjIsLTQxLjEyODkxOCwxNC4yMjUyMTgpIgogICAgIHN0
+          eWxlPSJmaWxsOiMwMDAwMDA7c3Ryb2tlLXdpZHRoOjEiIC8+CiAgPHBhdGgKICAgICBkPSJt
+          IDY1MS41NDQzOCwxMDUuNzkwODQgYSAxNDguNDExMDMsMTUyLjA3MDMxIDAgMCAxIDk3LjA2
+          MTUzLDEyNi40MDk3OSIKICAgICBpZD0icGF0aDQyMjAiCiAgICAgaW5rc2NhcGU6Y29ubmVj
+          dG9yLWN1cnZhdHVyZT0iMCIKICAgICBzdHlsZT0iZmlsbDpub25lO3N0cm9rZTojMDAwMDAw
+          O3N0cm9rZS13aWR0aDoxLjI1NTAwODQ2IiAvPgogIDxwb2x5Z29uCiAgICAgcG9pbnRzPSI1
+          NTguNjksNzIuMDc3IDU2NC41MTMsNzkuNSA1NjcuOTEzLDcwLjA5NSAiCiAgICAgaWQ9InBv
+          bHlnb240MjIyIgogICAgIHRyYW5zZm9ybT0ibWF0cml4KDEuMjM5ODE2OSwwLDAsMS4yNzAz
+          ODYyLC00MS4xMjg5MTgsMTQuMjI1MjE4KSIKICAgICBzdHlsZT0iZmlsbDojMDAwMDAwO3N0
+          cm9rZS13aWR0aDoxIiAvPgogIDx0ZXh0CiAgICAgeG1sOnNwYWNlPSJwcmVzZXJ2ZSIKICAg
+          ICBzdHlsZT0iZm9udC1zdHlsZTpub3JtYWw7Zm9udC13ZWlnaHQ6bm9ybWFsO2ZvbnQtc2l6
+          ZTo1MC4yMDAzNDAyN3B4O2xpbmUtaGVpZ2h0OjEyNSU7Zm9udC1mYW1pbHk6c2Fucy1zZXJp
+          ZjtsZXR0ZXItc3BhY2luZzowcHg7d29yZC1zcGFjaW5nOjBweDtmaWxsOnVybCgjbGluZWFy
+          R3JhZGllbnQ1MTcyKTtmaWxsLW9wYWNpdHk6MTtzdHJva2U6bm9uZTtzdHJva2Utd2lkdGg6
+          MXB4O3N0cm9rZS1saW5lY2FwOmJ1dHQ7c3Ryb2tlLWxpbmVqb2luOm1pdGVyO3N0cm9rZS1v
+          cGFjaXR5OjEiCiAgICAgeD0iMTguNzkwMDY4IgogICAgIHk9IjE0Ny4zMzA1NyIKICAgICBp
+          ZD0idGV4dDQyMzQiCiAgICAgc29kaXBvZGk6bGluZXNwYWNpbmc9IjEyNSUiCiAgICAgdHJh
+          bnNmb3JtPSJzY2FsZSgwLjk4Nzg5NTIyLDEuMDEyMjUzMSkiPjx0c3BhbgogICAgICAgc29k
+          aXBvZGk6cm9sZT0ibGluZSIKICAgICAgIHg9IjE4Ljc5MDA2OCIKICAgICAgIHk9IjE0Ny4z
+          MzA1NyIKICAgICAgIGlkPSJ0c3BhbjQyNDAiCiAgICAgICBzdHlsZT0iZm9udC1zdHlsZTpu
+          b3JtYWw7Zm9udC12YXJpYW50Om5vcm1hbDtmb250LXdlaWdodDpub3JtYWw7Zm9udC1zdHJl
+          dGNoOm5vcm1hbDtmb250LXNpemU6MjUuMTAwMTcwMTRweDtmb250LWZhbWlseTonVGltZXMg
+          TmV3IFJvbWFuJzstaW5rc2NhcGUtZm9udC1zcGVjaWZpY2F0aW9uOidUaW1lcyBOZXcgUm9t
+          YW4sICc7ZmlsbDp1cmwoI2xpbmVhckdyYWRpZW50NTE3Mik7ZmlsbC1vcGFjaXR5OjE7c3Ry
+          b2tlOm5vbmU7c3Ryb2tlLW9wYWNpdHk6MSI+cmV0dXJuPC90c3Bhbj48dHNwYW4KICAgICAg
+          IHNvZGlwb2RpOnJvbGU9ImxpbmUiCiAgICAgICB4PSIxOC43OTAwNjgiCiAgICAgICB5PSIx
+          NzguNzA1NzgiCiAgICAgICBzdHlsZT0iZm9udC1zdHlsZTpub3JtYWw7Zm9udC12YXJpYW50
+          Om5vcm1hbDtmb250LXdlaWdodDpub3JtYWw7Zm9udC1zdHJldGNoOm5vcm1hbDtmb250LXNp
+          emU6MjUuMTAwMTcwMTRweDtmb250LWZhbWlseTonVGltZXMgTmV3IFJvbWFuJzstaW5rc2Nh
+          cGUtZm9udC1zcGVjaWZpY2F0aW9uOidUaW1lcyBOZXcgUm9tYW4sICc7ZmlsbDp1cmwoI2xp
+          bmVhckdyYWRpZW50NTE3Mik7ZmlsbC1vcGFjaXR5OjE7c3Ryb2tlOm5vbmU7c3Ryb2tlLW9w
+          YWNpdHk6MSIKICAgICAgIGlkPSJ0c3BhbjQyNDciIC8+PC90ZXh0PgogIDx0ZXh0CiAgICAg
+          eG1sOnNwYWNlPSJwcmVzZXJ2ZSIKICAgICBzdHlsZT0iZm9udC1zdHlsZTpub3JtYWw7Zm9u
+          dC13ZWlnaHQ6bm9ybWFsO2ZvbnQtc2l6ZTo1MC4yMDAzNDAyN3B4O2xpbmUtaGVpZ2h0OjEy
+          NSU7Zm9udC1mYW1pbHk6c2Fucy1zZXJpZjtsZXR0ZXItc3BhY2luZzowcHg7d29yZC1zcGFj
+          aW5nOjBweDtmaWxsOnVybCgjbGluZWFyR3JhZGllbnQ1MTc2KTtmaWxsLW9wYWNpdHk6MTtz
+          dHJva2U6bm9uZTtzdHJva2Utd2lkdGg6MXB4O3N0cm9rZS1saW5lY2FwOmJ1dHQ7c3Ryb2tl
+          LWxpbmVqb2luOm1pdGVyO3N0cm9rZS1vcGFjaXR5OjEiCiAgICAgeD0iMzQ1LjEzNjIzIgog
+          ICAgIHk9Ijg2LjUyNTM3NSIKICAgICBpZD0idGV4dDQyMzQtOSIKICAgICBzb2RpcG9kaTps
+          aW5lc3BhY2luZz0iMTI1JSIKICAgICB0cmFuc2Zvcm09InNjYWxlKDAuOTg3ODk1MjEsMS4w
+          MTIyNTMxKSI+PHRzcGFuCiAgICAgICBzb2RpcG9kaTpyb2xlPSJsaW5lIgogICAgICAgeD0i
+          MzQ1LjEzNjIzIgogICAgICAgeT0iODYuNTI1Mzc1IgogICAgICAgc3R5bGU9ImZvbnQtc3R5
+          bGU6bm9ybWFsO2ZvbnQtdmFyaWFudDpub3JtYWw7Zm9udC13ZWlnaHQ6bm9ybWFsO2ZvbnQt
+          c3RyZXRjaDpub3JtYWw7Zm9udC1zaXplOjE4LjgyNTEyODU2cHg7bGluZS1oZWlnaHQ6ODAu
+          MDAwMDAxMTklO2ZvbnQtZmFtaWx5OidUaW1lcyBOZXcgUm9tYW4nOy1pbmtzY2FwZS1mb250
+          LXNwZWNpZmljYXRpb246J1RpbWVzIE5ldyBSb21hbiwgJztmaWxsOnVybCgjbGluZWFyR3Jh
+          ZGllbnQ1MTc2KTtmaWxsLW9wYWNpdHk6MTtzdHJva2U6bm9uZTtzdHJva2Utb3BhY2l0eTox
+          IgogICAgICAgaWQ9InRzcGFuNDI0Ny0xIj5pZGxlPC90c3Bhbj48L3RleHQ+CiAgPHRleHQK
+          ICAgICB4bWw6c3BhY2U9InByZXNlcnZlIgogICAgIHN0eWxlPSJmb250LXN0eWxlOm5vcm1h
+          bDtmb250LXdlaWdodDpub3JtYWw7Zm9udC1zaXplOjUwLjIwMDM0MDI3cHg7bGluZS1oZWln
+          aHQ6MTI1JTtmb250LWZhbWlseTpzYW5zLXNlcmlmO2xldHRlci1zcGFjaW5nOjBweDt3b3Jk
+          LXNwYWNpbmc6MHB4O2ZpbGw6dXJsKCNsaW5lYXJHcmFkaWVudDUxODApO2ZpbGwtb3BhY2l0
+          eToxO3N0cm9rZTpub25lO3N0cm9rZS13aWR0aDoxcHg7c3Ryb2tlLWxpbmVjYXA6YnV0dDtz
+          dHJva2UtbGluZWpvaW46bWl0ZXI7c3Ryb2tlLW9wYWNpdHk6MSIKICAgICB4PSIzNjAuNjQ3
+          MDMiCiAgICAgeT0iMjA2LjQyMTMzIgogICAgIGlkPSJ0ZXh0NDIzNC02IgogICAgIHNvZGlw
+          b2RpOmxpbmVzcGFjaW5nPSIxMjUlIgogICAgIHRyYW5zZm9ybT0ic2NhbGUoMC45ODc4OTUy
+          MSwxLjAxMjI1MzEpIj48dHNwYW4KICAgICAgIHNvZGlwb2RpOnJvbGU9ImxpbmUiCiAgICAg
+          ICB4PSIzNjAuNjQ3MDMiCiAgICAgICB5PSIyMDYuNDIxMzMiCiAgICAgICBzdHlsZT0iZm9u
+          dC1zdHlsZTpub3JtYWw7Zm9udC12YXJpYW50Om5vcm1hbDtmb250LXdlaWdodDpub3JtYWw7
+          Zm9udC1zdHJldGNoOm5vcm1hbDtmb250LXNpemU6MTguODI1MTI4NTZweDtsaW5lLWhlaWdo
+          dDo2OS45OTk5OTg4MSU7Zm9udC1mYW1pbHk6J1RpbWVzIE5ldyBSb21hbic7LWlua3NjYXBl
+          LWZvbnQtc3BlY2lmaWNhdGlvbjonVGltZXMgTmV3IFJvbWFuLCAnO3RleHQtYWxpZ246Y2Vu
+          dGVyO3RleHQtYW5jaG9yOm1pZGRsZTtmaWxsOnVybCgjbGluZWFyR3JhZGllbnQ1MTgwKTtm
+          aWxsLW9wYWNpdHk6MTtzdHJva2U6bm9uZTtzdHJva2Utb3BhY2l0eToxIgogICAgICAgaWQ9
+          InRzcGFuNDQ5NSI+aW5wdXQ8L3RzcGFuPjx0c3BhbgogICAgICAgc29kaXBvZGk6cm9sZT0i
+          bGluZSIKICAgICAgIHg9IjM2MC42NDcwMyIKICAgICAgIHk9IjIxOS41OTg5MiIKICAgICAg
+          IHN0eWxlPSJmb250LXN0eWxlOm5vcm1hbDtmb250LXZhcmlhbnQ6bm9ybWFsO2ZvbnQtd2Vp
+          Z2h0Om5vcm1hbDtmb250LXN0cmV0Y2g6bm9ybWFsO2ZvbnQtc2l6ZToxOC44MjUxMjg1NnB4
+          O2xpbmUtaGVpZ2h0OjY5Ljk5OTk5ODgxJTtmb250LWZhbWlseTonVGltZXMgTmV3IFJvbWFu
+          JzstaW5rc2NhcGUtZm9udC1zcGVjaWZpY2F0aW9uOidUaW1lcyBOZXcgUm9tYW4sICc7dGV4
+          dC1hbGlnbjpjZW50ZXI7dGV4dC1hbmNob3I6bWlkZGxlO2ZpbGw6dXJsKCNsaW5lYXJHcmFk
+          aWVudDUxODApO2ZpbGwtb3BhY2l0eToxO3N0cm9rZTpub25lO3N0cm9rZS1vcGFjaXR5OjEi
+          CiAgICAgICBpZD0idHNwYW40ODcyIj5jaGFyPC90c3Bhbj48L3RleHQ+CiAgPHRleHQKICAg
+          ICB4bWw6c3BhY2U9InByZXNlcnZlIgogICAgIHN0eWxlPSJmb250LXN0eWxlOm5vcm1hbDtm
+          b250LXdlaWdodDpub3JtYWw7Zm9udC1zaXplOjUwLjIwMDM0MDI3cHg7bGluZS1oZWlnaHQ6
+          MTI1JTtmb250LWZhbWlseTpzYW5zLXNlcmlmO2xldHRlci1zcGFjaW5nOjBweDt3b3JkLXNw
+          YWNpbmc6MHB4O2ZpbGw6dXJsKCNsaW5lYXJHcmFkaWVudDUxODQpO2ZpbGwtb3BhY2l0eTox
+          O3N0cm9rZTpub25lO3N0cm9rZS13aWR0aDoxcHg7c3Ryb2tlLWxpbmVjYXA6YnV0dDtzdHJv
+          a2UtbGluZWpvaW46bWl0ZXI7c3Ryb2tlLW9wYWNpdHk6MSIKICAgICB4PSIzNjAuNDIwNDQi
+          CiAgICAgeT0iMzg3Ljc1ODEyIgogICAgIGlkPSJ0ZXh0NDIzNC02LTkiCiAgICAgc29kaXBv
+          ZGk6bGluZXNwYWNpbmc9IjEyNSUiCiAgICAgdHJhbnNmb3JtPSJzY2FsZSgwLjk4Nzg5NTIx
+          LDEuMDEyMjUzMSkiPjx0c3BhbgogICAgICAgc29kaXBvZGk6cm9sZT0ibGluZSIKICAgICAg
+          IHg9IjM2MC40MjA0NCIKICAgICAgIHk9IjM4Ny43NTgxMiIKICAgICAgIHN0eWxlPSJmb250
+          LXN0eWxlOm5vcm1hbDtmb250LXZhcmlhbnQ6bm9ybWFsO2ZvbnQtd2VpZ2h0Om5vcm1hbDtm
+          b250LXN0cmV0Y2g6bm9ybWFsO2ZvbnQtc2l6ZToxOC44MjUxMjg1NnB4O2xpbmUtaGVpZ2h0
+          OjY5Ljk5OTk5ODgxJTtmb250LWZhbWlseTonVGltZXMgTmV3IFJvbWFuJzstaW5rc2NhcGUt
+          Zm9udC1zcGVjaWZpY2F0aW9uOidUaW1lcyBOZXcgUm9tYW4sICc7dGV4dC1hbGlnbjpjZW50
+          ZXI7dGV4dC1hbmNob3I6bWlkZGxlO2ZpbGw6dXJsKCNsaW5lYXJHcmFkaWVudDUxODQpO2Zp
+          bGwtb3BhY2l0eToxO3N0cm9rZTpub25lO3N0cm9rZS1vcGFjaXR5OjEiCiAgICAgICBpZD0i
+          dHNwYW40NDk1LTIiPnNlbmQ8L3RzcGFuPjx0c3BhbgogICAgICAgc29kaXBvZGk6cm9sZT0i
+          bGluZSIKICAgICAgIHg9IjM2MC40MjA0NCIKICAgICAgIHk9IjQwMC45MzU3IgogICAgICAg
+          c3R5bGU9ImZvbnQtc3R5bGU6bm9ybWFsO2ZvbnQtdmFyaWFudDpub3JtYWw7Zm9udC13ZWln
+          aHQ6bm9ybWFsO2ZvbnQtc3RyZXRjaDpub3JtYWw7Zm9udC1zaXplOjE4LjgyNTEyODU2cHg7
+          bGluZS1oZWlnaHQ6NjkuOTk5OTk4ODElO2ZvbnQtZmFtaWx5OidUaW1lcyBOZXcgUm9tYW4n
+          Oy1pbmtzY2FwZS1mb250LXNwZWNpZmljYXRpb246J1RpbWVzIE5ldyBSb21hbiwgJzt0ZXh0
+          LWFsaWduOmNlbnRlcjt0ZXh0LWFuY2hvcjptaWRkbGU7ZmlsbDp1cmwoI2xpbmVhckdyYWRp
+          ZW50NTE4NCk7ZmlsbC1vcGFjaXR5OjE7c3Ryb2tlOm5vbmU7c3Ryb2tlLW9wYWNpdHk6MSIK
+          ICAgICAgIGlkPSJ0c3BhbjQ1NzIiPmNoYXI8L3RzcGFuPjwvdGV4dD4KICA8dGV4dAogICAg
+          IHhtbDpzcGFjZT0icHJlc2VydmUiCiAgICAgc3R5bGU9ImZvbnQtc3R5bGU6bm9ybWFsO2Zv
+          bnQtd2VpZ2h0Om5vcm1hbDtmb250LXNpemU6NTAuMjAwMzQwMjdweDtsaW5lLWhlaWdodDox
+          MjUlO2ZvbnQtZmFtaWx5OnNhbnMtc2VyaWY7bGV0dGVyLXNwYWNpbmc6MHB4O3dvcmQtc3Bh
+          Y2luZzowcHg7ZmlsbDp1cmwoI2xpbmVhckdyYWRpZW50NTE4OCk7ZmlsbC1vcGFjaXR5OjE7
+          c3Ryb2tlOm5vbmU7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpidXR0O3N0cm9r
+          ZS1saW5lam9pbjptaXRlcjtzdHJva2Utb3BhY2l0eToxIgogICAgIHg9IjM2MS40MzY3NyIK
+          ICAgICB5PSI1MjUuNjIyMDciCiAgICAgaWQ9InRleHQ0MjM0LTYtOS0zIgogICAgIHNvZGlw
+          b2RpOmxpbmVzcGFjaW5nPSIxMjUlIgogICAgIHRyYW5zZm9ybT0ic2NhbGUoMC45ODc4OTUy
+          MSwxLjAxMjI1MzEpIj48dHNwYW4KICAgICAgIHNvZGlwb2RpOnJvbGU9ImxpbmUiCiAgICAg
+          ICB4PSIzNjEuNDM2NzciCiAgICAgICB5PSI1MjUuNjIyMDciCiAgICAgICBzdHlsZT0iZm9u
+          dC1zdHlsZTpub3JtYWw7Zm9udC12YXJpYW50Om5vcm1hbDtmb250LXdlaWdodDpub3JtYWw7
+          Zm9udC1zdHJldGNoOm5vcm1hbDtmb250LXNpemU6MTguODI1MTI4NTZweDtsaW5lLWhlaWdo
+          dDo2OS45OTk5OTg4MSU7Zm9udC1mYW1pbHk6J1RpbWVzIE5ldyBSb21hbic7LWlua3NjYXBl
+          LWZvbnQtc3BlY2lmaWNhdGlvbjonVGltZXMgTmV3IFJvbWFuLCAnO3RleHQtYWxpZ246Y2Vu
+          dGVyO3RleHQtYW5jaG9yOm1pZGRsZTtmaWxsOnVybCgjbGluZWFyR3JhZGllbnQ1MTg4KTtm
+          aWxsLW9wYWNpdHk6MTtzdHJva2U6bm9uZTtzdHJva2Utb3BhY2l0eToxIgogICAgICAgaWQ9
+          InRzcGFuNDU3Mi0xIj5sYXRjaDwvdHNwYW4+PHRzcGFuCiAgICAgICBzb2RpcG9kaTpyb2xl
+          PSJsaW5lIgogICAgICAgeD0iMzYxLjQzNjc3IgogICAgICAgeT0iNTM4Ljc5OTY4IgogICAg
+          ICAgc3R5bGU9ImZvbnQtc3R5bGU6bm9ybWFsO2ZvbnQtdmFyaWFudDpub3JtYWw7Zm9udC13
+          ZWlnaHQ6bm9ybWFsO2ZvbnQtc3RyZXRjaDpub3JtYWw7Zm9udC1zaXplOjE4LjgyNTEyODU2
+          cHg7bGluZS1oZWlnaHQ6NjkuOTk5OTk4ODElO2ZvbnQtZmFtaWx5OidUaW1lcyBOZXcgUm9t
+          YW4nOy1pbmtzY2FwZS1mb250LXNwZWNpZmljYXRpb246J1RpbWVzIE5ldyBSb21hbiwgJzt0
+          ZXh0LWFsaWduOmNlbnRlcjt0ZXh0LWFuY2hvcjptaWRkbGU7ZmlsbDp1cmwoI2xpbmVhckdy
+          YWRpZW50NTE4OCk7ZmlsbC1vcGFjaXR5OjE7c3Ryb2tlOm5vbmU7c3Ryb2tlLW9wYWNpdHk6
+          MSIKICAgICAgIGlkPSJ0c3BhbjQ2NDUiPmRhdGE8L3RzcGFuPjwvdGV4dD4KICA8dGV4dAog
+          ICAgIHhtbDpzcGFjZT0icHJlc2VydmUiCiAgICAgc3R5bGU9ImZvbnQtc3R5bGU6bm9ybWFs
+          O2ZvbnQtd2VpZ2h0Om5vcm1hbDtmb250LXNpemU6NTAuMjAwMzQwMjdweDtsaW5lLWhlaWdo
+          dDoxMjUlO2ZvbnQtZmFtaWx5OnNhbnMtc2VyaWY7bGV0dGVyLXNwYWNpbmc6MHB4O3dvcmQt
+          c3BhY2luZzowcHg7ZmlsbDp1cmwoI2xpbmVhckdyYWRpZW50NTE5Mik7ZmlsbC1vcGFjaXR5
+          OjE7c3Ryb2tlOm5vbmU7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpidXR0O3N0
+          cm9rZS1saW5lam9pbjptaXRlcjtzdHJva2Utb3BhY2l0eToxIgogICAgIHg9IjcxNy4wMDAy
+          NCIKICAgICB5PSI0NTYuOTAxMjUiCiAgICAgaWQ9InRleHQ0MjM0LTYtOS0zLTMiCiAgICAg
+          c29kaXBvZGk6bGluZXNwYWNpbmc9IjEyNSUiCiAgICAgdHJhbnNmb3JtPSJzY2FsZSgwLjk4
+          Nzg5NTIxLDEuMDEyMjUzMSkiPjx0c3BhbgogICAgICAgc29kaXBvZGk6cm9sZT0ibGluZSIK
+          ICAgICAgIHg9IjcxNy4wMDAyNCIKICAgICAgIHk9IjQ1Ni45MDEyNSIKICAgICAgIHN0eWxl
+          PSJmb250LXN0eWxlOm5vcm1hbDtmb250LXZhcmlhbnQ6bm9ybWFsO2ZvbnQtd2VpZ2h0Om5v
+          cm1hbDtmb250LXN0cmV0Y2g6bm9ybWFsO2ZvbnQtc2l6ZToxOC44MjUxMjg1NnB4O2xpbmUt
+          aGVpZ2h0OjY5Ljk5OTk5ODgxJTtmb250LWZhbWlseTonVGltZXMgTmV3IFJvbWFuJzstaW5r
+          c2NhcGUtZm9udC1zcGVjaWZpY2F0aW9uOidUaW1lcyBOZXcgUm9tYW4sICc7dGV4dC1hbGln
+          bjpjZW50ZXI7dGV4dC1hbmNob3I6bWlkZGxlO2ZpbGw6dXJsKCNsaW5lYXJHcmFkaWVudDUx
+          OTIpO2ZpbGwtb3BhY2l0eToxO3N0cm9rZTpub25lO3N0cm9rZS1vcGFjaXR5OjEiCiAgICAg
+          ICBpZD0idHNwYW40NjQ1LTUiPmNsZWFyPC90c3Bhbj48dHNwYW4KICAgICAgIHNvZGlwb2Rp
+          OnJvbGU9ImxpbmUiCiAgICAgICB4PSI3MTcuMDAwMjQiCiAgICAgICB5PSI0NzAuMDc4ODMi
+          CiAgICAgICBzdHlsZT0iZm9udC1zdHlsZTpub3JtYWw7Zm9udC12YXJpYW50Om5vcm1hbDtm
+          b250LXdlaWdodDpub3JtYWw7Zm9udC1zdHJldGNoOm5vcm1hbDtmb250LXNpemU6MTguODI1
+          MTI4NTZweDtsaW5lLWhlaWdodDo2OS45OTk5OTg4MSU7Zm9udC1mYW1pbHk6J1RpbWVzIE5l
+          dyBSb21hbic7LWlua3NjYXBlLWZvbnQtc3BlY2lmaWNhdGlvbjonVGltZXMgTmV3IFJvbWFu
+          LCAnO3RleHQtYWxpZ246Y2VudGVyO3RleHQtYW5jaG9yOm1pZGRsZTtmaWxsOnVybCgjbGlu
+          ZWFyR3JhZGllbnQ1MTkyKTtmaWxsLW9wYWNpdHk6MTtzdHJva2U6bm9uZTtzdHJva2Utb3Bh
+          Y2l0eToxIgogICAgICAgaWQ9InRzcGFuNDcxOCI+c2NyZWVuPC90c3Bhbj48L3RleHQ+CiAg
+          PHRleHQKICAgICB4bWw6c3BhY2U9InByZXNlcnZlIgogICAgIHN0eWxlPSJmb250LXN0eWxl
+          Om5vcm1hbDtmb250LXdlaWdodDpub3JtYWw7Zm9udC1zaXplOjUwLjIwMDM0MDI3cHg7bGlu
+          ZS1oZWlnaHQ6MTI1JTtmb250LWZhbWlseTpzYW5zLXNlcmlmO2xldHRlci1zcGFjaW5nOjBw
+          eDt3b3JkLXNwYWNpbmc6MHB4O2ZpbGw6dXJsKCNsaW5lYXJHcmFkaWVudDUxOTYpO2ZpbGwt
+          b3BhY2l0eToxO3N0cm9rZTpub25lO3N0cm9rZS13aWR0aDoxcHg7c3Ryb2tlLWxpbmVjYXA6
+          YnV0dDtzdHJva2UtbGluZWpvaW46bWl0ZXI7c3Ryb2tlLW9wYWNpdHk6MSIKICAgICB4PSI3
+          NTcuOTQwMzEiCiAgICAgeT0iMjc5Ljk4MTU3IgogICAgIGlkPSJ0ZXh0NDIzNC02LTktMy0z
+          OCIKICAgICBzb2RpcG9kaTpsaW5lc3BhY2luZz0iMTI1JSIKICAgICB0cmFuc2Zvcm09InNj
+          YWxlKDAuOTg3ODk1MjEsMS4wMTIyNTMxKSI+PHRzcGFuCiAgICAgICBzb2RpcG9kaTpyb2xl
+          PSJsaW5lIgogICAgICAgeD0iNzU3Ljk0MDMxIgogICAgICAgeT0iMjc5Ljk4MTU3IgogICAg
+          ICAgc3R5bGU9ImZvbnQtc3R5bGU6bm9ybWFsO2ZvbnQtdmFyaWFudDpub3JtYWw7Zm9udC13
+          ZWlnaHQ6bm9ybWFsO2ZvbnQtc3RyZXRjaDpub3JtYWw7Zm9udC1zaXplOjE4LjgyNTEyODU2
+          cHg7bGluZS1oZWlnaHQ6NjkuOTk5OTk4ODElO2ZvbnQtZmFtaWx5OidUaW1lcyBOZXcgUm9t
+          YW4nOy1pbmtzY2FwZS1mb250LXNwZWNpZmljYXRpb246J1RpbWVzIE5ldyBSb21hbiwgJzt0
+          ZXh0LWFsaWduOmNlbnRlcjt0ZXh0LWFuY2hvcjptaWRkbGU7ZmlsbDp1cmwoI2xpbmVhckdy
+          YWRpZW50NTE5Nik7ZmlsbC1vcGFjaXR5OjE7c3Ryb2tlOm5vbmU7c3Ryb2tlLW9wYWNpdHk6
+          MSIKICAgICAgIGlkPSJ0c3BhbjQ1NzItMS01Ij5sYXRjaDwvdHNwYW4+PHRzcGFuCiAgICAg
+          ICBzb2RpcG9kaTpyb2xlPSJsaW5lIgogICAgICAgeD0iNzU3Ljk0MDMxIgogICAgICAgeT0i
+          MjkzLjE1OTE1IgogICAgICAgc3R5bGU9ImZvbnQtc3R5bGU6bm9ybWFsO2ZvbnQtdmFyaWFu
+          dDpub3JtYWw7Zm9udC13ZWlnaHQ6bm9ybWFsO2ZvbnQtc3RyZXRjaDpub3JtYWw7Zm9udC1z
+          aXplOjE4LjgyNTEyODU2cHg7bGluZS1oZWlnaHQ6NjkuOTk5OTk4ODElO2ZvbnQtZmFtaWx5
+          OidUaW1lcyBOZXcgUm9tYW4nOy1pbmtzY2FwZS1mb250LXNwZWNpZmljYXRpb246J1RpbWVz
+          IE5ldyBSb21hbiwgJzt0ZXh0LWFsaWduOmNlbnRlcjt0ZXh0LWFuY2hvcjptaWRkbGU7Zmls
+          bDp1cmwoI2xpbmVhckdyYWRpZW50NTE5Nik7ZmlsbC1vcGFjaXR5OjE7c3Ryb2tlOm5vbmU7
+          c3Ryb2tlLW9wYWNpdHk6MSIKICAgICAgIGlkPSJ0c3BhbjQ2NDUtMyI+ZGF0YTwvdHNwYW4+
+          PC90ZXh0PgogIDx0ZXh0CiAgICAgeG1sOnNwYWNlPSJwcmVzZXJ2ZSIKICAgICBzdHlsZT0i
+          Zm9udC1zdHlsZTpub3JtYWw7Zm9udC13ZWlnaHQ6bm9ybWFsO2ZvbnQtc2l6ZTo1MC4yMDAz
+          NDAyN3B4O2xpbmUtaGVpZ2h0OjEyNSU7Zm9udC1mYW1pbHk6c2Fucy1zZXJpZjtsZXR0ZXIt
+          c3BhY2luZzowcHg7d29yZC1zcGFjaW5nOjBweDtmaWxsOnVybCgjbGluZWFyR3JhZGllbnQ1
+          MjA4KTtmaWxsLW9wYWNpdHk6MTtzdHJva2U6bm9uZTtzdHJva2Utd2lkdGg6MXB4O3N0cm9r
+          ZS1saW5lY2FwOmJ1dHQ7c3Ryb2tlLWxpbmVqb2luOm1pdGVyO3N0cm9rZS1vcGFjaXR5OjEi
+          CiAgICAgeD0iNjIzLjQyMjkxIgogICAgIHk9IjEwNS4zNjM3OCIKICAgICBpZD0idGV4dDQy
+          MzQtNi05LTMtOSIKICAgICBzb2RpcG9kaTpsaW5lc3BhY2luZz0iMTI1JSIKICAgICB0cmFu
+          c2Zvcm09InNjYWxlKDAuOTg3ODk1MjIsMS4wMTIyNTMxKSI+PHRzcGFuCiAgICAgICBzb2Rp
+          cG9kaTpyb2xlPSJsaW5lIgogICAgICAgeD0iNjIzLjQyMjkxIgogICAgICAgeT0iMTA1LjM2
+          Mzc4IgogICAgICAgc3R5bGU9ImZvbnQtc3R5bGU6bm9ybWFsO2ZvbnQtdmFyaWFudDpub3Jt
+          YWw7Zm9udC13ZWlnaHQ6bm9ybWFsO2ZvbnQtc3RyZXRjaDpub3JtYWw7Zm9udC1zaXplOjE4
+          LjgyNTEyODU2cHg7bGluZS1oZWlnaHQ6NjkuOTk5OTk4ODElO2ZvbnQtZmFtaWx5OidUaW1l
+          cyBOZXcgUm9tYW4nOy1pbmtzY2FwZS1mb250LXNwZWNpZmljYXRpb246J1RpbWVzIE5ldyBS
+          b21hbiwgJzt0ZXh0LWFsaWduOmNlbnRlcjt0ZXh0LWFuY2hvcjptaWRkbGU7ZmlsbDp1cmwo
+          I2xpbmVhckdyYWRpZW50NTIwOCk7ZmlsbC1vcGFjaXR5OjE7c3Ryb2tlOm5vbmU7c3Ryb2tl
+          LW9wYWNpdHk6MSIKICAgICAgIGlkPSJ0c3BhbjQ2NDUtMCI+Y2FsYyBjaGFyPC90c3Bhbj48
+          dHNwYW4KICAgICAgIHNvZGlwb2RpOnJvbGU9ImxpbmUiCiAgICAgICB4PSI2MjMuNDIyOTEi
+          CiAgICAgICB5PSIxMTguNTQxMzciCiAgICAgICBzdHlsZT0iZm9udC1zdHlsZTpub3JtYWw7
+          Zm9udC12YXJpYW50Om5vcm1hbDtmb250LXdlaWdodDpub3JtYWw7Zm9udC1zdHJldGNoOm5v
+          cm1hbDtmb250LXNpemU6MTguODI1MTI4NTZweDtsaW5lLWhlaWdodDo2OS45OTk5OTg4MSU7
+          Zm9udC1mYW1pbHk6J1RpbWVzIE5ldyBSb21hbic7LWlua3NjYXBlLWZvbnQtc3BlY2lmaWNh
+          dGlvbjonVGltZXMgTmV3IFJvbWFuLCAnO3RleHQtYWxpZ246Y2VudGVyO3RleHQtYW5jaG9y
+          Om1pZGRsZTtmaWxsOnVybCgjbGluZWFyR3JhZGllbnQ1MjA4KTtmaWxsLW9wYWNpdHk6MTtz
+          dHJva2U6bm9uZTtzdHJva2Utb3BhY2l0eToxIgogICAgICAgaWQ9InRzcGFuNDg0OCI+cG9z
+          PC90c3Bhbj48L3RleHQ+CiAgPHRleHQKICAgICB4bWw6c3BhY2U9InByZXNlcnZlIgogICAg
+          IHN0eWxlPSJmb250LXN0eWxlOm5vcm1hbDtmb250LXdlaWdodDpub3JtYWw7Zm9udC1zaXpl
+          OjUwLjIwMDM0MDI3cHg7bGluZS1oZWlnaHQ6ODAuMDAwMDAxMTklO2ZvbnQtZmFtaWx5OnNh
+          bnMtc2VyaWY7dGV4dC1hbGlnbjpjZW50ZXI7bGV0dGVyLXNwYWNpbmc6MHB4O3dvcmQtc3Bh
+          Y2luZzowcHg7dGV4dC1hbmNob3I6bWlkZGxlO2ZpbGw6dXJsKCNsaW5lYXJHcmFkaWVudDUy
+          MTQpO2ZpbGwtb3BhY2l0eToxO3N0cm9rZTpub25lO3N0cm9rZS13aWR0aDoxcHg7c3Ryb2tl
+          LWxpbmVjYXA6YnV0dDtzdHJva2UtbGluZWpvaW46bWl0ZXI7c3Ryb2tlLW9wYWNpdHk6MSIK
+          ICAgICB4PSIxNzAuNjg2MDIiCiAgICAgeT0iMjQ3LjMzMTc5IgogICAgIGlkPSJ0ZXh0NDIz
+          NC04IgogICAgIHNvZGlwb2RpOmxpbmVzcGFjaW5nPSI4MC4wMDAwMDElIgogICAgIHRyYW5z
+          Zm9ybT0ic2NhbGUoMC45ODc4OTUyMiwxLjAxMjI1MzEpIj48dHNwYW4KICAgICAgIHNvZGlw
+          b2RpOnJvbGU9ImxpbmUiCiAgICAgICB4PSIxNzAuNjg2MDIiCiAgICAgICB5PSIyNDcuMzMx
+          NzkiCiAgICAgICBzdHlsZT0iZm9udC1zdHlsZTpub3JtYWw7Zm9udC12YXJpYW50Om5vcm1h
+          bDtmb250LXdlaWdodDpub3JtYWw7Zm9udC1zdHJldGNoOm5vcm1hbDtmb250LXNpemU6MjUu
+          MTAwMTcwMTRweDtsaW5lLWhlaWdodDo4MC4wMDAwMDExOSU7Zm9udC1mYW1pbHk6J1RpbWVz
+          IE5ldyBSb21hbic7LWlua3NjYXBlLWZvbnQtc3BlY2lmaWNhdGlvbjonVGltZXMgTmV3IFJv
+          bWFuLCAnO3RleHQtYWxpZ246Y2VudGVyO3RleHQtYW5jaG9yOm1pZGRsZTtmaWxsOnVybCgj
+          bGluZWFyR3JhZGllbnQ1MjE0KTtmaWxsLW9wYWNpdHk6MTtzdHJva2U6bm9uZTtzdHJva2Ut
+          b3BhY2l0eToxIgogICAgICAgaWQ9InRzcGFuNTAxMiI+RU5URVI6PC90c3Bhbj48dHNwYW4K
+          ICAgICAgIHNvZGlwb2RpOnJvbGU9ImxpbmUiCiAgICAgICB4PSIxNzAuNjg2MDIiCiAgICAg
+          ICB5PSIyNjcuNDExOTMiCiAgICAgICBzdHlsZT0iZm9udC1zdHlsZTpub3JtYWw7Zm9udC12
+          YXJpYW50Om5vcm1hbDtmb250LXdlaWdodDpub3JtYWw7Zm9udC1zdHJldGNoOm5vcm1hbDtm
+          b250LXNpemU6MjUuMTAwMTcwMTRweDtsaW5lLWhlaWdodDo4MC4wMDAwMDExOSU7Zm9udC1m
+          YW1pbHk6J1RpbWVzIE5ldyBSb21hbic7LWlua3NjYXBlLWZvbnQtc3BlY2lmaWNhdGlvbjon
+          VGltZXMgTmV3IFJvbWFuLCAnO3RleHQtYWxpZ246Y2VudGVyO3RleHQtYW5jaG9yOm1pZGRs
+          ZTtmaWxsOnVybCgjbGluZWFyR3JhZGllbnQ1MjE0KTtmaWxsLW9wYWNpdHk6MTtzdHJva2U6
+          bm9uZTtzdHJva2Utb3BhY2l0eToxIgogICAgICAgaWQ9InRzcGFuNTIxMCI+c2V0IG5ldyBs
+          aW5lPC90c3Bhbj48dHNwYW4KICAgICAgIHNvZGlwb2RpOnJvbGU9ImxpbmUiCiAgICAgICB4
+          PSIxNzMuODIzNTUiCiAgICAgICB5PSIyODcuNDkyMDciCiAgICAgICBzdHlsZT0iZm9udC1z
+          dHlsZTpub3JtYWw7Zm9udC12YXJpYW50Om5vcm1hbDtmb250LXdlaWdodDpub3JtYWw7Zm9u
+          dC1zdHJldGNoOm5vcm1hbDtmb250LXNpemU6MjUuMTAwMTcwMTRweDtsaW5lLWhlaWdodDo4
+          MC4wMDAwMDExOSU7Zm9udC1mYW1pbHk6J1RpbWVzIE5ldyBSb21hbic7LWlua3NjYXBlLWZv
+          bnQtc3BlY2lmaWNhdGlvbjonVGltZXMgTmV3IFJvbWFuLCAnO3RleHQtYWxpZ246Y2VudGVy
+          O3RleHQtYW5jaG9yOm1pZGRsZTtmaWxsOnVybCgjbGluZWFyR3JhZGllbnQ1MjE0KTtmaWxs
+          LW9wYWNpdHk6MTtzdHJva2U6bm9uZTtzdHJva2Utb3BhY2l0eToxIgogICAgICAgaWQ9InRz
+          cGFuNTAxNiI+YW5kIHJldHVybiAgIDwvdHNwYW4+PC90ZXh0PgogIDx0ZXh0CiAgICAgeG1s
+          OnNwYWNlPSJwcmVzZXJ2ZSIKICAgICBzdHlsZT0iZm9udC1zdHlsZTpub3JtYWw7Zm9udC13
+          ZWlnaHQ6bm9ybWFsO2ZvbnQtc2l6ZTo1MC4yMDAzNDAyN3B4O2xpbmUtaGVpZ2h0OjgwLjAw
+          MDAwMTE5JTtmb250LWZhbWlseTpzYW5zLXNlcmlmO3RleHQtYWxpZ246Y2VudGVyO2xldHRl
+          ci1zcGFjaW5nOjBweDt3b3JkLXNwYWNpbmc6MHB4O3RleHQtYW5jaG9yOm1pZGRsZTtmaWxs
+          OnVybCgjbGluZWFyR3JhZGllbnQ1MzA5KTtmaWxsLW9wYWNpdHk6MTtzdHJva2U6bm9uZTtz
+          dHJva2Utd2lkdGg6MXB4O3N0cm9rZS1saW5lY2FwOmJ1dHQ7c3Ryb2tlLWxpbmVqb2luOm1p
+          dGVyO3N0cm9rZS1vcGFjaXR5OjEiCiAgICAgeD0iNjI1Ljk1NzU4IgogICAgIHk9IjI4Ni4x
+          NTI4IgogICAgIGlkPSJ0ZXh0NDIzNC04LTEiCiAgICAgc29kaXBvZGk6bGluZXNwYWNpbmc9
+          IjgwLjAwMDAwMSUiCiAgICAgdHJhbnNmb3JtPSJzY2FsZSgwLjk4Nzg5NTIyLDEuMDEyMjUz
+          MSkiPjx0c3BhbgogICAgICAgc29kaXBvZGk6cm9sZT0ibGluZSIKICAgICAgIHg9IjYyNS45
+          NTc1OCIKICAgICAgIHk9IjI4Ni4xNTI4IgogICAgICAgc3R5bGU9ImZvbnQtc3R5bGU6bm9y
+          bWFsO2ZvbnQtdmFyaWFudDpub3JtYWw7Zm9udC13ZWlnaHQ6bm9ybWFsO2ZvbnQtc3RyZXRj
+          aDpub3JtYWw7Zm9udC1zaXplOjI1LjEwMDE3MDE0cHg7bGluZS1oZWlnaHQ6ODAuMDAwMDAx
+          MTklO2ZvbnQtZmFtaWx5OidUaW1lcyBOZXcgUm9tYW4nOy1pbmtzY2FwZS1mb250LXNwZWNp
+          ZmljYXRpb246J1RpbWVzIE5ldyBSb21hbiwgJzt0ZXh0LWFsaWduOmNlbnRlcjt0ZXh0LWFu
+          Y2hvcjptaWRkbGU7ZmlsbDp1cmwoI2xpbmVhckdyYWRpZW50NTMwOSk7ZmlsbC1vcGFjaXR5
+          OjE7c3Ryb2tlOm5vbmU7c3Ryb2tlLW9wYWNpdHk6MSIKICAgICAgIGlkPSJ0c3BhbjUwMTYt
+          NiI+RVNDOjwvdHNwYW4+PHRzcGFuCiAgICAgICBzb2RpcG9kaTpyb2xlPSJsaW5lIgogICAg
+          ICAgeD0iNjI1Ljk1NzU4IgogICAgICAgeT0iMzA2LjIzMjk0IgogICAgICAgc3R5bGU9ImZv
+          bnQtc3R5bGU6bm9ybWFsO2ZvbnQtdmFyaWFudDpub3JtYWw7Zm9udC13ZWlnaHQ6bm9ybWFs
+          O2ZvbnQtc3RyZXRjaDpub3JtYWw7Zm9udC1zaXplOjI1LjEwMDE3MDE0cHg7bGluZS1oZWln
+          aHQ6ODAuMDAwMDAxMTklO2ZvbnQtZmFtaWx5OidUaW1lcyBOZXcgUm9tYW4nOy1pbmtzY2Fw
+          ZS1mb250LXNwZWNpZmljYXRpb246J1RpbWVzIE5ldyBSb21hbiwgJzt0ZXh0LWFsaWduOmNl
+          bnRlcjt0ZXh0LWFuY2hvcjptaWRkbGU7ZmlsbDp1cmwoI2xpbmVhckdyYWRpZW50NTMwOSk7
+          ZmlsbC1vcGFjaXR5OjE7c3Ryb2tlOm5vbmU7c3Ryb2tlLW9wYWNpdHk6MSIKICAgICAgIGlk
+          PSJ0c3BhbjUyOTciPmNsZWFyPC90c3Bhbj48dHNwYW4KICAgICAgIHNvZGlwb2RpOnJvbGU9
+          ImxpbmUiCiAgICAgICB4PSI2MjUuOTU3NTgiCiAgICAgICB5PSIzMjYuMzEzMDgiCiAgICAg
+          ICBzdHlsZT0iZm9udC1zdHlsZTpub3JtYWw7Zm9udC12YXJpYW50Om5vcm1hbDtmb250LXdl
+          aWdodDpub3JtYWw7Zm9udC1zdHJldGNoOm5vcm1hbDtmb250LXNpemU6MjUuMTAwMTcwMTRw
+          eDtsaW5lLWhlaWdodDo4MC4wMDAwMDExOSU7Zm9udC1mYW1pbHk6J1RpbWVzIE5ldyBSb21h
+          bic7LWlua3NjYXBlLWZvbnQtc3BlY2lmaWNhdGlvbjonVGltZXMgTmV3IFJvbWFuLCAnO3Rl
+          eHQtYWxpZ246Y2VudGVyO3RleHQtYW5jaG9yOm1pZGRsZTtmaWxsOnVybCgjbGluZWFyR3Jh
+          ZGllbnQ1MzA5KTtmaWxsLW9wYWNpdHk6MTtzdHJva2U6bm9uZTtzdHJva2Utb3BhY2l0eTox
+          IgogICAgICAgaWQ9InRzcGFuNTMwNSI+c2NyZWVuPC90c3Bhbj48L3RleHQ+CiAgPHRleHQK
+          ICAgICB4bWw6c3BhY2U9InByZXNlcnZlIgogICAgIHN0eWxlPSJmb250LXN0eWxlOm5vcm1h
+          bDtmb250LXdlaWdodDpub3JtYWw7Zm9udC1zaXplOjUwLjIwMDM0MDI3cHg7bGluZS1oZWln
+          aHQ6ODAuMDAwMDAxMTklO2ZvbnQtZmFtaWx5OnNhbnMtc2VyaWY7dGV4dC1hbGlnbjpjZW50
+          ZXI7bGV0dGVyLXNwYWNpbmc6MHB4O3dvcmQtc3BhY2luZzowcHg7dGV4dC1hbmNob3I6bWlk
+          ZGxlO2ZpbGw6dXJsKCNsaW5lYXJHcmFkaWVudDUzOTQpO2ZpbGwtb3BhY2l0eToxO3N0cm9r
+          ZTpub25lO3N0cm9rZS13aWR0aDoxcHg7c3Ryb2tlLWxpbmVjYXA6YnV0dDtzdHJva2UtbGlu
+          ZWpvaW46bWl0ZXI7c3Ryb2tlLW9wYWNpdHk6MSIKICAgICB4PSI1NjMuMTU5MjQiCiAgICAg
+          eT0iMTc3LjAwMjkiCiAgICAgaWQ9InRleHQ0MjM0LTgtMS0zIgogICAgIHNvZGlwb2RpOmxp
+          bmVzcGFjaW5nPSI4MC4wMDAwMDElIgogICAgIHRyYW5zZm9ybT0ic2NhbGUoMC45ODc4OTUy
+          MiwxLjAxMjI1MzEpIj48dHNwYW4KICAgICAgIHNvZGlwb2RpOnJvbGU9ImxpbmUiCiAgICAg
+          ICB4PSI1NjMuMTU5MjQiCiAgICAgICB5PSIxNzcuMDAyOSIKICAgICAgIHN0eWxlPSJmb250
+          LXN0eWxlOm5vcm1hbDtmb250LXZhcmlhbnQ6bm9ybWFsO2ZvbnQtd2VpZ2h0Om5vcm1hbDtm
+          b250LXN0cmV0Y2g6bm9ybWFsO2ZvbnQtc2l6ZToyNS4xMDAxNzAxNHB4O2xpbmUtaGVpZ2h0
+          OjgwLjAwMDAwMTE5JTtmb250LWZhbWlseTonVGltZXMgTmV3IFJvbWFuJzstaW5rc2NhcGUt
+          Zm9udC1zcGVjaWZpY2F0aW9uOidUaW1lcyBOZXcgUm9tYW4sICc7dGV4dC1hbGlnbjpjZW50
+          ZXI7dGV4dC1hbmNob3I6bWlkZGxlO2ZpbGw6dXJsKCNsaW5lYXJHcmFkaWVudDUzOTQpO2Zp
+          bGwtb3BhY2l0eToxO3N0cm9rZTpub25lO3N0cm9rZS1vcGFjaXR5OjEiCiAgICAgICBpZD0i
+          dHNwYW41MzA1LTciPkRFTDo8L3RzcGFuPjx0c3BhbgogICAgICAgc29kaXBvZGk6cm9sZT0i
+          bGluZSIKICAgICAgIHg9IjU2My4xNTkyNCIKICAgICAgIHk9IjE5Ny4wODMwNCIKICAgICAg
+          IHN0eWxlPSJmb250LXN0eWxlOm5vcm1hbDtmb250LXZhcmlhbnQ6bm9ybWFsO2ZvbnQtd2Vp
+          Z2h0Om5vcm1hbDtmb250LXN0cmV0Y2g6bm9ybWFsO2ZvbnQtc2l6ZToyNS4xMDAxNzAxNHB4
+          O2xpbmUtaGVpZ2h0OjgwLjAwMDAwMTE5JTtmb250LWZhbWlseTonVGltZXMgTmV3IFJvbWFu
+          JzstaW5rc2NhcGUtZm9udC1zcGVjaWZpY2F0aW9uOidUaW1lcyBOZXcgUm9tYW4sICc7dGV4
+          dC1hbGlnbjpjZW50ZXI7dGV4dC1hbmNob3I6bWlkZGxlO2ZpbGw6dXJsKCNsaW5lYXJHcmFk
+          aWVudDUzOTQpO2ZpbGwtb3BhY2l0eToxO3N0cm9rZTpub25lO3N0cm9rZS1vcGFjaXR5OjEi
+          CiAgICAgICBpZD0idHNwYW41MzkwIj5kZWxldGUgY2hhcmFjdGVyPC90c3Bhbj48L3RleHQ+
+          CiAgPHRleHQKICAgICB4bWw6c3BhY2U9InByZXNlcnZlIgogICAgIHN0eWxlPSJmb250LXN0
+          eWxlOm5vcm1hbDtmb250LXdlaWdodDpub3JtYWw7Zm9udC1zaXplOjUwLjIwMDM0MDI3cHg7
+          bGluZS1oZWlnaHQ6ODAuMDAwMDAxMTklO2ZvbnQtZmFtaWx5OnNhbnMtc2VyaWY7dGV4dC1h
+          bGlnbjpjZW50ZXI7bGV0dGVyLXNwYWNpbmc6MHB4O3dvcmQtc3BhY2luZzowcHg7dGV4dC1h
+          bmNob3I6bWlkZGxlO2ZpbGw6dXJsKCNsaW5lYXJHcmFkaWVudDU0NzEpO2ZpbGwtb3BhY2l0
+          eToxO3N0cm9rZTpub25lO3N0cm9rZS13aWR0aDoxcHg7c3Ryb2tlLWxpbmVjYXA6YnV0dDtz
+          dHJva2UtbGluZWpvaW46bWl0ZXI7c3Ryb2tlLW9wYWNpdHk6MSIKICAgICB4PSI0MTEuMDk5
+          OTUiCiAgICAgeT0iMjg4LjEzNjIzIgogICAgIGlkPSJ0ZXh0NDIzNC04LTEtMy0zIgogICAg
+          IHNvZGlwb2RpOmxpbmVzcGFjaW5nPSI4MC4wMDAwMDElIgogICAgIHRyYW5zZm9ybT0ic2Nh
+          bGUoMC45ODc4OTUyMiwxLjAxMjI1MzEpIj48dHNwYW4KICAgICAgIHNvZGlwb2RpOnJvbGU9
+          ImxpbmUiCiAgICAgICB4PSI0MTEuMDk5OTUiCiAgICAgICB5PSIyODguMTM2MjMiCiAgICAg
+          ICBzdHlsZT0iZm9udC1zdHlsZTpub3JtYWw7Zm9udC12YXJpYW50Om5vcm1hbDtmb250LXdl
+          aWdodDpub3JtYWw7Zm9udC1zdHJldGNoOm5vcm1hbDtmb250LXNpemU6MjUuMTAwMTcwMTRw
+          eDtsaW5lLWhlaWdodDo4MC4wMDAwMDExOSU7Zm9udC1mYW1pbHk6J1RpbWVzIE5ldyBSb21h
+          bic7LWlua3NjYXBlLWZvbnQtc3BlY2lmaWNhdGlvbjonVGltZXMgTmV3IFJvbWFuLCAnO3Rl
+          eHQtYWxpZ246Y2VudGVyO3RleHQtYW5jaG9yOm1pZGRsZTtmaWxsOnVybCgjbGluZWFyR3Jh
+          ZGllbnQ1NDcxKTtmaWxsLW9wYWNpdHk6MTtzdHJva2U6bm9uZTtzdHJva2Utb3BhY2l0eTox
+          IgogICAgICAgaWQ9InRzcGFuNTM5MC02Ij5wcmludDwvdHNwYW4+PHRzcGFuCiAgICAgICBz
+          b2RpcG9kaTpyb2xlPSJsaW5lIgogICAgICAgeD0iNDExLjA5OTk1IgogICAgICAgeT0iMzA4
+          LjIxNjM3IgogICAgICAgc3R5bGU9ImZvbnQtc3R5bGU6bm9ybWFsO2ZvbnQtdmFyaWFudDpu
+          b3JtYWw7Zm9udC13ZWlnaHQ6bm9ybWFsO2ZvbnQtc3RyZXRjaDpub3JtYWw7Zm9udC1zaXpl
+          OjI1LjEwMDE3MDE0cHg7bGluZS1oZWlnaHQ6ODAuMDAwMDAxMTklO2ZvbnQtZmFtaWx5OidU
+          aW1lcyBOZXcgUm9tYW4nOy1pbmtzY2FwZS1mb250LXNwZWNpZmljYXRpb246J1RpbWVzIE5l
+          dyBSb21hbiwgJzt0ZXh0LWFsaWduOmNlbnRlcjt0ZXh0LWFuY2hvcjptaWRkbGU7ZmlsbDp1
+          cmwoI2xpbmVhckdyYWRpZW50NTQ3MSk7ZmlsbC1vcGFjaXR5OjE7c3Ryb2tlOm5vbmU7c3Ry
+          b2tlLW9wYWNpdHk6MSIKICAgICAgIGlkPSJ0c3BhbjU0NTkiPmNoYXJhY3RlcjwvdHNwYW4+
+          PC90ZXh0Pgo8L3N2Zz4K
+         </office:binary-data>
+        </draw:image>
+       </draw:frame><text:span text:style-name="T7">Drawing</text:span> <text:sequence text:ref-name="refIllustration0" text:name="Illustration" text:formula="ooow:Illustration+1" style:num-format="1">1</text:sequence>: “uart_mem_if” interface <text:span text:style-name="T7">state machine</text:span></text:p>
+     </draw:text-box>
+    </draw:frame><text:soft-page-break/></text:p>
+   <text:h text:style-name="P35" text:outline-level="2"><text:span text:style-name="T2">“character_ram” – character RAM memory</text:span></text:h>
+   <text:p text:style-name="P28">Input:</text:p>
+   <text:p text:style-name="P28"><text:tab/>“data” – 8-bit wide bus for character insert</text:p>
+   <text:p text:style-name="P28"><text:tab/>“wraddress” – 12-bit bus which specifies on which address write characters</text:p>
+   <text:p text:style-name="P28"><text:tab/>“wren” – write enable signal for memory</text:p>
+   <text:p text:style-name="P28"><text:tab/>“rdaddress” – 12-bit bus which specifies on which address should “q” output latch</text:p>
+   <text:p text:style-name="P28"><text:tab/>“clock” – 100MHz clock</text:p>
+   <text:p text:style-name="P28">output:</text:p>
+   <text:p text:style-name="P28"><text:tab/>“q” – memory output</text:p>
+   <text:p text:style-name="P5"><text:span text:style-name="T1">Altera Megafunction – 1-port RAM</text:span> memory where characters are stored.</text:p>
+   <text:h text:style-name="P22" text:outline-level="2">“<text:span text:style-name="T1">ram_rom_if” – character RAM interface</text:span></text:h>
+   <text:p text:style-name="P28">Input:</text:p>
+   <text:p text:style-name="P28"><text:tab/>“in” – 8-bit wide bus</text:p>
+   <text:p text:style-name="P28">output:</text:p>
+   <text:p text:style-name="P28"><text:tab/>“out” – 7-bit wide bus</text:p>
+   <text:p text:style-name="P11"><text:soft-page-break/>Simple interface. Gets 8-byte character code and outputs lowest 7 bytes. This is needed because “font_rom” does have only first 128(2<text:span text:style-name="T5">7</text:span>) ASCII characters <text:span text:style-name="T7">and input from character memory is 8-bit.</text:span></text:p>
+   <text:h text:style-name="P18" text:outline-level="2">“font_rom” – font ROM memory</text:h>
+   <text:p text:style-name="P28">Input:</text:p>
+   <text:p text:style-name="P28"><text:tab/>“address” – 7-bit wide bus which takes? Or gets? address (which is address for single character)</text:p>
+   <text:p text:style-name="P28"><text:tab/>“clock” – 100MHz clock</text:p>
+   <text:p text:style-name="P28">output:</text:p>
+   <text:p text:style-name="P28"><text:tab/>“q” – 96-bit output which output is whole pixel image of single character</text:p>
+   <text:p text:style-name="P4">A memory where raw font data are stored. There are first 128 characters generated from “Courier” windows font. Characters are saved in memory dump named “font_rom.mif”. In this file, every line describes one character. All pixels of a character are stored one after another, from first to the last pixel. The memory block was generated using “Altera Megafunction – ROM: 1-PORT”, sized 96 bits by 128 words.</text:p>
    <text:h text:style-name="P21" text:outline-level="2">“<text:span text:style-name="T2">pixel_gen” – <text:s/>single pixel generator</text:span></text:h>
-   <text:p text:style-name="P13">A block which is responsible for generating pixels on screen. This is done by reading row and column of current pixel and putting (or not) signal to output. The decision to put or not to put a pixel is determined by another signal “data_in”. This signal is a single font. Then, there is computation of proper pixel which should be displayed and the information is sent to output. </text:p>
-   <text:h text:style-name="P19" text:outline-level="2">“pix_to_rgb” – <text:span text:style-name="T1">VGA</text:span> <text:span text:style-name="T1">RGB</text:span> signals generator from pixel</text:h>
-   <text:p text:style-name="P13">This block is responsible for generating signals red (5-bit), green (6-bit) and blue (6-bit) from the one-bit input. This input is then converted to white signal in case of positive input and “video_on” or black signal in another case.</text:p>
-   <text:h text:style-name="P24" text:outline-level="1">Conclusion</text:h>
-   <text:p text:style-name="P11">VGA signal generation is a task which needs observing exact timings carefully. This was a first problem. Then, pixel generator from character was designed <text:span text:style-name="T1">and written</text:span>.</text:p>
-   <text:p text:style-name="P11"><text:span text:style-name="T1">Hard task was to get acquainted with Modelsim.</text:span></text:p>
-   <text:p text:style-name="P12">The last task was to rewrite UART receiver code from VHDL to Verilog and connect all blocks together with writing “uart_mem_if”. It was not took much time compared to writing another modules.</text:p>
-   <text:h text:style-name="P24" text:outline-level="1">Bibliography</text:h>
-   <text:list xml:id="list2713732942523200737" text:style-name="L1">
+   <text:p text:style-name="P28">Input:</text:p>
+   <text:p text:style-name="P28"><text:tab/>“clock100” – 100MHz clock</text:p>
+   <text:p text:style-name="P28"><text:tab/>“clock25” – 25MHz clock</text:p>
+   <text:p text:style-name="P28"><text:tab/>“HorizontalCounter” – 10-bit counter, counting horizontal lines</text:p>
+   <text:p text:style-name="P28"><text:tab/>“VerticalCounter” – 10-bit counter, counting vertical lines</text:p>
+   <text:p text:style-name="P28"><text:tab/>“data_in” – 96-bit input which purpose is to get whole pixel image of single character</text:p>
+   <text:p text:style-name="P28">output:</text:p>
+   <text:p text:style-name="P28"><text:tab/>“Pixel” – single pixel derived from counting horizontal and vertical lines along with data_in.</text:p>
+   <text:p text:style-name="P4">A block which is responsible for generating pixels on screen. This is done by reading row and column of current pixel and putting (or not) signal to output. The decision to put or not to put a pixel is determined by another signal “data_in”. This signal is a single font. Then, there is computation of proper pixel which should be displayed and the information is sent to output. </text:p>
+   <text:h text:style-name="P18" text:outline-level="2">“pix_to_rgb” – VGA RGB signals generator from pixel</text:h>
+   <text:p text:style-name="P28">Input:</text:p>
+   <text:p text:style-name="P28"><text:tab/>“video_on” – video enable signal</text:p>
+   <text:p text:style-name="P28"><text:tab/>“pix” – single pixel which should be sent to output</text:p>
+   <text:p text:style-name="P28">output:</text:p>
+   <text:p text:style-name="P28"><text:tab/>“Red” – 5-bit wide signal, describes red video signal</text:p>
+   <text:p text:style-name="P28"><text:tab/>“Green” – 6-bit wide signal, describes green video signal</text:p>
+   <text:p text:style-name="P28"><text:tab/>“Blue” – 5-bit wide signal, describes blue video signal</text:p>
+   <text:p text:style-name="P4">This block is responsible for generating signals red (5-bit), green (6-bit) and blue (6-bit) from the one-bit “<text:span text:style-name="T7">pix” </text:span>input. This input is then converted to white signal in case of positive input <text:span text:style-name="T7">and</text:span> black signal in another case. <text:span text:style-name="T7">If “video_on” is not active, black signal is always sent.</text:span></text:p>
+   <text:h text:style-name="P44" text:outline-level="1"><text:soft-page-break/>Testing</text:h>
+   <text:p text:style-name="P28">Several test benches were written. However, no whole system simulation was performed.</text:p>
+   <text:p text:style-name="P28">Testbenches are stored in “src/testbenches” directory.</text:p>
+   <text:p text:style-name="P28">Modelsim “do” files are stored in “simulation/modelsim”.</text:p>
+   <text:h text:style-name="P39" text:outline-level="2">uart_rx_tb1</text:h>
+   <text:p text:style-name="P29">Connects to “uart_rx” module. “uart_rx” module is rewritten VHDL “uart_rx” module taken from course homepage. The simulation purpose was to test that there are not made any mistakes.</text:p>
+   <text:p text:style-name="P29">There is 115,2kHz signal generator. With this signal pulses, cnt2 is counted up. On desired cnt2 value, a single uart character is sent to input.</text:p>
+   <text:h text:style-name="P39" text:outline-level="2">uart_mem_if_tb1</text:h>
+   <text:p text:style-name="P29">Connects to “uart_mem_if” module. Module was written to test if module correctly sets outputs in case of “data_ready” strobe signal (which informs about valid data on output).</text:p>
+   <text:h text:style-name="P40" text:outline-level="2">screen_mem_tb1, <text:span text:style-name="T7">mem_read_tb1</text:span></text:h>
+   <text:p text:style-name="P29">Obsolete. It was connecting with screen memory(font rom). Then, it was replaced with Altera Megafunction memory because it was less error-prone and synthesis tool anyway examined this block out of “screen_mem”(“font_rom”) module.</text:p>
+   <text:h text:style-name="P39" text:outline-level="2">char_gen_tb1</text:h>
+   <text:p text:style-name="P29">Obsolete. Used in very first tests of memory. Replaced like in previous point c).</text:p>
+   <text:h text:style-name="P39" text:outline-level="2">mem_chain_tb1</text:h>
+   <text:p text:style-name="P29">Testbench for testing whole memory chain. Connects together “char_gen”, “char_rom_test”, “ram_rom_if”, “font_rom”. Signals generated inside testbench are: 100MHz clock and horizontal and vertical counter signals, and they are used by chain modules.</text:p>
+   <text:p text:style-name="P29">Testing was done by writing commands to Modelsim. It was automated using “do” files stored in “simulation/modelsim” directory.</text:p>
+   <text:h text:style-name="P39" text:outline-level="2">coord_gen_tb1</text:h>
+   <text:p text:style-name="P29">Testbench for testing proper pixel position. Testbench generates clock 25MHz and horizontal and vertical vga counting. It was connected to module “coord_gen” which was then renamed to “pix_gen”. Testing was done by visually observing corner cases such as end of line or end of screen.</text:p>
+   <text:h text:style-name="P43" text:outline-level="1">Conclusion</text:h>
+   <text:p text:style-name="P9">VGA signal generation is a task which needs observing exact timings carefully. This was a first problem. Then, pixel generator from character was designed <text:span text:style-name="T1">and written</text:span>.</text:p>
+   <text:p text:style-name="P10">Hard task was to get acquainted with Modelsim <text:span text:style-name="T7">and its environment. Memories alone and the whole memory chain was tested there.</text:span></text:p>
+   <text:p text:style-name="P10">The last task was to rewrite UART receiver code from VHDL to Verilog and connect all blocks together with “uart_mem_if”. It was not t<text:span text:style-name="T6">ake</text:span> much time compared to writing another modules.</text:p>
+   <text:h text:style-name="P13" text:outline-level="1"><text:soft-page-break/>Bibliography</text:h>
+   <text:list xml:id="list2214573026907772793" text:style-name="L1">
     <text:list-item>
-     <text:p text:style-name="P14">Nexys3 Reference manual</text:p>
+     <text:p text:style-name="P24">Nexys3 Reference manual</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P14">http://www.asic-world.com/</text:p>
+     <text:p text:style-name="P24">http://www.asic-world.com/</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P14">http://www.fpga4fun.com/</text:p>
+     <text:p text:style-name="P24">http://www.fpga4fun.com/</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P14">http://people.ece.cornell.edu/land/courses/ece5760/</text:p>
+     <text:p text:style-name="P24">http://people.ece.cornell.edu/land/courses/ece5760/</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P14">P. Chu, FPGA Prototyping by VHDL Examples</text:p>
+     <text:p text:style-name="P24">P. Chu, FPGA Prototyping by VHDL Examples</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P14">http://measure.feld.cvut.cz/en/education/courses/AE0B38APH</text:p>
+     <text:p text:style-name="P24">http://measure.feld.cvut.cz/en/education/courses/AE0B38APH</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P14">ftp://ftp.altera.com/up/pub/Altera_Material/Boards/DE1/DE1_User_Manual.pdf</text:p>
+     <text:p text:style-name="P24">ftp://ftp.altera.com/up/pub/Altera_Material/Boards/DE1/DE1_User_Manual.pdf</text:p>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="P17"><draw:frame draw:style-name="fr1" draw:name="Obraz1" text:anchor-type="paragraph" svg:width="25.7cm" svg:height="12.412cm" draw:z-index="0"><draw:image>
+   <text:p text:style-name="P33"><draw:frame draw:style-name="fr2" draw:name="Obraz1" text:anchor-type="paragraph" svg:width="25.7cm" svg:height="12.412cm" draw:z-index="0"><draw:image>
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAB4IAAAOgCAIAAABX1iyJAAgQvElEQVR4nOzdCYAkVXk48O8d
        dR/dM9Mzu8vlHY9EY2I0/hM1msN4H1EERFAQ5BKMiIJRExM1BuVQUY5lWVjuFRXPaKLxiEk0
        h7mjRqMJu9PLsctMX9V1vXrv/17VzOwAO2bGXcIsfI+htvpXr1+9rqunv3n9FVdKCSFoXaqq
@@ -10321,7 +11300,7 @@
        vf8/6mGyyBF/rAUAAAAASUVORK5CYII=
       </office:binary-data>
      </draw:image>
-    </draw:frame><draw:frame draw:style-name="fr2" draw:name="Obraz2" text:anchor-type="paragraph" svg:y="-0.079cm" svg:width="25.7cm" svg:height="12.412cm" draw:z-index="1"><draw:image>
+    </draw:frame><draw:frame draw:style-name="fr3" draw:name="Obraz2" text:anchor-type="paragraph" svg:y="-0.079cm" svg:width="25.7cm" svg:height="12.412cm" draw:z-index="1"><draw:image>
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAB4IAAAOgCAIAAABX1iyJAAgQvElEQVR4nOzdCYAkVXk48O8d
        dR/dM9Mzu8vlHY9EY2I0/hM1msN4H1EERFAQ5BKMiIJRExM1BuVQUY5lWVjuFRXPaKLxiEk0
        h7mjRqMJu9PLsctMX9V1vXrv/17VzOwAO2bGXcIsfI+htvpXr1+9rqunv3n9FVdKCSFoXaqq
@@ -20114,7 +21093,7 @@
        vf8/6mGyyBF/rAUAAAAASUVORK5CYII=
       </office:binary-data>
      </draw:image>
-    </draw:frame><draw:frame draw:style-name="fr2" draw:name="Obraz3" text:anchor-type="paragraph" svg:y="-0.159cm" svg:width="27.644cm" svg:height="13.351cm" draw:z-index="2"><draw:image>
+    </draw:frame><draw:frame draw:style-name="fr3" draw:name="Obraz3" text:anchor-type="paragraph" svg:y="-0.159cm" svg:width="27.644cm" svg:height="13.351cm" draw:z-index="2"><draw:image>
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAB4IAAAOgCAIAAABX1iyJAAgQvElEQVR4nOzdCYAkVXk48O8d
        dR/dM9Mzu8vlHY9EY2I0/hM1msN4H1EERFAQ5BKMiIJRExM1BuVQUY5lWVjuFRXPaKLxiEk0
        h7mjRqMJu9PLsctMX9V1vXrv/17VzOwAO2bGXcIsfI+htvpXr1+9rqunv3n9FVdKCSFoXaqq
